@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-07 10:51-0400\n"
+"POT-Creation-Date: 2020-10-09 04:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,15 +119,11 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 21
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 31
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 57
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 28
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 28
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 23
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 33
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 50
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 34
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 43
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 22
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 27
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 185
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 23
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 391
@@ -139,7 +135,6 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 64
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 77
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 83
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 204
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 75
@@ -199,15 +194,11 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 60
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 33
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 58
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 29
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 29
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 36
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 38
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 51
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 47
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 58
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 23
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 28
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 187
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 37
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 398
@@ -219,7 +210,6 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 65
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 83
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 81
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 205
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 76
@@ -268,7 +258,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 213
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 103
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 73
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 81
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 82
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 213
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 84
@@ -1705,11 +1694,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 77
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 104
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 48
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 34
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 34
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 44
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 28
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 33
 # File: module/b2c/view/b2c/air/search.phtml, line: 51
 # File: module/b2c/view/b2c/bookings/searchbooking.phtml, line: 49
 # File: module/b2c/view/b2c/packages/list.phtml, line: 7
@@ -1733,10 +1718,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 45
 # File: module/b2c/flights/b2c/index/index.phtml, line: 11
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 40
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 20
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 20
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 14
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 19
 # File: module/b2c/view/b2c/air/search.phtml, line: 25
 msgid "Roundtrip"
 msgstr ""
@@ -1744,11 +1725,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 46
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 79
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 39
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 19
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 19
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 64
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 13
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 18
 # File: module/b2c/view/b2c/air/search.phtml, line: 24
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 73
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 102
@@ -1761,10 +1738,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 47
 # File: module/b2c/flights/b2c/index/index.phtml, line: 14
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 41
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 21
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 21
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 15
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 20
 # File: module/b2c/view/b2c/air/search.phtml, line: 27
 msgid "Multi-City"
 msgstr ""
@@ -1783,11 +1756,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 68
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 72
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 76
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 23
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 23
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 19
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 17
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 22
 # File: module/b2c/view/b2c/air/search.phtml, line: 30
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 106
 msgid "Flying from"
@@ -1826,10 +1795,6 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 69
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 73
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 77
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 24
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 24
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 18
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 23
 # File: module/b2c/view/b2c/air/search.phtml, line: 31
 msgid "Flying to"
 msgstr ""
@@ -1853,15 +1818,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 74
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 78
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 110
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 26
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 39
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 26
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 39
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 27
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 20
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 33
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 25
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 38
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 223
 # File: module/b2c/view/b2c/air/search.phtml, line: 158
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 113
@@ -1877,15 +1834,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/air/search.phtml, line: 72
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 46
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 111
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 27
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 40
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 27
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 40
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 30
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 21
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 34
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 26
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 39
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 224
 # File: module/b2c/view/b2c/air/search.phtml, line: 159
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 117
@@ -1907,11 +1856,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/index/index.phtml, line: 27
 # File: module/b2c/flights/b2c/air/search.phtml, line: 138
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 30
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 30
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 62
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 24
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 29
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 190
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 407
 # File: module/b2c/view/b2c/air/search.phtml, line: 216
@@ -2340,7 +2285,6 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 206
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 86
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 74
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 84
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1114
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1116
@@ -2568,7 +2512,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 56
 # File: module/b2c/view/b2c/packages/book.phtml, line: 33
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 51
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 43
 msgid "Booking Confirmation"
 msgstr ""
 #
@@ -2582,7 +2525,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 58
 # File: module/b2c/view/b2c/packages/book.phtml, line: 35
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 53
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 45
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 69
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 40
 msgid "Instructions"
@@ -2598,7 +2540,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 58
 # File: module/b2c/view/b2c/packages/book.phtml, line: 35
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 53
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 45
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 70
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 42
 msgid "Thank you for booking with us! You will receive two emails. The first confirms that we have received your reservation and that we are processing any payments and reserving any components which may be on a request basis. When this process is complete, we will send you a second email with invoice and a final confirmation."
@@ -2612,7 +2553,6 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 45
 # File: module/b2c/view/b2c/air/book.phtml, line: 58
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 53
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 45
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 70
 msgid "Thank you for giving us the opportunity to make your travel arrangements for your trip to"
 msgstr ""
@@ -2627,7 +2567,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 58
 # File: module/b2c/view/b2c/packages/book.phtml, line: 35
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 53
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 45
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 70
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 42
 msgid "Below is important information about your trip. Please review everything carefully, especially paperwork requirements, terms & condition and payment deadlines. Please also review your invoice for accuracy. If you have any questions, please contact us as soon as possible."
@@ -2640,7 +2579,6 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 48
 # File: module/b2c/view/b2c/air/book.phtml, line: 61
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 56
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 48
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 63
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 46
 msgid "Reservation Id"
@@ -2947,7 +2885,6 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 155
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 361
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 365
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 98
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 289
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 206
 msgid "Discount"
@@ -2957,7 +2894,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 67
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 342
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 65
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 53
 msgid "Hotel info"
 msgstr ""
 #
@@ -2975,8 +2911,6 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 99
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 72
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 77
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 97
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 104
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 240
@@ -3004,8 +2938,6 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 99
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 72
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 77
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 97
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 104
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 544
@@ -3024,7 +2956,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 88
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 86
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 74
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 101
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 29
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 327
@@ -3039,7 +2970,6 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 109
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 112
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 206
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 90
 # File: module/b2c/view/b2c/booking/index.phtml, line: 343
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 221
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 109
@@ -3109,7 +3039,6 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 414
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 419
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 423
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 101
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 117
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 295
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 570
@@ -3130,7 +3059,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 271
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 186
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 184
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 114
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 241
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 457
 msgid "Guests"
@@ -3146,7 +3074,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 158
 # File: module/b2c/view/b2c/packages/book.phtml, line: 76
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 204
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 134
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 282
 msgid "Travel Insurance"
 msgstr ""
@@ -3161,7 +3088,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 158
 # File: module/b2c/view/b2c/packages/book.phtml, line: 76
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 204
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 134
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 283
 msgid "We recommend the purchase of a travel protection plan to help protect you and your travel investment against the unexpected. Even with the most meticulous planning, travel can be full of surprises. With travel protection, you can relax and enjoy your trip with some peace of mind knowing that you've got coverage in place for unforseen circumstances."
 msgstr ""
@@ -3176,7 +3102,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 158
 # File: module/b2c/view/b2c/packages/book.phtml, line: 76
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 204
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 134
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 283
 msgid "The travel protection plan we recommend may be purchased with your travel package or at any time prior to making your final payment."
 msgstr ""
@@ -3191,7 +3116,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/book.phtml, line: 162
 # File: module/b2c/view/b2c/packages/book.phtml, line: 80
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 208
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 138
 msgid "Contact Info"
 msgstr ""
 #
@@ -3787,11 +3711,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 297
 # File: module/b2c/flights/b2c/air/search.phtml, line: 137
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
-# File: module/b2c/view/b2c/index/airlines.phtml, line: 30
-# File: module/b2c/view/b2c/index/airlines.old.3.phtml, line: 30
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 73
-# File: module/b2c/view/b2c/index/airlines.old.phtml, line: 24
-# File: module/b2c/view/b2c/index/airlines.old.2.phtml, line: 29
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 104
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 190
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 48
@@ -10503,10 +10423,6 @@ msgstr ""
 msgid "Hotels / Search"
 msgstr ""
 #
-# File: module/b2c/view/b2c/hotels/book.tmp.phtml, line: 94
-msgid "Total:"
-msgstr ""
-#
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 106
 msgid "This deal just got better"
 msgstr ""
@@ -11293,25 +11209,19 @@ msgid "test"
 msgstr ""
 #
 # File: public/payfort/pay.php, line: 64
-# File: public/payfort/pay.tmp.php, line: 64
 msgid "1 - Payment Failed. Please wait..."
 msgstr ""
 #
 # File: public/payfort/pay.php, line: 70
 # File: public/payfort/pay.php, line: 106
 # File: public/payfort/pay.php, line: 168
-# File: public/payfort/pay.tmp.php, line: 69
-# File: public/payfort/pay.tmp.php, line: 105
-# File: public/payfort/pay.tmp.php, line: 164
 msgid "Payment Success. Please wait..."
 msgstr ""
 #
 # File: public/payfort/pay.php, line: 141
-# File: public/payfort/pay.tmp.php, line: 140
 msgid "2 - Payment Failed. Please wait..."
 msgstr ""
 #
 # File: public/payfort/pay.php, line: 163
-# File: public/payfort/pay.tmp.php, line: 159
 msgid "3 - Payment Failed. Please wait..."
 msgstr ""
