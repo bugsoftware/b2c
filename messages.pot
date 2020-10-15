@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-15 04:42-0400\n"
+"POT-Creation-Date: 2020-10-15 08:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -348,7 +348,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 27
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 70
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 285
-# File: module/b2c/view/b2c/cars/search.phtml, line: 443
+# File: module/b2c/view/b2c/cars/search.phtml, line: 448
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 273
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 342
@@ -483,7 +483,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
 # File: module/b2c/flights/b2c/air/search.phtml, line: 583
 # File: module/b2c/view/b2c/activities/results.phtml, line: 350
-# File: module/b2c/view/b2c/cars/search.phtml, line: 315
+# File: module/b2c/view/b2c/cars/search.phtml, line: 320
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 155
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 277
@@ -507,7 +507,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
 # File: module/b2c/flights/b2c/air/search.phtml, line: 583
 # File: module/b2c/view/b2c/activities/results.phtml, line: 350
-# File: module/b2c/view/b2c/cars/search.phtml, line: 315
+# File: module/b2c/view/b2c/cars/search.phtml, line: 320
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 155
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 277
@@ -1637,8 +1637,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 11
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 105
 # File: module/b2c/view/b2c/cars/search.phtml, line: 10
-# File: module/b2c/view/b2c/cars/search.phtml, line: 397
-# File: module/b2c/view/b2c/cars/search.phtml, line: 399
+# File: module/b2c/view/b2c/cars/search.phtml, line: 402
+# File: module/b2c/view/b2c/cars/search.phtml, line: 404
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 7
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 81
 msgid "Pick-up Date"
@@ -1654,8 +1654,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 43
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 106
 # File: module/b2c/view/b2c/cars/search.phtml, line: 53
-# File: module/b2c/view/b2c/cars/search.phtml, line: 398
-# File: module/b2c/view/b2c/cars/search.phtml, line: 400
+# File: module/b2c/view/b2c/cars/search.phtml, line: 403
+# File: module/b2c/view/b2c/cars/search.phtml, line: 405
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 35
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 82
 msgid "Drop-off Date"
@@ -3284,8 +3284,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 94
 # File: module/b2c/flights/b2c/air/search.phtml, line: 191
-# File: module/b2c/view/b2c/cars/search.phtml, line: 293
-# File: module/b2c/view/b2c/cars/search.phtml, line: 307
+# File: module/b2c/view/b2c/cars/search.phtml, line: 298
+# File: module/b2c/view/b2c/cars/search.phtml, line: 312
 msgid "Details"
 msgstr ""
 #
@@ -8678,8 +8678,8 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 89
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 103
-# File: module/b2c/view/b2c/cars/search.phtml, line: 293
-# File: module/b2c/view/b2c/cars/search.phtml, line: 307
+# File: module/b2c/view/b2c/cars/search.phtml, line: 298
+# File: module/b2c/view/b2c/cars/search.phtml, line: 312
 msgid "payable at the rental location"
 msgstr ""
 #
@@ -8766,6 +8766,10 @@ msgid "daily"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/search.phtml, line: 281
+msgid "Taxes & Fees payable at pick up:"
+msgstr ""
+#
+# File: module/b2c/view/b2c/cars/search.phtml, line: 286
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 141
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 183
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 220
@@ -8790,7 +8794,7 @@ msgstr ""
 msgid "BOOK"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 315
+# File: module/b2c/view/b2c/cars/search.phtml, line: 320
 msgid "No results available, try clearing some filters to see more availability."
 msgstr ""
 #
