@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-14 09:41-0400\n"
+"POT-Creation-Date: 2020-10-15 04:42-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7797,27 +7797,27 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/admin/logo.phtml, line: 112
 # File: module/b2c/view/b2c/admin/logo.phtml, line: 125
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 176
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 189
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 175
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 188
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 182
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 195
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 181
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 194
 # File: module/b2c/view/b2c/admin/searchpreloader.phtml, line: 175
 # File: module/b2c/view/b2c/admin/searchpreloader.phtml, line: 188
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 176
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 189
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 182
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 195
 msgid "Error"
 msgstr ""
 #
 # File: module/b2c/view/b2c/admin/logo.phtml, line: 113
 # File: module/b2c/view/b2c/admin/logo.phtml, line: 126
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 177
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 190
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 176
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 189
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 183
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 196
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 182
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 195
 # File: module/b2c/view/b2c/admin/searchpreloader.phtml, line: 176
 # File: module/b2c/view/b2c/admin/searchpreloader.phtml, line: 189
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 177
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 190
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 183
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 196
 msgid "File Upload Failed"
 msgstr ""
 #
@@ -7957,22 +7957,28 @@ msgstr ""
 msgid "No image available"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 43
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 42
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 42
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 41
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 42
+msgid "Background folder not available. Please install it."
+msgstr ""
+#
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 48
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 47
 # File: module/b2c/view/b2c/admin/searchpreloader.phtml, line: 42
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 43
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 48
 msgid "Select existing image"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 69
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 75
 msgid "Add Parallax Footer"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 71
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 77
 msgid "Update Parallax Footer"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 221
+# File: module/b2c/view/b2c/admin/parallaxfooter.phtml, line: 227
 msgid "Please enter parallax footer"
 msgstr ""
 #
@@ -8284,15 +8290,15 @@ msgstr ""
 msgid "Search Background"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 68
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 74
 msgid "Add Background"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 70
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 76
 msgid "Update Background"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 220
+# File: module/b2c/view/b2c/admin/searchbackground.phtml, line: 226
 msgid "Please enter searchbackground"
 msgstr ""
 #
@@ -8448,15 +8454,15 @@ msgstr ""
 msgid "Search Parallax Main"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 69
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 75
 msgid "Add Parallax Main"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 71
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 77
 msgid "Update Parallax Main"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 221
+# File: module/b2c/view/b2c/admin/parallaxmain.phtml, line: 227
 msgid "Please enter parallax main"
 msgstr ""
 #
