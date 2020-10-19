@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-19 13:36-0400\n"
+"POT-Creation-Date: 2020-10-19 15:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7089,7 +7089,7 @@ msgid "Activity for"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 362
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 236
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 235
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 31
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 214
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 246
@@ -7101,7 +7101,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 365
 # File: module/b2c/view/b2c/cruises/passengers.phtml, line: 108
 # File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 64
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 237
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 236
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 218
 msgid "Continue"
 msgstr ""
@@ -10530,7 +10530,7 @@ msgstr ""
 msgid "Best Price Guarantee"
 msgstr ""
 #
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 234
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 233
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 209
 msgid "Other"
 msgstr ""
