@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-17 10:15-0400\n"
+"POT-Creation-Date: 2020-10-19 08:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -348,7 +348,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 27
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 70
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 285
-# File: module/b2c/view/b2c/cars/search.phtml, line: 448
+# File: module/b2c/view/b2c/cars/search.phtml, line: 449
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 273
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 342
@@ -483,7 +483,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
 # File: module/b2c/flights/b2c/air/search.phtml, line: 583
 # File: module/b2c/view/b2c/activities/results.phtml, line: 350
-# File: module/b2c/view/b2c/cars/search.phtml, line: 320
+# File: module/b2c/view/b2c/cars/search.phtml, line: 321
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 155
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 277
@@ -507,7 +507,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
 # File: module/b2c/flights/b2c/air/search.phtml, line: 583
 # File: module/b2c/view/b2c/activities/results.phtml, line: 350
-# File: module/b2c/view/b2c/cars/search.phtml, line: 320
+# File: module/b2c/view/b2c/cars/search.phtml, line: 321
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 155
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 277
@@ -1637,8 +1637,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 11
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 105
 # File: module/b2c/view/b2c/cars/search.phtml, line: 10
-# File: module/b2c/view/b2c/cars/search.phtml, line: 402
-# File: module/b2c/view/b2c/cars/search.phtml, line: 404
+# File: module/b2c/view/b2c/cars/search.phtml, line: 403
+# File: module/b2c/view/b2c/cars/search.phtml, line: 405
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 7
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 81
 msgid "Pick-up Date"
@@ -1654,8 +1654,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 43
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 106
 # File: module/b2c/view/b2c/cars/search.phtml, line: 53
-# File: module/b2c/view/b2c/cars/search.phtml, line: 403
-# File: module/b2c/view/b2c/cars/search.phtml, line: 405
+# File: module/b2c/view/b2c/cars/search.phtml, line: 404
+# File: module/b2c/view/b2c/cars/search.phtml, line: 406
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 35
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 82
 msgid "Drop-off Date"
@@ -3284,8 +3284,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 94
 # File: module/b2c/flights/b2c/air/search.phtml, line: 191
-# File: module/b2c/view/b2c/cars/search.phtml, line: 298
-# File: module/b2c/view/b2c/cars/search.phtml, line: 312
+# File: module/b2c/view/b2c/cars/search.phtml, line: 299
+# File: module/b2c/view/b2c/cars/search.phtml, line: 313
 msgid "Details"
 msgstr ""
 #
@@ -5707,7 +5707,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 81
 # File: module/b2c/flights/b2c/air/search.phtml, line: 35
 # File: module/b2c/view/b2c/activities/results.phtml, line: 323
-# File: module/b2c/view/b2c/cars/search.phtml, line: 238
+# File: module/b2c/view/b2c/cars/search.phtml, line: 239
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 141
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 106
 # File: module/b2c/view/b2c/air/search.phtml, line: 79
@@ -6829,7 +6829,7 @@ msgid "Filters"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/results.phtml, line: 296
-# File: module/b2c/view/b2c/cars/search.phtml, line: 210
+# File: module/b2c/view/b2c/cars/search.phtml, line: 211
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 109
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 134
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 144
@@ -6845,7 +6845,7 @@ msgid "From:"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/results.phtml, line: 296
-# File: module/b2c/view/b2c/cars/search.phtml, line: 211
+# File: module/b2c/view/b2c/cars/search.phtml, line: 212
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 110
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 135
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 145
@@ -6924,7 +6924,7 @@ msgid "Low"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/results.phtml, line: 323
-# File: module/b2c/view/b2c/cars/search.phtml, line: 238
+# File: module/b2c/view/b2c/cars/search.phtml, line: 239
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 142
 # File: module/b2c/view/b2c/packages/list.phtml, line: 63
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 396
@@ -6938,7 +6938,7 @@ msgid "Ascending"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/results.phtml, line: 323
-# File: module/b2c/view/b2c/cars/search.phtml, line: 238
+# File: module/b2c/view/b2c/cars/search.phtml, line: 239
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 143
 # File: module/b2c/view/b2c/packages/list.phtml, line: 63
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 396
@@ -7604,7 +7604,7 @@ msgstr ""
 # File: module/b2c/view/b2c/admin/contacts.phtml, line: 35
 # File: module/b2c/view/b2c/admin/content_edit.phtml, line: 11
 # File: module/b2c/view/b2c/admin/advancedsettings_add.phtml, line: 11
-# File: module/b2c/view/b2c/cars/search.phtml, line: 235
+# File: module/b2c/view/b2c/cars/search.phtml, line: 236
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 134
 # File: module/b2c/view/b2c/bookings/properties.phtml, line: 20
 # File: module/b2c/view/b2c/bookings/agents.phtml, line: 20
@@ -8482,7 +8482,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 55
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 142
-# File: module/b2c/view/b2c/cars/search.phtml, line: 264
+# File: module/b2c/view/b2c/cars/search.phtml, line: 265
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 235
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 122
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 164
@@ -8494,8 +8494,8 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 59
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 146
-# File: module/b2c/view/b2c/cars/search.phtml, line: 194
-# File: module/b2c/view/b2c/cars/search.phtml, line: 268
+# File: module/b2c/view/b2c/cars/search.phtml, line: 195
+# File: module/b2c/view/b2c/cars/search.phtml, line: 269
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 178
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 180
@@ -8516,7 +8516,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 60
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 147
-# File: module/b2c/view/b2c/cars/search.phtml, line: 268
+# File: module/b2c/view/b2c/cars/search.phtml, line: 269
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 127
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 169
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 207
@@ -8527,7 +8527,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 61
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 148
-# File: module/b2c/view/b2c/cars/search.phtml, line: 268
+# File: module/b2c/view/b2c/cars/search.phtml, line: 269
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 242
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 127
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 169
@@ -8539,13 +8539,13 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 62
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 149
-# File: module/b2c/view/b2c/cars/search.phtml, line: 268
+# File: module/b2c/view/b2c/cars/search.phtml, line: 269
 msgid "Transmission"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 63
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 150
-# File: module/b2c/view/b2c/cars/search.phtml, line: 268
+# File: module/b2c/view/b2c/cars/search.phtml, line: 269
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 244
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 167
 msgid "Air Conditioning"
@@ -8553,7 +8553,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 67
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 154
-# File: module/b2c/view/b2c/cars/search.phtml, line: 272
+# File: module/b2c/view/b2c/cars/search.phtml, line: 273
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 248
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 132
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 174
@@ -8576,13 +8576,13 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 70
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 157
-# File: module/b2c/view/b2c/cars/search.phtml, line: 275
+# File: module/b2c/view/b2c/cars/search.phtml, line: 276
 msgid "Status:"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/book.phtml, line: 71
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 158
-# File: module/b2c/view/b2c/cars/search.phtml, line: 274
+# File: module/b2c/view/b2c/cars/search.phtml, line: 275
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 134
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 176
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 214
@@ -8676,8 +8676,8 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 89
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 103
-# File: module/b2c/view/b2c/cars/search.phtml, line: 298
-# File: module/b2c/view/b2c/cars/search.phtml, line: 312
+# File: module/b2c/view/b2c/cars/search.phtml, line: 299
+# File: module/b2c/view/b2c/cars/search.phtml, line: 313
 msgid "payable at the rental location"
 msgstr ""
 #
@@ -8729,15 +8729,15 @@ msgstr ""
 msgid "Car Type"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 207
+# File: module/b2c/view/b2c/cars/search.phtml, line: 208
 msgid "Price Per Day"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 231
+# File: module/b2c/view/b2c/cars/search.phtml, line: 232
 msgid "Cars in"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 235
+# File: module/b2c/view/b2c/cars/search.phtml, line: 236
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 135
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 396
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 267
@@ -8746,7 +8746,7 @@ msgstr ""
 msgid "A to Z"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 235
+# File: module/b2c/view/b2c/cars/search.phtml, line: 236
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 136
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 396
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 267
@@ -8755,7 +8755,7 @@ msgstr ""
 msgid "Z to A"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 263
+# File: module/b2c/view/b2c/cars/search.phtml, line: 264
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 120
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 162
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 200
@@ -8763,11 +8763,11 @@ msgstr ""
 msgid "daily"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 281
+# File: module/b2c/view/b2c/cars/search.phtml, line: 282
 msgid "Taxes & Fees payable at pick up:"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 286
+# File: module/b2c/view/b2c/cars/search.phtml, line: 287
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 141
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 183
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 220
@@ -8792,7 +8792,7 @@ msgstr ""
 msgid "BOOK"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/search.phtml, line: 320
+# File: module/b2c/view/b2c/cars/search.phtml, line: 321
 msgid "No results available, try clearing some filters to see more availability."
 msgstr ""
 #
