@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-20 08:51-0400\n"
+"POT-Creation-Date: 2020-10-20 09:27-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8866,7 +8866,7 @@ msgstr ""
 msgid "Arrival"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/book.phtml, line: 179
+# File: module/b2c/view/b2c/cruises/book.phtml, line: 180
 msgid "Passenger limit for cabin exceeded"
 msgstr ""
 #
