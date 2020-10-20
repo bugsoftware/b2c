@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-20 04:34-0400\n"
+"POT-Creation-Date: 2020-10-20 08:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7438,7 +7438,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/tours/index.phtml, line: 104
 # File: module/b2c/view/b2c/cruises/cabins.phtml, line: 73
-# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 45
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 48
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 246
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 466
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1144
@@ -8875,7 +8875,7 @@ msgid "Guarantee"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/cabins.phtml, line: 19
-# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 36
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 39
 msgid "Deck"
 msgstr ""
 #
@@ -9173,19 +9173,23 @@ msgstr ""
 msgid "Adult(s)"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 23
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 26
 msgid "Choose a Cabin"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 27
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 30
 msgid "Select your cabin"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 35
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 38
 msgid "Cabin"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 69
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 53
+msgid "Max Occupancy:"
+msgstr ""
+#
+# File: module/b2c/view/b2c/cruises/cabin.phtml, line: 80
 msgid "Cabin Number"
 msgstr ""
 #
