@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-21 06:25-0400\n"
+"POT-Creation-Date: 2020-10-21 07:49-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -349,7 +349,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 70
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 285
 # File: module/b2c/view/b2c/cars/search.phtml, line: 450
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 273
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 282
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 342
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 359
@@ -5546,6 +5546,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 239
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 4
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 276
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 260
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 485
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 5
@@ -5554,6 +5555,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 240
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 5
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 277
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 261
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 486
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 6
@@ -5562,6 +5564,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 241
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 6
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 278
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 262
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 487
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 7
@@ -5570,6 +5573,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 242
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 7
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 279
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 263
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 488
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 8
@@ -6961,14 +6965,14 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 9
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 287
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 275
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 284
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 17
 msgid "Invalid coupon code."
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 10
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 288
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 276
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 285
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 18
 msgid "This coupon code can only be used with a minimum spend of"
 msgstr ""
@@ -8986,6 +8990,26 @@ msgid "Cruise Total"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 270
+msgid "First Name is required. Please input first name."
+msgstr ""
+#
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 271
+msgid "Last Name is required. Please input last name."
+msgstr ""
+#
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 272
+msgid "Email is required. Please input email address."
+msgstr ""
+#
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 273
+msgid "Address is required. Please input address."
+msgstr ""
+#
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 274
+msgid "Phone is required. Please input phone number."
+msgstr ""
+#
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 275
 msgid "Please select your dining option."
 msgstr ""
 #
