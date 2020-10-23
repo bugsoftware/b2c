@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-23 05:44-0400\n"
+"POT-Creation-Date: 2020-10-23 05:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 376
 # File: module/b2c/costamar/layout/layout.phtml, line: 208
 # File: module/b2c/costamar/layout/layout.phtml, line: 226
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 259
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 260
 # File: module/b2c/flights/b2c/air/search.phtml, line: 135
 # File: module/b2c/view/b2c/activities/results.phtml, line: 16
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 17
@@ -339,8 +339,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 101
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 342
 # File: module/b2c/costamar/b2c/booking/pay.phtml, line: 482
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 872
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 879
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 916
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 923
 # File: module/b2c/flights/b2c/air/search.phtml, line: 73
 # File: module/b2c/view/b2c/activities/results.phtml, line: 26
 # File: module/b2c/view/b2c/activities/searching.phtml, line: 129
@@ -825,7 +825,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 190
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 152
 # File: module/b2c/costamar/b2c/booking/pay.phtml, line: 114
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 563
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 564
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 390
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 704
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 129
@@ -843,7 +843,7 @@ msgid "COMPLETE BOOKING"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 461
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 621
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 622
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 763
 msgid "PLEASE WAIT..."
 msgstr ""
@@ -865,7 +865,7 @@ msgid "Promotions"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/coupons.phtml, line: 6
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 340
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 341
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 155
 msgid "Do you have a Coupon/Promotion Code?"
 msgstr ""
@@ -898,9 +898,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 66
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 82
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 118
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 227
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 264
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 302
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 228
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 265
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 303
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 307
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 346
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 361
@@ -945,9 +945,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 84
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 411
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 120
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 227
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 264
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 302
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 228
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 265
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 303
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 304
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 343
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 358
@@ -992,9 +992,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 85
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 411
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 121
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 227
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 264
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 302
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 228
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 265
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 303
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 305
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 344
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 359
@@ -1038,9 +1038,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 66
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 74
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 124
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 228
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 265
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 303
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 229
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 266
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 304
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 309
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 77
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 20
@@ -1075,9 +1075,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 67
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 75
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 125
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 229
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 266
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 304
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 230
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 267
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 305
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 310
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 78
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 21
@@ -1137,9 +1137,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 22
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 75
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 127
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 254
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 292
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 330
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 255
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 293
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 331
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 326
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 80
 # File: module/b2c/view/b2c/admin/contacts.phtml, line: 40
@@ -1449,9 +1449,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 161
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 78
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 74
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 253
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 291
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 329
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 254
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 292
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 330
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 79
 # File: module/b2c/view/b2c/admin/contacts.phtml, line: 39
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 76
@@ -2614,8 +2614,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 327
 # File: module/b2c/flights/b2c/air/book.phtml, line: 111
 # File: module/b2c/flights/b2c/air/book.phtml, line: 123
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 440
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 481
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 441
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 482
 # File: module/b2c/view/b2c/air/book.phtml, line: 107
 # File: module/b2c/view/b2c/air/book.phtml, line: 119
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 141
@@ -2649,8 +2649,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 328
 # File: module/b2c/flights/b2c/air/book.phtml, line: 112
 # File: module/b2c/flights/b2c/air/book.phtml, line: 124
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 444
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 485
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 445
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 486
 # File: module/b2c/view/b2c/air/book.phtml, line: 108
 # File: module/b2c/view/b2c/air/book.phtml, line: 120
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 142
@@ -2689,8 +2689,8 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 177
 # File: module/b2c/flights/b2c/air/book.phtml, line: 113
 # File: module/b2c/flights/b2c/air/book.phtml, line: 125
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 450
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 491
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 451
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 492
 # File: module/b2c/flights/b2c/air/search.phtml, line: 118
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 6
 # File: module/b2c/view/b2c/charters/index.phtml, line: 31
@@ -2770,7 +2770,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 134
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 229
 # File: module/b2c/flights/b2c/air/book.phtml, line: 134
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 410
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 411
 # File: module/b2c/view/b2c/air/book.phtml, line: 130
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 163
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 157
@@ -3129,7 +3129,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 10
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 211
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 394
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 395
 msgid "Finish Reservation"
 msgstr ""
 #
@@ -3429,9 +3429,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 58
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 94
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 130
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 222
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 259
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 297
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 223
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 260
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 298
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 66
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 86
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 104
@@ -3440,24 +3440,25 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 100
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 59
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 222
 msgid "Passport number is invalid. Please input the correct passport number."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 106
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 143
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 180
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 228
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 265
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 303
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 229
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 266
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 304
 msgid "Enter guest's First Name"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 107
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 144
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 181
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 229
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 266
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 304
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 230
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 267
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 305
 msgid "Enter guest's Last Name"
 msgstr ""
 #
@@ -3467,9 +3468,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 67
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 102
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 138
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 230
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 267
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 305
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 231
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 268
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 306
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 79
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 99
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 70
@@ -3499,9 +3500,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 108
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 145
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 182
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 230
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 267
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 305
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 231
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 268
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 306
 msgid "Enter guest's birth date"
 msgstr ""
 #
@@ -3517,12 +3518,12 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 106
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 140
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 142
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 232
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 234
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 269
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 271
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 307
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 309
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 233
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 235
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 270
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 272
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 308
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 310
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 71
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 91
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 109
@@ -3539,9 +3540,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 106
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 142
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 110
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 234
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 271
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 309
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 235
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 272
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 310
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 71
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 91
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 109
@@ -3566,9 +3567,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 75
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 111
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 147
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 238
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 276
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 314
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 239
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 277
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 315
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 72
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 92
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 110
@@ -3596,15 +3597,15 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 149
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 153
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 155
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 240
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 244
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 246
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 278
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 282
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 284
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 316
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 320
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 322
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 241
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 245
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 247
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 279
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 283
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 285
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 317
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 321
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 323
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 80
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 100
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 73
@@ -3623,9 +3624,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 122
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 158
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 114
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 249
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 287
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 325
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 250
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 288
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 326
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 74
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 94
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 112
@@ -3641,9 +3642,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 86
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 122
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 158
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 249
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 287
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 325
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 250
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 288
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 326
 msgid "Enter document number"
 msgstr ""
 #
@@ -3653,9 +3654,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 87
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 123
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 159
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 250
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 288
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 326
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 251
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 289
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 327
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 75
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 95
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 113
@@ -3671,9 +3672,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 87
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 123
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 159
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 250
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 288
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 326
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 251
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 289
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 327
 msgid "Enter document expiry date"
 msgstr ""
 #
@@ -3681,30 +3682,30 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 88
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 124
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 160
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 252
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 290
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 328
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 253
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 291
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 329
 msgid "Frequent Flyer Number"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 131
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 252
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 290
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 328
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 253
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 291
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 329
 msgid "Enter guest's frequent flyer number"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 132
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 253
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 291
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 329
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 254
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 292
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 330
 msgid "Enter guest's phone number"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 133
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 254
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 292
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 330
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 255
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 293
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 331
 msgid "Enter guest's email address"
 msgstr ""
 #
@@ -3715,7 +3716,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 167
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 793
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 801
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 297
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 298
 # File: module/b2c/flights/b2c/air/search.phtml, line: 137
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 73
@@ -3763,7 +3764,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 246
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 186
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 148
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 390
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 391
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 127
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 136
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 128
@@ -3788,7 +3789,7 @@ msgid "Flight Time:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 314
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 468
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 469
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 22
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 20
 # File: module/b2c/view/b2c/air/calendar.phtml, line: 398
@@ -3820,7 +3821,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 411
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 309
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 226
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 512
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 513
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 247
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 456
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
@@ -3884,9 +3885,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 107
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 143
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 111
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 234
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 272
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 310
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 235
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 273
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 311
 msgid "National Identity Card"
 msgstr ""
 #
@@ -3913,7 +3914,7 @@ msgid "Please accept the terms and conditions"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 204
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 421
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 422
 msgid "Flight Details"
 msgstr ""
 #
@@ -3937,7 +3938,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 257
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 169
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 809
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 412
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 413
 # File: module/b2c/flights/b2c/air/search.phtml, line: 139
 # File: module/b2c/view/b2c/charters/index.phtml, line: 56
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 192
@@ -5530,7 +5531,7 @@ msgid "Please note, if you are booking a Non-Refundable booking, all Non-Refunda
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 141
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 381
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 382
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 123
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 123
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 235
@@ -6142,7 +6143,7 @@ msgid "Credit Card Information"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 70
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 407
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 408
 # File: module/b2c/view/b2c/booking/index.phtml, line: 67
 msgid "Payment Details"
 msgstr ""
@@ -6688,26 +6689,26 @@ msgstr ""
 msgid "Pay at any agency or agent of"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 339
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 340
 msgid "Coupons / Promotions / Gift Cards"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 341
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 342
 msgid "Enter your coupon / promotion code here"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 383
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 384
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 123
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 176
 msgid "We will forward any special requests or information that you would like sent upon confirmation of this reservation. Special requests are not guaranteed."
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 415
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 416
 msgid "TOTAL"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 453
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 494
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 454
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 495
 msgid "Class:"
 msgstr ""
 #
