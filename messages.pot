@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-27 07:37-0400\n"
+"POT-Creation-Date: 2020-10-27 08:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -102,7 +102,7 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 208
 # File: module/b2c/costamar/layout/layout.phtml, line: 226
 # File: module/b2c/flights/b2c/index/index.phtml, line: 25
-# File: module/b2c/flights/b2c/air/search.phtml, line: 134
+# File: module/b2c/flights/b2c/air/search.phtml, line: 138
 # File: module/b2c/view/b2c/activities/results.phtml, line: 14
 # File: module/b2c/view/b2c/activities/results.phtml, line: 254
 # File: module/b2c/view/b2c/activities/results.phtml, line: 264
@@ -178,7 +178,7 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 208
 # File: module/b2c/costamar/layout/layout.phtml, line: 226
 # File: module/b2c/flights/b2c/index/index.phtml, line: 26
-# File: module/b2c/flights/b2c/air/search.phtml, line: 136
+# File: module/b2c/flights/b2c/air/search.phtml, line: 140
 # File: module/b2c/view/b2c/activities/results.phtml, line: 15
 # File: module/b2c/view/b2c/activities/results.phtml, line: 268
 # File: module/b2c/view/b2c/activities/results.phtml, line: 271
@@ -242,7 +242,7 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 208
 # File: module/b2c/costamar/layout/layout.phtml, line: 226
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 260
-# File: module/b2c/flights/b2c/air/search.phtml, line: 135
+# File: module/b2c/flights/b2c/air/search.phtml, line: 139
 # File: module/b2c/view/b2c/activities/results.phtml, line: 16
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 17
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 602
@@ -341,7 +341,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/pay.phtml, line: 482
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 916
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 923
-# File: module/b2c/flights/b2c/air/search.phtml, line: 73
+# File: module/b2c/flights/b2c/air/search.phtml, line: 77
 # File: module/b2c/view/b2c/activities/results.phtml, line: 26
 # File: module/b2c/view/b2c/activities/searching.phtml, line: 129
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 3
@@ -366,10 +366,10 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_preloader_cruises.phtml, line: 63
 # File: module/b2c/view/b2c/index/index_preloader_packages.phtml, line: 63
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 265
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 429
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 437
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 451
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 459
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 472
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 480
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 494
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 502
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 225
 # File: module/b2c/view/b2c/air/search.phtml, line: 160
 # File: module/b2c/view/b2c/air/search.phtml, line: 194
@@ -402,7 +402,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 118
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 143
-# File: module/b2c/flights/b2c/air/search.phtml, line: 116
+# File: module/b2c/flights/b2c/air/search.phtml, line: 120
 # File: module/b2c/view/b2c/activities/results.phtml, line: 165
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 414
 # File: module/b2c/view/b2c/charters/index.phtml, line: 48
@@ -474,14 +474,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 253
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 257
 # File: module/b2c/flights/b2c/index/index.phtml, line: 7
-# File: module/b2c/flights/b2c/air/search.phtml, line: 51
+# File: module/b2c/flights/b2c/air/search.phtml, line: 55
 # File: module/b2c/view/layout/admin.phtml, line: 86
 msgid "Loading..."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 355
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
-# File: module/b2c/flights/b2c/air/search.phtml, line: 583
+# File: module/b2c/flights/b2c/air/search.phtml, line: 586
 # File: module/b2c/view/b2c/activities/results.phtml, line: 350
 # File: module/b2c/view/b2c/cars/search.phtml, line: 322
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
@@ -505,7 +505,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 355
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
-# File: module/b2c/flights/b2c/air/search.phtml, line: 583
+# File: module/b2c/flights/b2c/air/search.phtml, line: 586
 # File: module/b2c/view/b2c/activities/results.phtml, line: 350
 # File: module/b2c/view/b2c/cars/search.phtml, line: 322
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
@@ -550,7 +550,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 551
 # File: module/b2c/costamar/b2c/booking/pay.phtml, line: 376
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 937
-# File: module/b2c/flights/b2c/air/search.phtml, line: 192
+# File: module/b2c/flights/b2c/air/search.phtml, line: 196
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 712
 msgid "Close"
 msgstr ""
@@ -1424,7 +1424,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 625
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 988
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 991
-# File: module/b2c/flights/b2c/air/search.phtml, line: 78
+# File: module/b2c/flights/b2c/air/search.phtml, line: 82
 # File: module/b2c/view/b2c/cruises/index.phtml, line: 306
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 50
 msgid "Next"
@@ -1811,7 +1811,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 111
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1427
 # File: module/b2c/flights/b2c/index/index.phtml, line: 23
-# File: module/b2c/flights/b2c/air/search.phtml, line: 71
+# File: module/b2c/flights/b2c/air/search.phtml, line: 29
+# File: module/b2c/flights/b2c/air/search.phtml, line: 75
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 45
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 66
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 70
@@ -1831,7 +1832,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 112
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1428
 # File: module/b2c/flights/b2c/index/index.phtml, line: 24
-# File: module/b2c/flights/b2c/air/search.phtml, line: 72
+# File: module/b2c/flights/b2c/air/search.phtml, line: 30
+# File: module/b2c/flights/b2c/air/search.phtml, line: 76
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 46
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 111
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 30
@@ -1854,7 +1856,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 796
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 804
 # File: module/b2c/flights/b2c/index/index.phtml, line: 27
-# File: module/b2c/flights/b2c/air/search.phtml, line: 138
+# File: module/b2c/flights/b2c/air/search.phtml, line: 142
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 62
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 191
@@ -1884,7 +1886,7 @@ msgid "Code"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 242
-# File: module/b2c/flights/b2c/air/search.phtml, line: 43
+# File: module/b2c/flights/b2c/air/search.phtml, line: 47
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 88
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 76
 # File: module/b2c/view/b2c/air/search.phtml, line: 42
@@ -2228,7 +2230,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 96
 # File: module/b2c/costamar/layout/layout.phtml, line: 45
-# File: module/b2c/flights/b2c/air/search.phtml, line: 66
+# File: module/b2c/flights/b2c/air/search.phtml, line: 70
 # File: module/b2c/view/b2c/activities/searching.phtml, line: 45
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 619
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 37
@@ -2691,7 +2693,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/air/book.phtml, line: 125
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 451
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 492
-# File: module/b2c/flights/b2c/air/search.phtml, line: 118
+# File: module/b2c/flights/b2c/air/search.phtml, line: 122
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 6
 # File: module/b2c/view/b2c/charters/index.phtml, line: 31
 # File: module/b2c/view/b2c/charters/index.phtml, line: 34
@@ -2871,7 +2873,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 177
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 157
 # File: module/b2c/flights/b2c/air/book.phtml, line: 145
-# File: module/b2c/flights/b2c/air/search.phtml, line: 146
+# File: module/b2c/flights/b2c/air/search.phtml, line: 150
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 449
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 453
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 230
@@ -3009,7 +3011,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 628
 # File: module/b2c/costamar/b2c/booking/cancel.phtml, line: 22
 # File: module/b2c/flights/b2c/air/book.phtml, line: 158
-# File: module/b2c/flights/b2c/air/search.phtml, line: 74
+# File: module/b2c/flights/b2c/air/search.phtml, line: 78
 # File: module/b2c/view/b2c/activities/confirm.phtml, line: 40
 # File: module/b2c/view/b2c/activities/confirm.phtml, line: 46
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 421
@@ -3203,7 +3205,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 96
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 154
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 290
-# File: module/b2c/flights/b2c/air/search.phtml, line: 124
+# File: module/b2c/flights/b2c/air/search.phtml, line: 128
 # File: module/b2c/view/b2c/tours/index.phtml, line: 97
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 113
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 148
@@ -3285,7 +3287,7 @@ msgid "Remove Item"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 94
-# File: module/b2c/flights/b2c/air/search.phtml, line: 191
+# File: module/b2c/flights/b2c/air/search.phtml, line: 195
 # File: module/b2c/view/b2c/cars/search.phtml, line: 300
 # File: module/b2c/view/b2c/cars/search.phtml, line: 314
 msgid "Details"
@@ -3441,7 +3443,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 100
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 59
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 222
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 60
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 62
 msgid "Passport number is invalid. Please input the correct passport number."
 msgstr ""
 #
@@ -3718,7 +3720,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 793
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 801
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 298
-# File: module/b2c/flights/b2c/air/search.phtml, line: 137
+# File: module/b2c/flights/b2c/air/search.phtml, line: 141
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 73
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 105
@@ -3925,7 +3927,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 62
 # File: module/b2c/costamar/layout/layout.phtml, line: 208
 # File: module/b2c/costamar/layout/layout.phtml, line: 226
-# File: module/b2c/flights/b2c/air/search.phtml, line: 133
+# File: module/b2c/flights/b2c/air/search.phtml, line: 137
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 178
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 186
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
@@ -3940,7 +3942,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 169
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 809
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 413
-# File: module/b2c/flights/b2c/air/search.phtml, line: 139
+# File: module/b2c/flights/b2c/air/search.phtml, line: 143
 # File: module/b2c/view/b2c/charters/index.phtml, line: 56
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 193
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 411
@@ -3968,7 +3970,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 279
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 170
-# File: module/b2c/flights/b2c/air/search.phtml, line: 140
+# File: module/b2c/flights/b2c/air/search.phtml, line: 144
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 212
 # File: module/b2c/view/b2c/air/search.phtml, line: 218
 msgid "Commission"
@@ -4044,7 +4046,7 @@ msgid "One way"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 103
-# File: module/b2c/flights/b2c/air/search.phtml, line: 583
+# File: module/b2c/flights/b2c/air/search.phtml, line: 586
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
 # File: module/b2c/view/b2c/air/search.phtml, line: 149
 msgid "No air fares shown, try clearing some filters to see more availability."
@@ -4067,19 +4069,19 @@ msgid "Booking lead time lead time not met. Please call reservations support."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 110
-# File: module/b2c/flights/b2c/air/search.phtml, line: 70
+# File: module/b2c/flights/b2c/air/search.phtml, line: 74
 # File: module/b2c/view/b2c/air/search.phtml, line: 157
 msgid "Tax recovery & booking fee"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 115
-# File: module/b2c/flights/b2c/air/search.phtml, line: 81
+# File: module/b2c/flights/b2c/air/search.phtml, line: 85
 # File: module/b2c/view/b2c/air/search.phtml, line: 162
 msgid "seat(s) available"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 134
-# File: module/b2c/flights/b2c/air/search.phtml, line: 108
+# File: module/b2c/flights/b2c/air/search.phtml, line: 112
 # File: module/b2c/view/b2c/charters/index.phtml, line: 23
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 287
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 363
@@ -4088,7 +4090,7 @@ msgid "Leaves"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 135
-# File: module/b2c/flights/b2c/air/search.phtml, line: 109
+# File: module/b2c/flights/b2c/air/search.phtml, line: 113
 # File: module/b2c/view/b2c/charters/index.phtml, line: 25
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 289
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 365
@@ -4097,13 +4099,13 @@ msgid "Arrives"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 136
-# File: module/b2c/flights/b2c/air/search.phtml, line: 110
+# File: module/b2c/flights/b2c/air/search.phtml, line: 114
 # File: module/b2c/view/b2c/air/search.phtml, line: 187
 msgid "(Includes taxes)"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 137
-# File: module/b2c/flights/b2c/air/search.phtml, line: 111
+# File: module/b2c/flights/b2c/air/search.phtml, line: 115
 # File: module/b2c/view/b2c/charters/index.phtml, line: 61
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 415
 # File: module/b2c/view/b2c/air/search.phtml, line: 188
@@ -4111,7 +4113,7 @@ msgid "BUY NOW"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 139
-# File: module/b2c/flights/b2c/air/search.phtml, line: 112
+# File: module/b2c/flights/b2c/air/search.phtml, line: 116
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 422
 # File: module/b2c/view/b2c/air/search.phtml, line: 189
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 151
@@ -4120,26 +4122,26 @@ msgid "Recommended offer. Buy now! to not miss this price."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 140
-# File: module/b2c/flights/b2c/air/search.phtml, line: 99
+# File: module/b2c/flights/b2c/air/search.phtml, line: 103
 # File: module/b2c/view/b2c/air/search.phtml, line: 190
 msgid "Multiple Airlines"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 141
-# File: module/b2c/flights/b2c/air/search.phtml, line: 114
+# File: module/b2c/flights/b2c/air/search.phtml, line: 118
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 330
 # File: module/b2c/view/b2c/air/search.phtml, line: 191
 msgid "no fee up to"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 142
-# File: module/b2c/flights/b2c/air/search.phtml, line: 115
+# File: module/b2c/flights/b2c/air/search.phtml, line: 119
 # File: module/b2c/view/b2c/air/search.phtml, line: 192
 msgid "Total - Including Taxes"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 145
-# File: module/b2c/flights/b2c/air/search.phtml, line: 117
+# File: module/b2c/flights/b2c/air/search.phtml, line: 121
 # File: module/b2c/view/b2c/charters/index.phtml, line: 28
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 292
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 368
@@ -4160,7 +4162,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 149
 # File: module/b2c/costamar/b2c/booking/index.phtml, line: 329
-# File: module/b2c/flights/b2c/air/search.phtml, line: 119
+# File: module/b2c/flights/b2c/air/search.phtml, line: 123
 # File: module/b2c/view/b2c/admin/searchboxes_add.phtml, line: 16
 # File: module/b2c/view/b2c/admin/topmenu_add.phtml, line: 17
 # File: module/b2c/view/b2c/admin/searchboxes.phtml, line: 15
@@ -4176,77 +4178,77 @@ msgid "Class"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 150
-# File: module/b2c/flights/b2c/air/search.phtml, line: 120
+# File: module/b2c/flights/b2c/air/search.phtml, line: 124
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 275
 # File: module/b2c/view/b2c/air/search.phtml, line: 198
 msgid "Select your departure to"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 151
-# File: module/b2c/flights/b2c/air/search.phtml, line: 121
+# File: module/b2c/flights/b2c/air/search.phtml, line: 125
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 318
 # File: module/b2c/view/b2c/air/search.phtml, line: 199
 msgid "Flights details and baggage fees"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 152
-# File: module/b2c/flights/b2c/air/search.phtml, line: 122
+# File: module/b2c/flights/b2c/air/search.phtml, line: 126
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 320
 # File: module/b2c/view/b2c/air/search.phtml, line: 200
 msgid "Roundtrip price for 1 traveler, including taxes and fees:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 153
-# File: module/b2c/flights/b2c/air/search.phtml, line: 123
+# File: module/b2c/flights/b2c/air/search.phtml, line: 127
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 320
 # File: module/b2c/view/b2c/air/search.phtml, line: 201
 msgid "Free Cancellation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 155
-# File: module/b2c/flights/b2c/air/search.phtml, line: 125
+# File: module/b2c/flights/b2c/air/search.phtml, line: 129
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 327
 # File: module/b2c/view/b2c/air/search.phtml, line: 203
 msgid "Seats"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 156
-# File: module/b2c/flights/b2c/air/search.phtml, line: 126
+# File: module/b2c/flights/b2c/air/search.phtml, line: 130
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 327
 # File: module/b2c/view/b2c/air/search.phtml, line: 204
 msgid "Show availability"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 157
-# File: module/b2c/flights/b2c/air/search.phtml, line: 127
+# File: module/b2c/flights/b2c/air/search.phtml, line: 131
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 328
 # File: module/b2c/view/b2c/air/search.phtml, line: 205
 msgid "Bag fees"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 158
-# File: module/b2c/flights/b2c/air/search.phtml, line: 128
+# File: module/b2c/flights/b2c/air/search.phtml, line: 132
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 329
 # File: module/b2c/view/b2c/air/search.phtml, line: 206
 msgid "No fee"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 159
-# File: module/b2c/flights/b2c/air/search.phtml, line: 129
+# File: module/b2c/flights/b2c/air/search.phtml, line: 133
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 332
 # File: module/b2c/view/b2c/air/search.phtml, line: 207
 msgid "How to pay:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 160
-# File: module/b2c/flights/b2c/air/search.phtml, line: 130
+# File: module/b2c/flights/b2c/air/search.phtml, line: 134
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 334
 # File: module/b2c/view/b2c/air/search.phtml, line: 208
 msgid "Total distance:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 161
-# File: module/b2c/flights/b2c/air/search.phtml, line: 131
+# File: module/b2c/flights/b2c/air/search.phtml, line: 135
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 330
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 331
 # File: module/b2c/view/b2c/air/search.phtml, line: 209
@@ -4254,38 +4256,38 @@ msgid "checked bag:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 162
-# File: module/b2c/flights/b2c/air/search.phtml, line: 132
+# File: module/b2c/flights/b2c/air/search.phtml, line: 136
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 353
 # File: module/b2c/view/b2c/air/search.phtml, line: 210
 msgid "Select your return to"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 171
-# File: module/b2c/flights/b2c/air/search.phtml, line: 141
+# File: module/b2c/flights/b2c/air/search.phtml, line: 145
 # File: module/b2c/view/b2c/air/search.phtml, line: 219
 msgid "Discount with"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 172
-# File: module/b2c/flights/b2c/air/search.phtml, line: 142
+# File: module/b2c/flights/b2c/air/search.phtml, line: 146
 # File: module/b2c/view/b2c/air/search.phtml, line: 220
 msgid "Recommended selling price including taxes"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 173
-# File: module/b2c/flights/b2c/air/search.phtml, line: 143
+# File: module/b2c/flights/b2c/air/search.phtml, line: 147
 # File: module/b2c/view/b2c/air/search.phtml, line: 221
 msgid "Recommended selling price"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 174
-# File: module/b2c/flights/b2c/air/search.phtml, line: 144
+# File: module/b2c/flights/b2c/air/search.phtml, line: 148
 # File: module/b2c/view/b2c/air/search.phtml, line: 222
 msgid "Your commission will be"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 175
-# File: module/b2c/flights/b2c/air/search.phtml, line: 145
+# File: module/b2c/flights/b2c/air/search.phtml, line: 149
 # File: module/b2c/view/b2c/air/search.phtml, line: 223
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 120
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 142
@@ -4304,13 +4306,13 @@ msgid "This flight is operated by"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 178
-# File: module/b2c/flights/b2c/air/search.phtml, line: 147
+# File: module/b2c/flights/b2c/air/search.phtml, line: 151
 # File: module/b2c/view/b2c/air/search.phtml, line: 225
 msgid "Discounted fare price including taxes"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 225
-# File: module/b2c/flights/b2c/air/search.phtml, line: 195
+# File: module/b2c/flights/b2c/air/search.phtml, line: 199
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 90
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 245
 # File: module/b2c/view/b2c/air/search.phtml, line: 72
@@ -4319,7 +4321,7 @@ msgid "Non-Stop"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 226
-# File: module/b2c/flights/b2c/air/search.phtml, line: 196
+# File: module/b2c/flights/b2c/air/search.phtml, line: 200
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 95
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 246
 # File: module/b2c/view/b2c/air/search.phtml, line: 10
@@ -4330,8 +4332,8 @@ msgid "1 Stop"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 227
-# File: module/b2c/flights/b2c/air/search.phtml, line: 27
-# File: module/b2c/flights/b2c/air/search.phtml, line: 197
+# File: module/b2c/flights/b2c/air/search.phtml, line: 31
+# File: module/b2c/flights/b2c/air/search.phtml, line: 201
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 247
 # File: module/b2c/view/b2c/air/search.phtml, line: 269
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 494
@@ -4348,13 +4350,13 @@ msgid "We recommend these flights with"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 487
-# File: module/b2c/flights/b2c/air/search.phtml, line: 189
+# File: module/b2c/flights/b2c/air/search.phtml, line: 193
 msgid "Outbound flight"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 500
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 666
-# File: module/b2c/flights/b2c/air/search.phtml, line: 30
+# File: module/b2c/flights/b2c/air/search.phtml, line: 34
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 490
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 497
 msgid "Non Stop"
@@ -4446,7 +4448,7 @@ msgid "Baggage"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 654
-# File: module/b2c/flights/b2c/air/search.phtml, line: 190
+# File: module/b2c/flights/b2c/air/search.phtml, line: 194
 msgid "Return flight"
 msgstr ""
 #
@@ -5718,7 +5720,7 @@ msgid "Not Available"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 81
-# File: module/b2c/flights/b2c/air/search.phtml, line: 35
+# File: module/b2c/flights/b2c/air/search.phtml, line: 39
 # File: module/b2c/view/b2c/activities/results.phtml, line: 323
 # File: module/b2c/view/b2c/cars/search.phtml, line: 239
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 141
@@ -5967,7 +5969,7 @@ msgid "Average price per person"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 622
-# File: module/b2c/flights/b2c/air/search.phtml, line: 76
+# File: module/b2c/flights/b2c/air/search.phtml, line: 80
 msgid "adults"
 msgstr ""
 #
@@ -6713,37 +6715,42 @@ msgstr ""
 msgid "Class:"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 29
+# File: module/b2c/flights/b2c/air/search.phtml, line: 27
+# File: module/b2c/view/b2c/packages/confirm.phtml, line: 58
+msgid "Travel Dates"
+msgstr ""
+#
+# File: module/b2c/flights/b2c/air/search.phtml, line: 33
 msgid "All Flights"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 31
+# File: module/b2c/flights/b2c/air/search.phtml, line: 35
 msgid "1 stop"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 32
+# File: module/b2c/flights/b2c/air/search.phtml, line: 36
 msgid "2 or more stops"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 75
+# File: module/b2c/flights/b2c/air/search.phtml, line: 79
 msgid "adult"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 77
+# File: module/b2c/flights/b2c/air/search.phtml, line: 81
 msgid "Includes taxes, fees and charges"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 98
+# File: module/b2c/flights/b2c/air/search.phtml, line: 102
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 15
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 9
 msgid "Price per person"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 100
+# File: module/b2c/flights/b2c/air/search.phtml, line: 104
 msgid "All Airlines"
 msgstr ""
 #
-# File: module/b2c/flights/b2c/air/search.phtml, line: 107
+# File: module/b2c/flights/b2c/air/search.phtml, line: 111
 # File: module/b2c/view/b2c/charters/index.phtml, line: 37
 # File: module/b2c/view/b2c/air/search.phtml, line: 184
 msgid "Fare Details"
@@ -10298,10 +10305,6 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 20
 msgid "Personal information"
-msgstr ""
-#
-# File: module/b2c/view/b2c/packages/confirm.phtml, line: 58
-msgid "Travel Dates"
 msgstr ""
 #
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 65
