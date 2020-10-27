@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-27 17:11-0400\n"
+"POT-Creation-Date: 2020-10-27 18:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7475,7 +7475,7 @@ msgid "Operation days:"
 msgstr ""
 #
 # File: module/b2c/view/b2c/tours/index.phtml, line: 104
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 73
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 94
 # File: module/b2c/view/b2c/cruises/cabin.phtml, line: 52
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 246
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 466
@@ -8908,36 +8908,36 @@ msgstr ""
 msgid "Passenger limit for cabin exceeded"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 8
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 26
 msgid "Choose Cabin Category?"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 18
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 36
 msgid "Guarantee"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 19
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 37
 # File: module/b2c/view/b2c/cruises/cabin.phtml, line: 43
 msgid "Deck"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 38
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 56
 msgid "Stateroom Area:"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 41
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 59
 msgid "Veranda Area:"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 45
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 63
 msgid "Features"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 60
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 78
 msgid "Cabin Rate"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 81
+# File: module/b2c/view/b2c/cruises/cabins.phtml, line: 102
 msgid "Please note: Staterooms may vary in size and configuration from that pictured."
 msgstr ""
 #
