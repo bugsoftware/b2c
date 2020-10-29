@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-29 06:27-0400\n"
+"POT-Creation-Date: 2020-10-29 06:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1432,7 +1432,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 988
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 991
 # File: module/b2c/flights/b2c/air/search.phtml, line: 82
-# File: module/b2c/view/b2c/cruises/index.phtml, line: 306
+# File: module/b2c/view/b2c/cruises/index.phtml, line: 308
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 50
 msgid "Next"
 msgstr ""
@@ -9349,7 +9349,7 @@ msgstr ""
 msgid "Best Savings"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/index.phtml, line: 306
+# File: module/b2c/view/b2c/cruises/index.phtml, line: 308
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 50
 msgid "Back"
 msgstr ""
