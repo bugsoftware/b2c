@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-29 05:56-0400\n"
+"POT-Creation-Date: 2020-10-29 06:21-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1383,7 +1383,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
 # File: module/b2c/costamar/layout/layout.phtml, line: 666
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 149
-# File: module/b2c/view/layout/layout.phtml, line: 653
+# File: module/b2c/view/layout/layout.phtml, line: 655
 msgid "Destinations"
 msgstr ""
 #
@@ -6469,17 +6469,17 @@ msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 654
 # File: module/b2c/view/b2c/admin/social.phtml, line: 5
-# File: module/b2c/view/layout/layout.phtml, line: 651
+# File: module/b2c/view/layout/layout.phtml, line: 652
 msgid "Social"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 669
-# File: module/b2c/view/layout/layout.phtml, line: 654
+# File: module/b2c/view/layout/layout.phtml, line: 656
 msgid "All Destinations"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 682
-# File: module/b2c/view/layout/layout.phtml, line: 660
+# File: module/b2c/view/layout/layout.phtml, line: 662
 msgid "All rights reserved"
 msgstr ""
 #
@@ -11120,7 +11120,11 @@ msgstr ""
 msgid "No transfers shown, try clearing some filters to see more availability."
 msgstr ""
 #
-# File: module/b2c/view/layout/layout.phtml, line: 651
+# File: module/b2c/view/layout/layout.phtml, line: 614
+msgid "Whatsapp:"
+msgstr ""
+#
+# File: module/b2c/view/layout/layout.phtml, line: 653
 msgid "Subscribe"
 msgstr ""
 #
