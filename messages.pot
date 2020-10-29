@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-28 17:21-0400\n"
+"POT-Creation-Date: 2020-10-29 05:56-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,6 +119,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 21
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 31
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 57
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 28
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 23
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 33
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 50
@@ -194,6 +195,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 60
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 33
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 58
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 29
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 36
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 38
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 51
@@ -1699,6 +1701,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 77
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 104
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 48
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 34
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 44
 # File: module/b2c/view/b2c/air/search.phtml, line: 51
 # File: module/b2c/view/b2c/bookings/searchbooking.phtml, line: 49
@@ -1723,6 +1726,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 45
 # File: module/b2c/flights/b2c/index/index.phtml, line: 11
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 40
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 20
 # File: module/b2c/view/b2c/air/search.phtml, line: 25
 msgid "Roundtrip"
 msgstr ""
@@ -1730,6 +1734,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 46
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 79
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 39
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 19
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 64
 # File: module/b2c/view/b2c/air/search.phtml, line: 24
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 73
@@ -1743,6 +1748,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 47
 # File: module/b2c/flights/b2c/index/index.phtml, line: 14
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 41
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 21
 # File: module/b2c/view/b2c/air/search.phtml, line: 27
 msgid "Multi-City"
 msgstr ""
@@ -1761,6 +1767,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 68
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 72
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 76
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 23
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 19
 # File: module/b2c/view/b2c/air/search.phtml, line: 30
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 106
@@ -1800,6 +1807,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 69
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 73
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 77
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 24
 # File: module/b2c/view/b2c/air/search.phtml, line: 31
 msgid "Flying to"
 msgstr ""
@@ -1824,6 +1832,8 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 74
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 78
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 110
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 26
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 39
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 27
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 223
 # File: module/b2c/view/b2c/air/search.phtml, line: 158
@@ -1841,6 +1851,8 @@ msgstr ""
 # File: module/b2c/flights/b2c/air/search.phtml, line: 76
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 46
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 111
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 27
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 40
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 30
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 224
 # File: module/b2c/view/b2c/air/search.phtml, line: 159
@@ -1863,6 +1875,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/index/index.phtml, line: 27
 # File: module/b2c/flights/b2c/air/search.phtml, line: 142
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 30
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 62
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 191
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 407
@@ -3729,6 +3742,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 298
 # File: module/b2c/flights/b2c/air/search.phtml, line: 141
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 61
+# File: module/b2c/view/b2c/index/airlines.phtml, line: 30
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 73
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 105
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 191
