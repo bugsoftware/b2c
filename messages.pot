@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-01 12:16-0500\n"
+"POT-Creation-Date: 2020-11-01 14:11-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3851,7 +3851,7 @@ msgstr ""
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/content/index.phtml, line: 16
+# File: module/b2c/costamar/b2c/content/index.phtml, line: 15
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 120
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 188
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 134
