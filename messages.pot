@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-05 15:46-0500\n"
+"POT-Creation-Date: 2020-11-06 05:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -111,8 +111,8 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 110
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 437
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 593
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 195
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 203
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 200
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 48
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 59
@@ -189,7 +189,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 117
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 443
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 594
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 195
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 37
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 60
@@ -248,8 +248,8 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/results.phtml, line: 16
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 17
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 602
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 195
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 205
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 202
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 37
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 59
@@ -351,7 +351,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 70
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 285
 # File: module/b2c/view/b2c/cars/search.phtml, line: 450
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 299
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 342
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 367
@@ -831,7 +831,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 390
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 704
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 129
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 155
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 152
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 131
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 122
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 264
@@ -2458,7 +2458,7 @@ msgid "Any Departure Date"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 39
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 183
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 180
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 22
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 20
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 9
@@ -2850,7 +2850,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 211
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 215
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 142
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 224
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 221
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 56
 # File: module/b2c/view/b2c/air/book.phtml, line: 138
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 126
@@ -2896,8 +2896,8 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 453
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 230
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 234
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 254
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 258
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 251
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 255
 # File: module/b2c/view/b2c/air/book.phtml, line: 141
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 205
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 216
@@ -3044,10 +3044,10 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 243
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 142
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 148
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 173
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 224
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 264
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 268
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 170
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 221
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 261
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 265
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 56
 # File: module/b2c/view/b2c/charters/index.phtml, line: 60
 # File: module/b2c/view/b2c/air/book.phtml, line: 154
@@ -3790,7 +3790,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 148
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 391
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 127
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 153
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 150
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 129
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 262
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 180
@@ -3957,8 +3957,8 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 208
 # File: module/b2c/costamar/layout/layout.phtml, line: 226
 # File: module/b2c/flights/b2c/air/search.phtml, line: 137
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 195
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 203
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 200
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 186
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 389
@@ -3985,8 +3985,8 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 431
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 250
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 254
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 230
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 234
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 227
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 231
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 62
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 66
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 197
@@ -5588,7 +5588,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 239
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 4
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 293
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 290
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 261
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 485
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 5
@@ -5597,7 +5597,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 240
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 5
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 294
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 291
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 262
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 486
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 6
@@ -5606,7 +5606,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 241
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 6
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 295
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 263
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 487
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 7
@@ -5615,7 +5615,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 242
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 7
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 296
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 293
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 264
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 488
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 8
@@ -7012,14 +7012,14 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 9
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 287
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 301
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 298
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 17
 msgid "Invalid coupon code."
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 10
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 288
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 303
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 300
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 18
 msgid "This coupon code can only be used with a minimum spend of"
 msgstr ""
@@ -8549,7 +8549,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 146
 # File: module/b2c/view/b2c/cars/search.phtml, line: 195
 # File: module/b2c/view/b2c/cars/search.phtml, line: 270
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 195
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 24
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 180
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 240
@@ -8752,14 +8752,14 @@ msgid "Mandatory fees paid at the counter"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 277
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 279
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 276
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 257
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 467
 msgid "Terms & Conditions"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 281
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 283
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 280
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 257
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 468
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 477
@@ -8876,7 +8876,7 @@ msgid "Cruise Line Reservation Number"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 105
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 179
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 176
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 4
 msgid "Cruise details"
 msgstr ""
@@ -8988,91 +8988,91 @@ msgstr ""
 msgid "Note: Seating time cannot be guaranteed. We will do our best to reserve your preference."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 136
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 134
 msgid "Service Gratuities (Tips)"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 137
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 135
 msgid "Pay now the automatic gratuities/service charge in place and you don't have to stress in any way about this. We highly recommend you to pay the gratuity online, if you do, there is no need to pay anyone anything more. If gratuities are not prepaid prior to sailing, they will be automatically added to the guest's folios once onboard."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 143
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 141
 msgid "By selecting this box you agree to pay online the Cruise's automatic gratuities/service charge in place."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 150
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 147
 msgid "Review and book your cruise"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 188
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 185
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 15
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 204
 msgid "Departs"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 190
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 187
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 17
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 205
 msgid "Returns"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 189
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 19
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 183
 msgid "Port of Departure"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 193
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 190
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 22
 msgid "Cabin Category"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 205
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 202
 msgid "Children "
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 210
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 207
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 42
 msgid "Cruise Cabin Price"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 214
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 211
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 46
 msgid "Taxes/Fees"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 240
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 244
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 237
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 241
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 71
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 75
 msgid "Cruise Total"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 287
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 284
 msgid "First Name is required. Please input first name."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 288
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 285
 msgid "Last Name is required. Please input last name."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 289
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 286
 msgid "Email is required. Please input email address."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 290
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 287
 msgid "Address is required. Please input address."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 291
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 288
 msgid "Phone is required. Please input phone number."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 292
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 289
 msgid "Please select your dining option."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 302
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 299
 msgid "Please input required field."
 msgstr ""
 #
