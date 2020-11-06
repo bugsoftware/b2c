@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-06 05:40-0500\n"
+"POT-Creation-Date: 2020-11-06 15:09-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1509,7 +1509,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 376
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 139
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 172
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 588
 # File: module/b2c/costamar/layout/layout.phtml, line: 242
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 588
 msgid "Book Now"
 msgstr ""
 #
@@ -3209,12 +3211,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 46
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 153
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 248
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 580
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 170
 # File: module/b2c/view/b2c/cruises/index.phtml, line: 183
 # File: module/b2c/view/b2c/index/index.phtml, line: 54
 # File: module/b2c/view/b2c/air/calendar.phtml, line: 645
 # File: module/b2c/view/b2c/packages/package.phtml, line: 211
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 248
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 580
 msgid "from"
 msgstr ""
 #
@@ -5046,6 +5050,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 42
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 604
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 547
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 547
 msgid "Special Offers"
 msgstr ""
 #
@@ -5974,10 +5980,10 @@ msgid "Please wait while results are fully loaded. Once all results are loaded y
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 137
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1472
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1578
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 144
 # File: module/b2c/view/b2c/search.phtml, line: 122
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 1472
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 1578
 msgid "total"
 msgstr ""
 #
@@ -6363,24 +6369,24 @@ msgstr ""
 msgid "Book now"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1492
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 1492
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1598
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 1598
 msgid "stars"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1511
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 1511
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1617
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 1617
 msgid "details"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 7956
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 7956
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8062
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8062
 msgid "About"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8015
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8121
 # File: module/b2c/view/b2c/admin/contacts.phtml, line: 8
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8015
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8121
 msgid "Contacts"
 msgstr ""
 #
