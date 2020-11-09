@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-07 13:55-0500\n"
+"POT-Creation-Date: 2020-11-09 05:08-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -349,7 +349,7 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 3
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 27
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 70
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 285
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 286
 # File: module/b2c/view/b2c/cars/search.phtml, line: 450
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
@@ -2823,6 +2823,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 136
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 138
 # File: module/b2c/flights/b2c/air/book.phtml, line: 138
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 251
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 255
 # File: module/b2c/view/b2c/air/book.phtml, line: 134
 msgid "Booking Fee"
 msgstr ""
@@ -3987,8 +3989,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 268
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 427
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 431
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 250
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 254
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 249
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 227
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 231
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 62
@@ -7017,14 +7018,14 @@ msgid "Searching activities"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 9
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 287
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 288
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 298
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 17
 msgid "Invalid coupon code."
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 10
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 288
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 289
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 300
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 18
 msgid "This coupon code can only be used with a minimum spend of"
@@ -7126,8 +7127,8 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 215
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 239
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 243
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 259
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 263
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 260
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 264
 msgid "Total due today"
 msgstr ""
 #
@@ -8757,14 +8758,14 @@ msgstr ""
 msgid "Mandatory fees paid at the counter"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 277
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 278
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 276
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 257
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 467
 msgid "Terms & Conditions"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 281
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 282
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 280
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 257
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 468
