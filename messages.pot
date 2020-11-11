@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-11 11:26-0500\n"
+"POT-Creation-Date: 2020-11-11 11:41-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7159,7 +7159,7 @@ msgid "Reserve"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 365
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 129
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 132
 # File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 64
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 236
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 218
@@ -9099,47 +9099,47 @@ msgstr ""
 msgid "Discounted fares"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 41
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 42
 msgid "Are any of the passengers a US resident?"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 42
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 43
 msgid "If yes, please select your state to be qualified for special resident rates if exist."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 44
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 45
 msgid "Select state"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 104
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 107
 msgid "Please indicate if you are traveling with anyone who is 55 years or older."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 106
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 109
 msgid "Yes, we are traveling with senior passenger(s)."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 112
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 115
 msgid "Check cruise line discounts for returning passengers. (Certain restrictions apply)."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 113
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 116
 msgid "Returning Passenger #"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 118
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 121
 msgid "Check discounts for airline employees and their immediate families. Eligibility may vary by supplier. (Certain restrictions apply)."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 119
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 122
 msgid "Interline"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 124
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 127
 msgid "Check exclusive discounts to honor military personnel and their immediate families. (Certain restrictions apply)."
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 125
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 128
 msgid "Military"
 msgstr ""
 #
