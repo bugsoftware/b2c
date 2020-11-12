@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-11 16:27-0500\n"
+"POT-Creation-Date: 2020-11-12 09:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2422,7 +2422,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 322
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 357
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 393
-# File: module/b2c/view/b2c/index/index.phtml, line: 54
+# File: module/b2c/view/b2c/index/index.phtml, line: 56
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 6
 msgid "nights"
 msgstr ""
@@ -3216,7 +3216,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 579
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 170
 # File: module/b2c/view/b2c/cruises/index.phtml, line: 183
-# File: module/b2c/view/b2c/index/index.phtml, line: 54
+# File: module/b2c/view/b2c/index/index.phtml, line: 56
 # File: module/b2c/view/b2c/air/calendar.phtml, line: 645
 # File: module/b2c/view/b2c/packages/package.phtml, line: 211
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 248
@@ -3242,7 +3242,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 394
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 422
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 454
-# File: module/b2c/view/b2c/index/index.phtml, line: 115
+# File: module/b2c/view/b2c/index/index.phtml, line: 117
 # File: module/b2c/view/b2c/charters/index.phtml, line: 15
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 323
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 326
@@ -6652,7 +6652,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 316
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 351
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 387
-# File: module/b2c/view/b2c/index/index.phtml, line: 48
+# File: module/b2c/view/b2c/index/index.phtml, line: 49
 msgid "pp"
 msgstr ""
 #
@@ -6848,7 +6848,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/activities/results.phtml, line: 284
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 131
-# File: module/b2c/view/b2c/index/index.phtml, line: 122
+# File: module/b2c/view/b2c/index/index.phtml, line: 124
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 62
 # File: module/b2c/view/b2c/air/search.phtml, line: 59
 # File: module/b2c/view/b2c/air/index.phtml, line: 252
@@ -9610,7 +9610,7 @@ msgstr ""
 msgid "Featured Cruises"
 msgstr ""
 #
-# File: module/b2c/view/b2c/index/index.phtml, line: 115
+# File: module/b2c/view/b2c/index/index.phtml, line: 117
 # File: module/b2c/view/b2c/air/airline.phtml, line: 125
 # File: module/b2c/view/b2c/air/index.phtml, line: 245
 msgid "Roundtrip from"
