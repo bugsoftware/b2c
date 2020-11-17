@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-16 15:52-0500\n"
+"POT-Creation-Date: 2020-11-17 15:05-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8675,6 +8675,7 @@ msgid "Mandatory fees paid at the counter:"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 7
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 9
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 29
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 17
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 56
