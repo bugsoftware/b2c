@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-18 09:48-0500\n"
+"POT-Creation-Date: 2020-11-18 15:57-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3857,11 +3857,15 @@ msgstr ""
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/content/index.phtml, line: 15
+# File: module/b2c/costamar/b2c/content/index.phtml, line: 18
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 120
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 188
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 134
 msgid "I acknowledge that I have read and accept the terms & conditions and privacy policy."
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/content/index.phtml, line: 20
+msgid "Thank you for reading and accepting the terms & conditions and privacy policy."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/contact-us/index.phtml, line: 3
