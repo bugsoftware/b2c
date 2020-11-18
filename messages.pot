@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-18 16:15-0500\n"
+"POT-Creation-Date: 2020-11-18 17:15-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4354,7 +4354,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 90
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 245
 # File: module/b2c/view/b2c/air/search.phtml, line: 72
-# File: module/b2c/view/b2c/air/search.phtml, line: 267
+# File: module/b2c/view/b2c/air/search.phtml, line: 270
 msgid "Non-Stop"
 msgstr ""
 #
@@ -4365,7 +4365,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 10
 # File: module/b2c/view/b2c/air/search.phtml, line: 73
 # File: module/b2c/view/b2c/air/search.phtml, line: 131
-# File: module/b2c/view/b2c/air/search.phtml, line: 268
+# File: module/b2c/view/b2c/air/search.phtml, line: 271
 msgid "1 Stop"
 msgstr ""
 #
@@ -4373,7 +4373,7 @@ msgstr ""
 # File: module/b2c/flights/b2c/air/search.phtml, line: 31
 # File: module/b2c/flights/b2c/air/search.phtml, line: 201
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 247
-# File: module/b2c/view/b2c/air/search.phtml, line: 269
+# File: module/b2c/view/b2c/air/search.phtml, line: 272
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 494
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 501
 msgid "Stops"
