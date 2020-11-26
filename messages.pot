@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-26 14:50-0500\n"
+"POT-Creation-Date: 2020-11-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -822,7 +822,7 @@ msgstr ""
 msgid "A Mastercard or VISA credit card verification code is a three-digit number located on the back of the card, at the end of the signature space. American Express 4-digit security code is located on the front of your card."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 460
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 476
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 250
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 190
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 152
@@ -844,7 +844,7 @@ msgstr ""
 msgid "COMPLETE BOOKING"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 518
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 534
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 622
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 763
 msgid "PLEASE WAIT..."
