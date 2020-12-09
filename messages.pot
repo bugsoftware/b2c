@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-07 06:17-0500\n"
+"POT-Creation-Date: 2020-12-09 05:18-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1383,7 +1383,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
 # File: module/b2c/costamar/layout/layout.phtml, line: 666
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 149
-# File: module/b2c/view/layout/layout.phtml, line: 655
+# File: module/b2c/view/layout/layout.phtml, line: 663
 msgid "Destinations"
 msgstr ""
 #
@@ -1518,7 +1518,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 361
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 159
 # File: module/b2c/costamar/layout/layout.phtml, line: 615
-# File: module/b2c/view/layout/layout.phtml, line: 613
+# File: module/b2c/view/layout/layout.phtml, line: 621
 msgid "Phone:"
 msgstr ""
 #
@@ -2366,6 +2366,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 9
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 48
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 5
+# File: module/b2c/view/layout/layout.phtml, line: 246
 msgid "Select Destination"
 msgstr ""
 #
@@ -3878,7 +3879,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/contact-us/index.phtml, line: 3
 # File: module/b2c/costamar/b2c/contact-us/index.phtml, line: 8
-# File: module/b2c/view/layout/layout.phtml, line: 411
+# File: module/b2c/view/layout/layout.phtml, line: 419
 msgid "Contact Us"
 msgstr ""
 #
@@ -5482,10 +5483,10 @@ msgstr ""
 # File: module/b2c/view/layout/layout.phtml, line: 229
 # File: module/b2c/view/layout/layout.phtml, line: 235
 # File: module/b2c/view/layout/layout.phtml, line: 238
-# File: module/b2c/view/layout/layout.phtml, line: 395
-# File: module/b2c/view/layout/layout.phtml, line: 398
-# File: module/b2c/view/layout/layout.phtml, line: 404
-# File: module/b2c/view/layout/layout.phtml, line: 407
+# File: module/b2c/view/layout/layout.phtml, line: 403
+# File: module/b2c/view/layout/layout.phtml, line: 406
+# File: module/b2c/view/layout/layout.phtml, line: 412
+# File: module/b2c/view/layout/layout.phtml, line: 415
 msgid "Register"
 msgstr ""
 #
@@ -6458,8 +6459,8 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 265
 # File: module/b2c/view/layout/layout.phtml, line: 214
 # File: module/b2c/view/layout/layout.phtml, line: 220
-# File: module/b2c/view/layout/layout.phtml, line: 383
-# File: module/b2c/view/layout/layout.phtml, line: 389
+# File: module/b2c/view/layout/layout.phtml, line: 391
+# File: module/b2c/view/layout/layout.phtml, line: 397
 msgid "My Account"
 msgstr ""
 #
@@ -6469,8 +6470,8 @@ msgstr ""
 # File: module/b2c/view/b2c/bookings/signout.phtml, line: 15
 # File: module/b2c/view/layout/layout.phtml, line: 216
 # File: module/b2c/view/layout/layout.phtml, line: 222
-# File: module/b2c/view/layout/layout.phtml, line: 385
-# File: module/b2c/view/layout/layout.phtml, line: 391
+# File: module/b2c/view/layout/layout.phtml, line: 393
+# File: module/b2c/view/layout/layout.phtml, line: 399
 msgid "Sign out"
 msgstr ""
 #
@@ -6480,26 +6481,26 @@ msgstr ""
 # File: module/b2c/view/layout/layout.phtml, line: 228
 # File: module/b2c/view/layout/layout.phtml, line: 234
 # File: module/b2c/view/layout/layout.phtml, line: 237
-# File: module/b2c/view/layout/layout.phtml, line: 394
-# File: module/b2c/view/layout/layout.phtml, line: 397
-# File: module/b2c/view/layout/layout.phtml, line: 403
-# File: module/b2c/view/layout/layout.phtml, line: 406
+# File: module/b2c/view/layout/layout.phtml, line: 402
+# File: module/b2c/view/layout/layout.phtml, line: 405
+# File: module/b2c/view/layout/layout.phtml, line: 411
+# File: module/b2c/view/layout/layout.phtml, line: 414
 msgid "Sign in"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 654
 # File: module/b2c/view/b2c/admin/social.phtml, line: 5
-# File: module/b2c/view/layout/layout.phtml, line: 652
+# File: module/b2c/view/layout/layout.phtml, line: 660
 msgid "Social"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 669
-# File: module/b2c/view/layout/layout.phtml, line: 656
+# File: module/b2c/view/layout/layout.phtml, line: 664
 msgid "All Destinations"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 682
-# File: module/b2c/view/layout/layout.phtml, line: 662
+# File: module/b2c/view/layout/layout.phtml, line: 670
 msgid "All rights reserved"
 msgstr ""
 #
@@ -11153,11 +11154,11 @@ msgstr ""
 msgid "No transfers shown, try clearing some filters to see more availability."
 msgstr ""
 #
-# File: module/b2c/view/layout/layout.phtml, line: 616
+# File: module/b2c/view/layout/layout.phtml, line: 624
 msgid "Whatsapp:"
 msgstr ""
 #
-# File: module/b2c/view/layout/layout.phtml, line: 653
+# File: module/b2c/view/layout/layout.phtml, line: 661
 msgid "Subscribe"
 msgstr ""
 #
