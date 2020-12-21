@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-21 10:50-0500\n"
+"POT-Creation-Date: 2020-12-21 11:02-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -148,7 +148,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 132
 # File: module/b2c/view/b2c/search.phtml, line: 66
 # File: module/b2c/view/b2c/search.phtml, line: 175
-# File: module/b2c/view/b2c/booking/index.phtml, line: 331
+# File: module/b2c/view/b2c/booking/view.phtml, line: 331
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 209
 msgid "Adults"
 msgstr ""
@@ -222,7 +222,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 143
 # File: module/b2c/view/b2c/search.phtml, line: 64
 # File: module/b2c/view/b2c/search.phtml, line: 176
-# File: module/b2c/view/b2c/booking/index.phtml, line: 337
+# File: module/b2c/view/b2c/booking/view.phtml, line: 337
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 215
 msgid "Children"
 msgstr ""
@@ -266,7 +266,7 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 289
 # File: module/b2c/view/b2c/search.phtml, line: 65
 # File: module/b2c/view/b2c/search.phtml, line: 184
-# File: module/b2c/view/b2c/booking/index.phtml, line: 335
+# File: module/b2c/view/b2c/booking/view.phtml, line: 335
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 213
 msgid "Child"
 msgstr ""
@@ -397,6 +397,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 341
 # File: module/b2c/view/b2c/dynamic-packaging/preloader.phtml, line: 134
 # File: module/b2c/view/b2c/search.phtml, line: 93
+# File: module/b2c/view/b2c/booking/pay.phtml, line: 88
+# File: module/b2c/view/b2c/booking/index.phtml, line: 88
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 3
 msgid "Please wait..."
 msgstr ""
@@ -757,7 +759,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 74
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 201
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 32
-# File: module/b2c/view/b2c/booking/index.phtml, line: 71
+# File: module/b2c/view/b2c/booking/view.phtml, line: 71
 msgid "Card Number"
 msgstr ""
 #
@@ -980,7 +982,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 105
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 131
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 157
-# File: module/b2c/view/b2c/booking/index.phtml, line: 370
+# File: module/b2c/view/b2c/booking/view.phtml, line: 370
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 248
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 33
 msgid "Mr"
@@ -1028,7 +1030,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 106
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 132
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 158
-# File: module/b2c/view/b2c/booking/index.phtml, line: 370
+# File: module/b2c/view/b2c/booking/view.phtml, line: 370
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 248
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 34
 msgid "Ms"
@@ -2624,7 +2626,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 496
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 53
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 333
-# File: module/b2c/view/b2c/booking/index.phtml, line: 261
+# File: module/b2c/view/b2c/booking/view.phtml, line: 261
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 139
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 75
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 93
@@ -2882,7 +2884,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 354
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 388
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 364
-# File: module/b2c/view/b2c/booking/index.phtml, line: 363
+# File: module/b2c/view/b2c/booking/view.phtml, line: 363
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 241
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 114
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 193
@@ -2951,8 +2953,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 240
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 25
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 32
-# File: module/b2c/view/b2c/booking/index.phtml, line: 322
-# File: module/b2c/view/b2c/booking/index.phtml, line: 331
+# File: module/b2c/view/b2c/booking/view.phtml, line: 322
+# File: module/b2c/view/b2c/booking/view.phtml, line: 331
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 200
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 209
 msgid "Night"
@@ -2980,8 +2982,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 25
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 32
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 332
-# File: module/b2c/view/b2c/booking/index.phtml, line: 322
-# File: module/b2c/view/b2c/booking/index.phtml, line: 331
+# File: module/b2c/view/b2c/booking/view.phtml, line: 322
+# File: module/b2c/view/b2c/booking/view.phtml, line: 331
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 200
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 209
 msgid "Nights"
@@ -3005,7 +3007,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 109
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 112
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 206
-# File: module/b2c/view/b2c/booking/index.phtml, line: 343
+# File: module/b2c/view/b2c/booking/view.phtml, line: 343
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 221
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 109
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 121
@@ -3087,7 +3089,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 208
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 396
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 373
-# File: module/b2c/view/b2c/booking/index.phtml, line: 598
+# File: module/b2c/view/b2c/booking/view.phtml, line: 598
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 476
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 114
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 120
@@ -3178,7 +3180,7 @@ msgstr ""
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 64
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 102
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 183
-# File: module/b2c/view/b2c/booking/index.phtml, line: 88
+# File: module/b2c/view/b2c/booking/view.phtml, line: 88
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 22
 msgid "Payment"
 msgstr ""
@@ -5189,7 +5191,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 238
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 104
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 90
-# File: module/b2c/view/b2c/booking/index.phtml, line: 93
+# File: module/b2c/view/b2c/booking/view.phtml, line: 93
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 27
 msgid "Awaiting Payment"
 msgstr ""
@@ -5197,7 +5199,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 240
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 108
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 92
-# File: module/b2c/view/b2c/booking/index.phtml, line: 97
+# File: module/b2c/view/b2c/booking/view.phtml, line: 97
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 31
 msgid "Payment Received"
 msgstr ""
@@ -5205,7 +5207,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 242
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 111
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 94
-# File: module/b2c/view/b2c/booking/index.phtml, line: 100
+# File: module/b2c/view/b2c/booking/view.phtml, line: 100
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 34
 msgid "Payment Refunded"
 msgstr ""
@@ -5213,7 +5215,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 244
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 114
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 96
-# File: module/b2c/view/b2c/booking/index.phtml, line: 103
+# File: module/b2c/view/b2c/booking/view.phtml, line: 103
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 37
 msgid "Chargeback"
 msgstr ""
@@ -5221,7 +5223,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 246
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 117
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 98
-# File: module/b2c/view/b2c/booking/index.phtml, line: 106
+# File: module/b2c/view/b2c/booking/view.phtml, line: 106
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 40
 msgid "Payment On Hold"
 msgstr ""
@@ -5229,7 +5231,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 248
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 120
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 100
-# File: module/b2c/view/b2c/booking/index.phtml, line: 109
+# File: module/b2c/view/b2c/booking/view.phtml, line: 109
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 43
 msgid "Partially Paid"
 msgstr ""
@@ -5237,7 +5239,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 250
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 123
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 102
-# File: module/b2c/view/b2c/booking/index.phtml, line: 112
+# File: module/b2c/view/b2c/booking/view.phtml, line: 112
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 46
 msgid "Awaiting Refund"
 msgstr ""
@@ -5245,7 +5247,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 252
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 126
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 104
-# File: module/b2c/view/b2c/booking/index.phtml, line: 115
+# File: module/b2c/view/b2c/booking/view.phtml, line: 115
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 49
 msgid "Awaiting Capture"
 msgstr ""
@@ -5253,7 +5255,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 254
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 129
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 106
-# File: module/b2c/view/b2c/booking/index.phtml, line: 118
+# File: module/b2c/view/b2c/booking/view.phtml, line: 118
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 52
 msgid "Payment Cancelled"
 msgstr ""
@@ -5269,8 +5271,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 277
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 79
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 110
-# File: module/b2c/view/b2c/booking/index.phtml, line: 124
-# File: module/b2c/view/b2c/booking/index.phtml, line: 233
+# File: module/b2c/view/b2c/booking/view.phtml, line: 124
+# File: module/b2c/view/b2c/booking/view.phtml, line: 233
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 58
 msgid "Supervisor Action Required"
 msgstr ""
@@ -5299,22 +5301,22 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 250
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 292
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 61
-# File: module/b2c/view/b2c/booking/index.phtml, line: 206
-# File: module/b2c/view/b2c/booking/index.phtml, line: 248
+# File: module/b2c/view/b2c/booking/view.phtml, line: 206
+# File: module/b2c/view/b2c/booking/view.phtml, line: 248
 msgid "New Reservation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 272
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 253
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 63
-# File: module/b2c/view/b2c/booking/index.phtml, line: 209
+# File: module/b2c/view/b2c/booking/view.phtml, line: 209
 msgid "Reservation Pending"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 274
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 256
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 65
-# File: module/b2c/view/b2c/booking/index.phtml, line: 212
+# File: module/b2c/view/b2c/booking/view.phtml, line: 212
 msgid "Reservation Confirmed"
 msgstr ""
 #
@@ -5322,8 +5324,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 158
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 259
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 67
-# File: module/b2c/view/b2c/booking/index.phtml, line: 144
-# File: module/b2c/view/b2c/booking/index.phtml, line: 215
+# File: module/b2c/view/b2c/booking/view.phtml, line: 144
+# File: module/b2c/view/b2c/booking/view.phtml, line: 215
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 78
 msgid "Reservation Cancelled"
 msgstr ""
@@ -5331,28 +5333,28 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 278
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 262
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 69
-# File: module/b2c/view/b2c/booking/index.phtml, line: 218
+# File: module/b2c/view/b2c/booking/view.phtml, line: 218
 msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 280
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 265
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 71
-# File: module/b2c/view/b2c/booking/index.phtml, line: 221
+# File: module/b2c/view/b2c/booking/view.phtml, line: 221
 msgid "Checked In"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 282
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 268
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 73
-# File: module/b2c/view/b2c/booking/index.phtml, line: 224
+# File: module/b2c/view/b2c/booking/view.phtml, line: 224
 msgid "Checked Out"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 284
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 271
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 75
-# File: module/b2c/view/b2c/booking/index.phtml, line: 227
+# File: module/b2c/view/b2c/booking/view.phtml, line: 227
 msgid "Complete"
 msgstr ""
 #
@@ -5364,14 +5366,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 290
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 280
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 81
-# File: module/b2c/view/b2c/booking/index.phtml, line: 236
+# File: module/b2c/view/b2c/booking/view.phtml, line: 236
 msgid "Queue Reservation for Processing"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 292
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 283
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 83
-# File: module/b2c/view/b2c/booking/index.phtml, line: 239
+# File: module/b2c/view/b2c/booking/view.phtml, line: 239
 msgid "Queue Reservation for Cancellation"
 msgstr ""
 #
@@ -5400,7 +5402,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 938
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 379
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 48
-# File: module/b2c/view/b2c/booking/index.phtml, line: 38
+# File: module/b2c/view/b2c/booking/view.phtml, line: 38
 msgid "Pay"
 msgstr ""
 #
@@ -6126,7 +6128,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 277
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 88
 # File: module/b2c/costamar/b2c/booking/cancel.phtml, line: 17
-# File: module/b2c/view/b2c/booking/index.phtml, line: 84
+# File: module/b2c/view/b2c/booking/view.phtml, line: 84
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 18
 msgid "Booking Details"
 msgstr ""
@@ -6143,8 +6145,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 913
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 914
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 42
-# File: module/b2c/view/b2c/booking/index.phtml, line: 35
-# File: module/b2c/view/b2c/booking/index.phtml, line: 70
+# File: module/b2c/view/b2c/booking/view.phtml, line: 35
+# File: module/b2c/view/b2c/booking/view.phtml, line: 70
 msgid "Name on card"
 msgstr ""
 #
@@ -6153,7 +6155,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 917
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 918
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 43
-# File: module/b2c/view/b2c/booking/index.phtml, line: 36
+# File: module/b2c/view/b2c/booking/view.phtml, line: 36
 msgid "Credit card number"
 msgstr ""
 #
@@ -6162,8 +6164,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 77
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 926
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 46
-# File: module/b2c/view/b2c/booking/index.phtml, line: 37
-# File: module/b2c/view/b2c/booking/index.phtml, line: 74
+# File: module/b2c/view/b2c/booking/view.phtml, line: 37
+# File: module/b2c/view/b2c/booking/view.phtml, line: 74
 msgid "CVV"
 msgstr ""
 #
@@ -6189,7 +6191,7 @@ msgid "DoLex money transfer"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 5
-# File: module/b2c/view/b2c/booking/index.phtml, line: 4
+# File: module/b2c/view/b2c/booking/view.phtml, line: 4
 msgid "Please wait while we process your order..."
 msgstr ""
 #
@@ -6198,13 +6200,13 @@ msgstr ""
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 9
 # File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 144
 # File: module/b2c/view/b2c/bookings/register.phtml, line: 43
-# File: module/b2c/view/b2c/booking/index.phtml, line: 26
+# File: module/b2c/view/b2c/booking/view.phtml, line: 26
 msgid "Credit Card Information"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 70
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 408
-# File: module/b2c/view/b2c/booking/index.phtml, line: 67
+# File: module/b2c/view/b2c/booking/view.phtml, line: 67
 msgid "Payment Details"
 msgstr ""
 #
@@ -6215,19 +6217,19 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 115
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 141
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 167
-# File: module/b2c/view/b2c/booking/index.phtml, line: 72
+# File: module/b2c/view/b2c/booking/view.phtml, line: 72
 msgid "Expiry Date"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 78
-# File: module/b2c/view/b2c/booking/index.phtml, line: 75
+# File: module/b2c/view/b2c/booking/view.phtml, line: 75
 msgid "Submit payment for processing"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 105
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 148
-# File: module/b2c/view/b2c/booking/index.phtml, line: 94
-# File: module/b2c/view/b2c/booking/index.phtml, line: 134
+# File: module/b2c/view/b2c/booking/view.phtml, line: 94
+# File: module/b2c/view/b2c/booking/view.phtml, line: 134
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 28
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 68
 msgid "In order to complete your reservation you must submit your payment. Press the Pay Now button to initiate your payment."
@@ -6235,30 +6237,30 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 132
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 274
-# File: module/b2c/view/b2c/booking/index.phtml, line: 121
-# File: module/b2c/view/b2c/booking/index.phtml, line: 230
+# File: module/b2c/view/b2c/booking/view.phtml, line: 121
+# File: module/b2c/view/b2c/booking/view.phtml, line: 230
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 55
 msgid "Exception"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 138
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 145
-# File: module/b2c/view/b2c/booking/index.phtml, line: 131
+# File: module/b2c/view/b2c/booking/view.phtml, line: 131
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 65
 msgid "Your payment is being processed"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 138
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 145
-# File: module/b2c/view/b2c/booking/index.phtml, line: 131
+# File: module/b2c/view/b2c/booking/view.phtml, line: 131
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 65
 msgid "You will receive an email shortly confirming your payment status."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 142
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 147
-# File: module/b2c/view/b2c/booking/index.phtml, line: 128
-# File: module/b2c/view/b2c/booking/index.phtml, line: 133
+# File: module/b2c/view/b2c/booking/view.phtml, line: 128
+# File: module/b2c/view/b2c/booking/view.phtml, line: 133
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 62
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 67
 msgid "Pending Payment"
@@ -6267,8 +6269,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 158
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 246
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 30
-# File: module/b2c/view/b2c/booking/index.phtml, line: 144
-# File: module/b2c/view/b2c/booking/index.phtml, line: 201
+# File: module/b2c/view/b2c/booking/view.phtml, line: 144
+# File: module/b2c/view/b2c/booking/view.phtml, line: 201
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 78
 msgid "Reservation Status"
 msgstr ""
@@ -6281,9 +6283,9 @@ msgstr ""
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 65
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 103
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 184
-# File: module/b2c/view/b2c/booking/index.phtml, line: 148
-# File: module/b2c/view/b2c/booking/index.phtml, line: 183
-# File: module/b2c/view/b2c/booking/index.phtml, line: 195
+# File: module/b2c/view/b2c/booking/view.phtml, line: 148
+# File: module/b2c/view/b2c/booking/view.phtml, line: 183
+# File: module/b2c/view/b2c/booking/view.phtml, line: 195
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 82
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 117
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 129
@@ -6295,30 +6297,30 @@ msgid "Your reservation is beeing processed. Your credit card will be charged by
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 286
-# File: module/b2c/view/b2c/booking/index.phtml, line: 242
+# File: module/b2c/view/b2c/booking/view.phtml, line: 242
 msgid "Pending Review - Fraud"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 289
-# File: module/b2c/view/b2c/booking/index.phtml, line: 245
+# File: module/b2c/view/b2c/booking/view.phtml, line: 245
 msgid "Recovered/Rescued Booking"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 368
-# File: module/b2c/view/b2c/booking/index.phtml, line: 327
+# File: module/b2c/view/b2c/booking/view.phtml, line: 327
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 205
 msgid "Room:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 410
-# File: module/b2c/view/b2c/booking/index.phtml, line: 369
+# File: module/b2c/view/b2c/booking/view.phtml, line: 369
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 247
 msgid "Guest Info"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 633
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 304
-# File: module/b2c/view/b2c/booking/index.phtml, line: 603
+# File: module/b2c/view/b2c/booking/view.phtml, line: 603
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 481
 msgid "Contact info"
 msgstr ""
