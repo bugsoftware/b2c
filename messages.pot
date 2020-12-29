@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-26 09:21-0500\n"
+"POT-Creation-Date: 2020-12-29 08:51-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1831,7 +1831,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 45
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 111
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1458
-# File: module/b2c/costamar/layout/layout.phtml, line: 81
 # File: module/b2c/flights/b2c/index/index.phtml, line: 45
 # File: module/b2c/flights/b2c/air/search.phtml, line: 29
 # File: module/b2c/flights/b2c/air/search.phtml, line: 75
@@ -6414,6 +6413,10 @@ msgstr ""
 # File: module/b2c/costamar/offers/letter/index.phtml, line: 204
 # File: module/b2c/view/offers/letter/index.phtml, line: 204
 msgid "Click to access your Personalized Website:"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 81
+msgid "Departure Airport"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 189
