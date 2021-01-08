@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-29 09:50-0500\n"
+"POT-Creation-Date: 2021-01-08 11:06-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -337,7 +337,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 25
 # File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 64
 # File: module/b2c/costamar/b2c/bookings/googlesignin.phtml, line: 9
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 238
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 240
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 101
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 342
 # File: module/b2c/costamar/b2c/booking/pay.phtml, line: 9
@@ -5612,7 +5612,7 @@ msgstr ""
 msgid "Review and book your hotel"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 239
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 241
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 4
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 290
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 261
@@ -5621,7 +5621,7 @@ msgstr ""
 msgid "Invalid credit card number. The credit card number you provided is invalid."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 240
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 242
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 5
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 291
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 262
@@ -5630,7 +5630,7 @@ msgstr ""
 msgid "You did not enter a valid security code for the card you provided."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 241
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 243
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 6
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 263
@@ -5639,7 +5639,7 @@ msgstr ""
 msgid "The security code is a 3 or 4 digit number found on the back of the credit card."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 242
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 244
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 7
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 293
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 264
@@ -5648,12 +5648,12 @@ msgstr ""
 msgid "The credit card expiration date you provided is invalid."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 244
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 246
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 490
 msgid "Invalid coupon/promotion code."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 245
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 247
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 491
 msgid "This coupon/promotion code can only be used with a minimum spend of"
 msgstr ""
