@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-09 09:01-0500\n"
+"POT-Creation-Date: 2021-01-09 09:11-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6417,6 +6417,10 @@ msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 81
 msgid "Departure Airport"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 87
+msgid "Choose your nearest airport"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 189
