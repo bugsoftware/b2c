@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-22 07:01-0500\n"
+"POT-Creation-Date: 2021-01-22 07:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -904,8 +904,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 135
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 73
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 556
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 73
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 556
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 73
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 557
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 559
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 66
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 82
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 118
@@ -953,8 +955,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 135
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 75
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 558
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 75
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 558
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 75
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 559
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 561
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 68
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 84
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 411
@@ -1003,8 +1007,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 135
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 76
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 559
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 76
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 559
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 76
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 560
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 562
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 69
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 85
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 411
@@ -1051,12 +1057,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 136
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 79
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 562
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 79
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 562
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 67
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 129
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 22
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 66
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 79
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 563
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 565
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 124
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 229
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 266
@@ -1091,12 +1099,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 137
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 80
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 563
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 80
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 563
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 68
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 130
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 23
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 67
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 80
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 564
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 566
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 125
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 230
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 267
@@ -1152,6 +1162,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 126
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 162
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 81
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 81
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 94
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 162
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 40
@@ -1196,6 +1207,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 85
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 85
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 70
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 134
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 29
@@ -1222,6 +1234,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 24
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 103
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 103
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 82
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 149
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 37
@@ -1273,6 +1286,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 30
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 88
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 88
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 74
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 141
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 77
@@ -1307,6 +1321,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 31
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 90
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 90
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 75
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 142
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 33
@@ -1476,6 +1491,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 125
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 161
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 83
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 83
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 83
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 74
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 254
@@ -3598,8 +3614,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 142
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 115
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 568
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 115
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 568
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 115
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 569
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 571
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 235
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 272
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 310
@@ -3685,8 +3703,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 158
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 119
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 572
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 119
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 572
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 119
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 573
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 575
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 250
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 288
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 326
@@ -3961,8 +3981,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 143
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 116
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 569
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 116
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 569
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 116
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 570
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 572
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 235
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 273
 # File: module/b2c/flights/b2c/air/confirm.phtml, line: 311
@@ -4568,35 +4590,46 @@ msgid "Thank you very much. We will get in touch with you shortly."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 11
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 11
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 11
 # File: module/b2c/view/b2c/bookings/thankyou.phtml, line: 5
+# File: module/b2c/view/b2c/bookings/thankyoupassword.phtml, line: 5
 # File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 5
 # File: module/b2c/view/b2c/bookings/index.phtml, line: 5
 msgid "Welcome"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 18
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 61
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 18
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 61
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 18
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 61
 msgid "Password has been successfully changed."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 20
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 20
 msgid "There was a problem changing the password. Password has NOT been changed."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 34
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 34
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 34
 msgid "Last logged in:"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 34
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 34
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 34
 msgid "at"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 39
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 57
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 39
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 57
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 39
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 57
 msgid "Personal Information"
@@ -4604,6 +4637,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 40
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 160
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 40
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 160
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 40
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 160
 msgid "Change Password"
@@ -4611,16 +4646,20 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 41
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 191
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 41
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 191
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 41
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 191
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 193
 # File: module/b2c/view/b2c/bookings/searchbooking.phtml, line: 5
 msgid "My Bookings"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 42
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 610
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 42
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 610
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 42
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 611
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 613
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 546
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 546
 msgid "Special Offers"
@@ -4628,66 +4667,82 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 43
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 461
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 43
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 461
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 43
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 461
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 463
 msgid "My Points"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 44
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 479
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 44
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 479
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 44
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 480
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 482
 msgid "My Favorite Destinations"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 45
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 548
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 45
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 548
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 45
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 549
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 551
 msgid "My Family"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 46
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 46
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 46
 msgid "Sales Agent"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 47
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 47
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 47
 msgid "Log Out"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 60
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 60
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 59
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 59
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 59
 # File: module/b2c/view/b2c/bookings/thankyou.phtml, line: 16
+# File: module/b2c/view/b2c/bookings/thankyoupassword.phtml, line: 16
 msgid "Thank you very much. Your information has been updated."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 69
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 170
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 69
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 170
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 69
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 170
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 172
 # File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 131
 msgid "New Password"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 70
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 70
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 70
 # File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 132
 msgid "Password confirm"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 82
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 82
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 82
 msgid "Alternative Email"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 84
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 84
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 84
 msgid "Alternative Phone"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 95
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 95
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 78
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 145
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 81
@@ -4702,11 +4757,13 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 97
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 729
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 97
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 729
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 79
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 146
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 82
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 97
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 730
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 732
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 692
 msgid "Choose your state/region/zone"
 msgstr ""
@@ -4715,10 +4772,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 719
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 734
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 757
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 105
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 719
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 734
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 757
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 105
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 720
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 735
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 758
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 722
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 737
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 760
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 682
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 697
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 720
@@ -4726,6 +4787,7 @@ msgid "Choose your city"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 110
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 110
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 86
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 153
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 154
@@ -4742,19 +4804,24 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 112
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 565
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 112
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 565
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 112
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 566
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 568
 msgid "Travel Document Type"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 114
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 567
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 114
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 567
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 114
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 568
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 570
 msgid "Select Document Type"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 120
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 120
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 131
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 25
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 69
@@ -4767,15 +4834,19 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 135
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 587
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 135
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 587
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 135
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 588
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 590
 msgid "Date of Birth"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 136
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 588
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 136
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 588
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 136
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 589
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 591
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 266
 # File: module/b2c/view/b2c/packages/package.phtml, line: 254
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 211
@@ -4784,55 +4855,67 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 137
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 589
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 137
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 589
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 137
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 590
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 592
 msgid "Month"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 138
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 590
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 138
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 590
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 138
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 591
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 593
 msgid "Year"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 143
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 143
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 143
 msgid "Do not send me any promotional emails"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 144
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 144
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 144
 msgid "Save"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 168
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 168
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 168
 msgid "Current Password"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 171
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 171
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 171
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 173
 msgid "Confirm New Password"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 172
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 172
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 172
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 174
 msgid "Required fields"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 173
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 173
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 173
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 175
 msgid "Save Password"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 210
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 210
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 210
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 212
 msgid "Reservation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 243
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 243
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 243
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 245
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 104
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 90
 # File: module/b2c/view/b2c/booking/view.phtml, line: 93
@@ -4841,7 +4924,8 @@ msgid "Awaiting Payment"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 245
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 245
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 245
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 247
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 108
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 92
 # File: module/b2c/view/b2c/booking/view.phtml, line: 97
@@ -4850,7 +4934,8 @@ msgid "Payment Received"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 247
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 247
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 247
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 249
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 111
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 94
 # File: module/b2c/view/b2c/booking/view.phtml, line: 100
@@ -4859,7 +4944,8 @@ msgid "Payment Refunded"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 249
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 249
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 249
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 251
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 114
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 96
 # File: module/b2c/view/b2c/booking/view.phtml, line: 103
@@ -4868,7 +4954,8 @@ msgid "Chargeback"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 251
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 251
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 251
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 253
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 117
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 98
 # File: module/b2c/view/b2c/booking/view.phtml, line: 106
@@ -4877,7 +4964,8 @@ msgid "Payment On Hold"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 253
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 253
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 253
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 255
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 120
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 100
 # File: module/b2c/view/b2c/booking/view.phtml, line: 109
@@ -4886,7 +4974,8 @@ msgid "Partially Paid"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 255
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 255
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 255
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 257
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 123
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 102
 # File: module/b2c/view/b2c/booking/view.phtml, line: 112
@@ -4895,7 +4984,8 @@ msgid "Awaiting Refund"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 257
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 257
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 257
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 259
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 126
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 104
 # File: module/b2c/view/b2c/booking/view.phtml, line: 115
@@ -4904,7 +4994,8 @@ msgid "Awaiting Capture"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 259
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 259
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 259
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 261
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 129
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 106
 # File: module/b2c/view/b2c/booking/view.phtml, line: 118
@@ -4913,15 +5004,18 @@ msgid "Payment Cancelled"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 261
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 261
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 261
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 263
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 108
 msgid "Exception Payment Status"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 263
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 293
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 263
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 293
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 263
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 293
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 265
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 295
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 135
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 277
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 79
@@ -4933,31 +5027,36 @@ msgid "Supervisor Action Required"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 265
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 265
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 265
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 267
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 112
 msgid "Payment Failed"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 267
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 267
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 267
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 269
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 114
 msgid "Queue Payment for Processing"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 269
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 269
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 269
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 271
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 138
 msgid "Airline GDS Payment"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 271
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 271
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 271
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 273
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 116
 msgid "Unknown Payment Status"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 275
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 275
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 275
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 277
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 250
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 292
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 61
@@ -4967,7 +5066,8 @@ msgid "New Reservation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 277
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 277
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 277
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 279
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 253
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 63
 # File: module/b2c/view/b2c/booking/view.phtml, line: 209
@@ -4975,7 +5075,8 @@ msgid "Reservation Pending"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 279
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 279
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 279
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 281
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 256
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 65
 # File: module/b2c/view/b2c/booking/view.phtml, line: 212
@@ -4983,7 +5084,8 @@ msgid "Reservation Confirmed"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 281
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 281
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 281
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 283
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 158
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 259
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 67
@@ -4994,7 +5096,8 @@ msgid "Reservation Cancelled"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 283
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 283
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 283
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 285
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 262
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 69
 # File: module/b2c/view/b2c/booking/view.phtml, line: 218
@@ -5002,7 +5105,8 @@ msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 285
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 285
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 285
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 287
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 265
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 71
 # File: module/b2c/view/b2c/booking/view.phtml, line: 221
@@ -5010,7 +5114,8 @@ msgid "Checked In"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 287
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 287
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 287
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 289
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 268
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 73
 # File: module/b2c/view/b2c/booking/view.phtml, line: 224
@@ -5018,7 +5123,8 @@ msgid "Checked Out"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 289
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 289
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 289
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 291
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 271
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 75
 # File: module/b2c/view/b2c/booking/view.phtml, line: 227
@@ -5026,13 +5132,15 @@ msgid "Complete"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 291
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 291
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 291
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 293
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 77
 msgid "Exception Error"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 295
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 295
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 295
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 297
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 280
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 81
 # File: module/b2c/view/b2c/booking/view.phtml, line: 236
@@ -5040,7 +5148,8 @@ msgid "Queue Reservation for Processing"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 297
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 297
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 297
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 299
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 283
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 83
 # File: module/b2c/view/b2c/booking/view.phtml, line: 239
@@ -5048,27 +5157,31 @@ msgid "Queue Reservation for Cancellation"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 299
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 299
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 299
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 301
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 85
 # File: module/b2c/view/b2c/bookings/giftcards.phtml, line: 98
 msgid "Unknown Status"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 314
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 314
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 314
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 316
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 129
 msgid "View Booking"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 314
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 314
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 314
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 316
 # File: module/b2c/view/b2c/activities/results.phtml, line: 165
 # File: module/b2c/view/b2c/packages/list.phtml, line: 315
 msgid "View"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 317
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 317
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 317
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 319
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 375
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 40
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 222
@@ -5081,40 +5194,47 @@ msgid "Pay"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 320
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 320
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 320
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 322
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 132
 msgid "Cancel Booking"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 320
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 320
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 320
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 322
 msgid "Cancel"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 527
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 528
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 527
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 530
 msgid "My Sales Agent"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 595
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 596
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 595
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 598
 msgid "Add Family Member"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 766
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 767
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 766
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 769
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 729
 msgid "New password is required. Please input your new password."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 772
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 773
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 772
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 775
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 735
 msgid "New password confirmation is required. Please input your new password confirmation."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 779
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 780
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 779
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 782
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 742
 msgid "Password and New password mismatch. The password and password confirmation are different. They need to be the same."
 msgstr ""
@@ -9948,6 +10068,7 @@ msgid "DNI / RUC / Tax Id Number"
 msgstr ""
 #
 # File: module/b2c/view/b2c/bookings/thankyou.phtml, line: 17
+# File: module/b2c/view/b2c/bookings/thankyoupassword.phtml, line: 17
 # File: module/b2c/view/b2c/bookings/index.phtml, line: 17
 msgid "You are being redirected to the home page."
 msgstr ""
