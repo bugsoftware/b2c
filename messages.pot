@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-26 04:40-0500\n"
+"POT-Creation-Date: 2021-01-26 06:10-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2267,7 +2267,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 20
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 328
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 618
-# File: module/b2c/view/b2c/destinations/index.phtml, line: 739
+# File: module/b2c/view/b2c/destinations/index.phtml, line: 759
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 36
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 54
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 89
@@ -9144,6 +9144,10 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 106
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 39
 msgid "Hotel + Flight"
+msgstr ""
+#
+# File: module/b2c/view/b2c/destinations/index.phtml, line: 737
+msgid "Points of Interest"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 52
