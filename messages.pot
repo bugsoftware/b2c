@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-30 12:50-0500\n"
+"POT-Creation-Date: 2021-01-31 16:37-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2186,7 +2186,7 @@ msgstr ""
 msgid "December"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 6
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 5
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 337
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 513
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 518
@@ -2195,6 +2195,17 @@ msgstr ""
 # File: module/b2c/view/b2c/search.phtml, line: 345
 # File: module/b2c/view/b2c/search.phtml, line: 350
 msgid "Special Deals"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 8
+msgid "The best selection of vacational packages. With different options for you to enjoy your vacations to the fullest."
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 19
+# File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 53
+# File: module/b2c/view/b2c/packages/package.phtml, line: 92
+# File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 85
+msgid "Beach"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features.phtml, line: 3
@@ -9737,12 +9748,6 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 48
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 26
 msgid "SEE AVAILABILITY"
-msgstr ""
-#
-# File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 53
-# File: module/b2c/view/b2c/packages/package.phtml, line: 92
-# File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 85
-msgid "Beach"
 msgstr ""
 #
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 54
