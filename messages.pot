@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-02 07:55-0500\n"
+"POT-Creation-Date: 2021-02-02 16:45-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 22
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 57
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 9
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 192
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 191
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 193
 # File: module/b2c/view/b2c/activities/results.phtml, line: 12
 # File: module/b2c/view/b2c/activities/results.phtml, line: 250
@@ -58,7 +58,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 23
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 58
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 10
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 198
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 197
 # File: module/b2c/view/b2c/activities/results.phtml, line: 13
 # File: module/b2c/view/b2c/activities/results.phtml, line: 251
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 14
@@ -1458,9 +1458,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 299
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 402
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 624
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 162
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 475
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 849
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 161
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 320
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 599
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 973
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 974
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 977
 msgid "Previous"
@@ -1470,9 +1471,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 300
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 403
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 625
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 163
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 476
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 850
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 162
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 321
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 600
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 974
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 988
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 991
 # File: module/b2c/flights/b2c/air/search.phtml, line: 82
@@ -2236,7 +2238,7 @@ msgid "days"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 71
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 307
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 385
 msgid "Departs from"
 msgstr ""
 #
@@ -3361,7 +3363,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 153
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 96
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 154
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 305
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 304
 # File: module/b2c/flights/b2c/air/search.phtml, line: 127
 # File: module/b2c/view/b2c/tours/index.phtml, line: 97
@@ -5815,11 +5816,11 @@ msgstr ""
 msgid "Loggin in..."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 157
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 156
 msgid "Select your Package"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 241
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 240
 # File: module/b2c/costamar/layout/layout.phtml, line: 265
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 151
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 473
@@ -5835,16 +5836,16 @@ msgstr ""
 msgid "Book"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 243
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 242
 msgid "More options"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 308
-msgid "Lands in"
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 339
+msgid "per pax in double accommodation"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 309
-msgid "per pax in double accommodation"
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 407
+msgid "Lands in"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 30
