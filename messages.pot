@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-04 15:54-0500\n"
+"POT-Creation-Date: 2021-02-04 16:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1461,6 +1461,17 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 402
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 624
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 106
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 128
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 149
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 172
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 194
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 215
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 238
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 261
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 283
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 305
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 327
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 348
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 19
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 26
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 119
@@ -1481,6 +1492,17 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 403
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 625
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 107
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 129
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 150
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 173
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 195
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 216
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 239
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 262
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 284
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 306
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 328
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 349
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 20
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 27
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 120
