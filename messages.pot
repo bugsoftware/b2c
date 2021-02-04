@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-04 08:15-0500\n"
+"POT-Creation-Date: 2021-02-04 09:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1774,6 +1774,7 @@ msgid "Advanced options"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 45
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 140
 # File: module/b2c/flights/b2c/index/index.phtml, line: 33
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 40
 # File: module/b2c/view/b2c/index/airlines.phtml, line: 20
@@ -2292,7 +2293,8 @@ msgid "Take a look at our selection of the best destinations for your next vacat
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 5
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 82
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 42
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 97
 msgid "Flight Offers"
 msgstr ""
 #
@@ -4183,13 +4185,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 216
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 224
 msgid "Bonus Web"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 64
-# File: module/b2c/view/b2c/index/index.phtml, line: 117
-# File: module/b2c/view/b2c/air/airline.phtml, line: 125
-# File: module/b2c/view/b2c/air/index.phtml, line: 245
-msgid "Roundtrip from"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 29
@@ -9953,6 +9948,12 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index.phtml, line: 28
 # File: module/b2c/view/b2c/index/index.phtml, line: 29
 msgid "Featured Cruises"
+msgstr ""
+#
+# File: module/b2c/view/b2c/index/index.phtml, line: 117
+# File: module/b2c/view/b2c/air/airline.phtml, line: 125
+# File: module/b2c/view/b2c/air/index.phtml, line: 245
+msgid "Roundtrip from"
 msgstr ""
 #
 # File: module/b2c/view/b2c/charters/index.phtml, line: 5
