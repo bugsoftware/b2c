@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-05 15:03-0500\n"
+"POT-Creation-Date: 2021-02-05 16:12-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1720,7 +1720,6 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 9
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 10
-# File: module/b2c/costamar/layout/layout.phtml, line: 99
 # File: module/b2c/costamar/layout/layout.phtml, line: 123
 msgid "City, station or airport"
 msgstr ""
@@ -6893,6 +6892,10 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 90
 # File: module/b2c/costamar/layout/layout.phtml, line: 114
 msgid "Choose your nearest airport"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 99
+msgid "Other airport"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 108
