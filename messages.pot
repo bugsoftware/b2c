@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-05 12:47-0500\n"
+"POT-Creation-Date: 2021-02-05 12:55-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -394,9 +394,9 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 484
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 115
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 527
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1053
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1067
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1073
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1054
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1068
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1074
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 288
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 341
 # File: module/b2c/view/b2c/dynamic-packaging/preloader.phtml, line: 134
@@ -2506,7 +2506,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 402
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 81
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 161
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 601
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 602
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 114
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 106
 # File: module/b2c/view/b2c/search.phtml, line: 133
@@ -2518,7 +2518,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 403
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 82
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 162
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 602
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 603
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 118
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 107
 # File: module/b2c/view/b2c/search.phtml, line: 134
@@ -2535,8 +2535,8 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 86
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 85
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1142
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1144
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1143
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1145
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 101
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 29
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 321
@@ -5954,8 +5954,8 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 170
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 313
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 330
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1142
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1247
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1143
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1248
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 312
 msgid "Book"
 msgstr ""
@@ -6040,7 +6040,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 114
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 209
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 94
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1215
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1216
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 307
 # File: module/b2c/view/b2c/search.phtml, line: 75
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 111
@@ -6256,7 +6256,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/list.phtml, line: 63
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 92
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 538
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1144
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1145
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 103
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 104
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 267
@@ -6365,7 +6365,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 404
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 162
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 105
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 603
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 604
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 305
 # File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 148
 # File: module/b2c/view/b2c/search.phtml, line: 86
@@ -6519,7 +6519,7 @@ msgid "View Air + Hotel Offer"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 427
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1079
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1080
 msgid "Your dates are popular - we've run out of rooms at this property!"
 msgstr ""
 #
@@ -6553,17 +6553,17 @@ msgid "Options"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 571
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1218
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1219
 msgid "FREE cancellation before"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 573
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1220
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1221
 msgid "PARTIAL cancellation before"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 575
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1222
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1223
 msgid "Booking conditions and cancellation policies will be displayed in checkout."
 msgstr ""
 #
@@ -7939,7 +7939,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/cabin.phtml, line: 52
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 254
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 466
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1144
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1145
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 53
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 197
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 306
@@ -11114,7 +11114,7 @@ msgid "New Search"
 msgstr ""
 #
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 313
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1142
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1143
 msgid "Room information"
 msgstr ""
 #
@@ -11173,11 +11173,11 @@ msgstr ""
 msgid "Must use an extra bed which will incur an additional charge."
 msgstr ""
 #
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1103
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1104
 msgid "Booking Total"
 msgstr ""
 #
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1213
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1214
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 243
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 260
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 277
