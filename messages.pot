@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-05 05:47-0500\n"
+"POT-Creation-Date: 2021-02-05 06:04-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2581,6 +2581,10 @@ msgid "Children (0-2)"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 245
+msgid "Start a video chat now!"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 245
 msgid "LIVE"
 msgstr ""
 #
@@ -2588,11 +2592,15 @@ msgstr ""
 msgid "STREAM"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 249
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 250
+msgid "I want you to call me"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 254
 msgid "Direct phone"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 256
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 261
 msgid "Schedule"
 msgstr ""
 #
