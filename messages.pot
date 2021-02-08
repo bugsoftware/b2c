@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-08 05:21-0500\n"
+"POT-Creation-Date: 2021-02-08 05:36-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5989,6 +5989,12 @@ msgstr ""
 msgid "We offer you the best activities so you can enjoy your stay to the fullest!"
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 2454
+# File: module/b2c/costamar/layout/layout.phtml, line: 734
+# File: module/b2c/view/layout/layout.phtml, line: 670
+msgid "All rights reserved"
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 30
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 51
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 175
@@ -6991,11 +6997,6 @@ msgstr ""
 # File: module/b2c/costamar/layout/layout.phtml, line: 721
 # File: module/b2c/view/layout/layout.phtml, line: 664
 msgid "All Destinations"
-msgstr ""
-#
-# File: module/b2c/costamar/layout/layout.phtml, line: 734
-# File: module/b2c/view/layout/layout.phtml, line: 670
-msgid "All rights reserved"
 msgstr ""
 #
 # File: module/b2c/src/Controller/AdminController.php, line: 246
