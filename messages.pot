@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-08 06:06-0500\n"
+"POT-Creation-Date: 2021-02-08 06:10-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5989,7 +5989,15 @@ msgstr ""
 msgid "We offer you the best activities so you can enjoy your stay to the fullest!"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 2450
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 946
+msgid "Hotel Reviews"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 947
+msgid "See what other travelers say about this hotel so you can better plan your next vacation."
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 2438
 # File: module/b2c/costamar/layout/layout.phtml, line: 734
 # File: module/b2c/view/layout/layout.phtml, line: 670
 msgid "All rights reserved"
