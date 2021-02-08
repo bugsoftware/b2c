@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-08 06:24-0500\n"
+"POT-Creation-Date: 2021-02-08 06:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5983,8 +5983,32 @@ msgstr ""
 msgid "per pax in double accommodation"
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 314
+msgid "Lowest Rates"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 321
+msgid "Without Insurance"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 325
+msgid "Without Transfers"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 329
+msgid "Without Insurance & Transfers"
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 375
 msgid "Lands in"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 427
+msgid "View More"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 434
+msgid "Why?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 669
