@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-09 08:32-0500\n"
+"POT-Creation-Date: 2021-02-09 10:39-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -549,7 +549,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 69
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 74
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 155
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 218
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 306
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 11
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 168
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 93
@@ -1534,8 +1534,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 125
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 148
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 251
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 473
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 344
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 566
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 105
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 127
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 148
@@ -1565,8 +1565,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 126
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 149
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 252
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 474
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 345
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 567
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 106
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 128
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 149
@@ -1607,7 +1607,37 @@ msgstr ""
 msgid "The best trained team to advise you so you can fully enjoy your destination."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 167
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 188
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 245
+msgid "Chat live with your agent"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 192
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 193
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 194
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 249
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 250
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 251
+msgid "Start a video chat now"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 195
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 252
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 259
+msgid "I want you to call me"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 201
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 264
+msgid "Direct phone"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 208
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 271
+msgid "Schedule"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 257
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 88
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 75
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 132
@@ -1631,44 +1661,44 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 167
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 211
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 257
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 299
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 90
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 162
 msgid "Whatsapp"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 169
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 259
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 93
 msgid "Origin:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 172
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 261
 msgid "Languages:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 179
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 267
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 95
 msgid "Specialties:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 188
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 102
 msgid "Score:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 198
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 286
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 137
 msgid "More about me"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 198
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 286
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 137
 msgid "View Profile"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 199
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 225
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 287
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 313
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 139
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 172
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 594
@@ -1677,19 +1707,19 @@ msgstr ""
 msgid "Book Now"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 210
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 298
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 159
 # File: module/b2c/costamar/layout/layout.phtml, line: 667
 # File: module/b2c/view/layout/layout.phtml, line: 621
 msgid "Phone:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 216
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 304
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 167
 msgid "Email:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 261
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 354
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 20
 # File: module/b2c/view/b2c/activities/results.phtml, line: 247
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 93
@@ -1707,22 +1737,22 @@ msgstr ""
 msgid "Destination"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 262
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 355
 msgid "Take a look at everything that awaits you in this wonderful destination and plan an unforgettable vacation."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 282
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 331
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 375
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 424
 msgid "Informational menu"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 285
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 380
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 378
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 473
 msgid "Understand"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 287
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 383
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 380
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 476
 # File: module/b2c/view/b2c/packages/package.phtml, line: 276
 # File: module/b2c/view/b2c/packages/package.phtml, line: 278
 # File: module/b2c/view/b2c/packages/package.phtml, line: 279
@@ -1736,23 +1766,23 @@ msgstr ""
 msgid "Transportation"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 288
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 384
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 381
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 477
 msgid "Documents"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 289
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 385
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 382
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 478
 msgid "Tips"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 291
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 388
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 384
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 481
 msgid "See"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 296
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 396
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 389
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 489
 # File: module/b2c/view/b2c/admin/currency.phtml, line: 5
 # File: module/b2c/view/b2c/admin/currency.phtml, line: 63
 # File: module/b2c/view/b2c/admin/currency.phtml, line: 64
@@ -1760,31 +1790,31 @@ msgstr ""
 msgid "Currency"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 297
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 400
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 390
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 493
 msgid "Weather"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 299
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 407
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 392
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 500
 msgid "Eat"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 302
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 412
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 395
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 505
 msgid "Drink"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 305
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 417
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 398
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 510
 msgid "Sleep"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 327
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 420
 msgid "Let's talk about"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 393
+# File: module/b2c/costamar/b2c/destinations/index.phtml, line: 486
 msgid "Do"
 msgstr ""
 #
@@ -2590,21 +2620,6 @@ msgstr ""
 msgid "Children (0-2)"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 245
-msgid "Chat live with your agent"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 249
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 250
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 251
-msgid "Start a video chat now"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 252
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 259
-msgid "I want you to call me"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 256
 msgid "Start a video chat now!"
 msgstr ""
@@ -2615,14 +2630,6 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 256
 msgid "STREAM"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 264
-msgid "Direct phone"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 271
-msgid "Schedule"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 11
