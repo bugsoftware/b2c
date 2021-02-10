@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-10 07:29-0500\n"
+"POT-Creation-Date: 2021-02-10 07:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,6 +24,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 22
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 57
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 9
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 19
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 123
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 186
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 193
@@ -2426,6 +2427,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 5
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 53
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 4
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 32
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 80
 msgid "Flight Offers"
@@ -4325,6 +4327,42 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 216
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 224
 msgid "Bonus Web"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 10
+msgid "Departing from"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 18
+# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 81
+# File: module/b2c/flights/b2c/air/search.phtml, line: 39
+# File: module/b2c/view/b2c/activities/results.phtml, line: 323
+# File: module/b2c/view/b2c/cars/search.phtml, line: 239
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 141
+# File: module/b2c/view/b2c/air/multisearch.phtml, line: 106
+# File: module/b2c/view/b2c/air/search.phtml, line: 79
+# File: module/b2c/view/b2c/packages/list.phtml, line: 63
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 92
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 538
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1145
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 103
+# File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 104
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 267
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 324
+# File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 316
+# File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 112
+# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 230
+# File: module/b2c/view/b2c/search.phtml, line: 73
+# File: module/b2c/view/b2c/search.phtml, line: 365
+msgid "Price"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 18
+# File: module/b2c/language/language.php, line: 14
+# File: module/b2c/view/b2c/packages/package.phtml, line: 225
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 342
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 405
+msgid "per person"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 22
@@ -6353,29 +6391,6 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 81
-# File: module/b2c/flights/b2c/air/search.phtml, line: 39
-# File: module/b2c/view/b2c/activities/results.phtml, line: 323
-# File: module/b2c/view/b2c/cars/search.phtml, line: 239
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 141
-# File: module/b2c/view/b2c/air/multisearch.phtml, line: 106
-# File: module/b2c/view/b2c/air/search.phtml, line: 79
-# File: module/b2c/view/b2c/packages/list.phtml, line: 63
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 92
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 538
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1145
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 103
-# File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 104
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 267
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 324
-# File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 316
-# File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 112
-# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 230
-# File: module/b2c/view/b2c/search.phtml, line: 73
-# File: module/b2c/view/b2c/search.phtml, line: 365
-msgid "Price"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 82
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 93
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 319
@@ -7190,13 +7205,6 @@ msgstr ""
 #
 # File: module/b2c/language/language.php, line: 11
 msgid "night"
-msgstr ""
-#
-# File: module/b2c/language/language.php, line: 14
-# File: module/b2c/view/b2c/packages/package.phtml, line: 225
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 342
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 405
-msgid "per person"
 msgstr ""
 #
 # File: module/b2c/language/language.php, line: 15
