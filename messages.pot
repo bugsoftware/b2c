@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-10 12:40-0500\n"
+"POT-Creation-Date: 2021-02-11 06:32-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1611,32 +1611,32 @@ msgid "The best trained team to advise you so you can fully enjoy your destinati
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 188
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 245
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 246
 msgid "Chat live with your agent"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 192
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 193
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 194
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 249
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 250
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 251
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 252
 msgid "Start a video chat now"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 195
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 252
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 259
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 253
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 260
 msgid "I want you to call me"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 201
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 264
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 265
 msgid "Direct phone"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 208
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 271
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 272
 msgid "Schedule"
 msgstr ""
 #
@@ -2629,15 +2629,15 @@ msgstr ""
 msgid "Children (0-2)"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 256
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 257
 msgid "Start a video chat now!"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 256
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 257
 msgid "LIVE"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 256
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 257
 msgid "STREAM"
 msgstr ""
 #
