@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-12 13:26-0500\n"
+"POT-Creation-Date: 2021-02-12 13:49-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2136,6 +2136,7 @@ msgid "Coach/Economy"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 251
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 489
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 92
 # File: module/b2c/view/b2c/air/search.phtml, line: 46
 msgid "Premium Economy"
@@ -4724,16 +4725,15 @@ msgstr ""
 msgid "Stops"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 485
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 491
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 496
-msgid "The best option for your flight"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 485
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 489
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 491
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 496
 msgid "We recommend these flights with"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 491
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 496
+msgid "The best option for your flight"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 504
