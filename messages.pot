@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-12 09:13-0500\n"
+"POT-Creation-Date: 2021-02-12 10:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,8 +24,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 22
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 57
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 9
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 41
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 145
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 39
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 143
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 186
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 193
 # File: module/b2c/view/b2c/activities/results.phtml, line: 12
@@ -1553,9 +1553,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 27
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 120
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 152
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 69
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 76
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 169
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 67
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 74
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 167
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 160
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 294
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 567
@@ -1585,9 +1585,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 28
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 121
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 153
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 70
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 77
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 170
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 68
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 75
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 168
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 161
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 295
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 568
@@ -1923,7 +1923,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 45
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 89
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 138
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 136
 # File: module/b2c/flights/b2c/index/index.phtml, line: 33
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 40
 # File: module/b2c/view/b2c/index/airlines.phtml, line: 20
@@ -2429,14 +2429,14 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 53
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 7
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 9
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 54
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 102
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 52
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 100
 msgid "Flight Offers"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 7
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 134
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 56
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 54
 msgid "Thinking of traveling? We have the best prices on flights to give you that getaway you have been waiting for on your vacation."
 msgstr ""
 #
@@ -4334,7 +4334,7 @@ msgstr ""
 msgid "Departing from"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 40
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 38
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 81
 # File: module/b2c/flights/b2c/air/search.phtml, line: 39
 # File: module/b2c/view/b2c/activities/results.phtml, line: 323
@@ -4358,7 +4358,7 @@ msgstr ""
 msgid "Price"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 40
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 38
 # File: module/b2c/language/language.php, line: 14
 # File: module/b2c/view/b2c/packages/package.phtml, line: 225
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 342
@@ -4366,7 +4366,7 @@ msgstr ""
 msgid "per person"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/air/airline.phtml, line: 44
+# File: module/b2c/costamar/b2c/air/airline.phtml, line: 42
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 95
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 449
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 109
