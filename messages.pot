@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-16 11:57-0500\n"
+"POT-Creation-Date: 2021-02-16 12:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -553,7 +553,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 306
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 11
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 168
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 350
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 351
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 93
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 82
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 203
@@ -2644,7 +2644,7 @@ msgstr ""
 msgid "STREAM"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 350
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 351
 msgid "Sign in to unlock deals and discounts!"
 msgstr ""
 #
