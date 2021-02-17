@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-17 06:24-0500\n"
+"POT-Creation-Date: 2021-02-17 07:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1612,32 +1612,32 @@ msgid "The best trained team to advise you so you can fully enjoy your destinati
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 188
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 30
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 31
 msgid "Chat live with your agent"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 192
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 193
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 194
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 34
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 35
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 36
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 37
 msgid "Start a video chat now"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 195
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 37
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 44
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 38
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 45
 msgid "I want you to call me"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 201
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 49
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 50
 msgid "Direct phone"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 208
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 56
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 57
 msgid "Schedule"
 msgstr ""
 #
@@ -1832,38 +1832,57 @@ msgstr ""
 msgid "Ports of Call may vary depending on the departure date."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 412
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 413
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 177
+msgid "Interior"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 178
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 207
+msgid "Ocean View"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 179
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 208
+msgid "Balcony"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 180
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 209
+msgid "Suite"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 392
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 393
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 267
 msgid "Dining"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 420
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 421
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 400
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 401
 msgid "Bars & Lounges"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 428
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 429
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 408
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 409
 msgid "Entertainment & Nightlife"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 436
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 437
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 416
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 417
 msgid "Onboard Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 444
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 445
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 424
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 425
 msgid "Outdoor Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 452
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 453
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 432
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 433
 msgid "Kids Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 460
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 440
 msgid "Note: Details, ship facts, policies, images and descriptions are gathered for information only and subject to change without notice. Images and descriptions displayed are subject to change at any time without notice. Actual details, design and configuration may vary."
 msgstr ""
 #
@@ -2677,15 +2696,15 @@ msgstr ""
 msgid "Children (0-2)"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 41
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
 msgid "Start a video chat now!"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 41
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
 msgid "LIVE"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 41
+# File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
 msgid "STREAM"
 msgstr ""
 #
@@ -9936,18 +9955,6 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 206
 msgid "Inside Cabin"
-msgstr ""
-#
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 207
-msgid "Ocean View"
-msgstr ""
-#
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 208
-msgid "Balcony"
-msgstr ""
-#
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 209
-msgid "Suite"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 219
