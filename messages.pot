@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-17 05:20-0500\n"
+"POT-Creation-Date: 2021-02-17 05:56-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -364,7 +364,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/search.phtml, line: 450
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 342
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 340
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 367
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 109
 # File: module/b2c/view/b2c/index/index_preloader_transfers.phtml, line: 63
@@ -1822,6 +1822,46 @@ msgstr ""
 msgid "Do"
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 26
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 167
+msgid "Ports of Call may vary depending on the departure date."
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 414
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 415
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 267
+msgid "Dining"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 422
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 423
+msgid "Bars & Lounges"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 430
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 431
+msgid "Entertainment & Nightlife"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 438
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 439
+msgid "Onboard Activities"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 446
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 447
+msgid "Outdoor Activities"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 454
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 455
+msgid "Kids Activities"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 462
+msgid "Note: Details, ship facts, policies, images and descriptions are gathered for information only and subject to change without notice. Images and descriptions displayed are subject to change at any time without notice. Actual details, design and configuration may vary."
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 9
 # File: module/b2c/view/b2c/cars/search.phtml, line: 9
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 5
@@ -2812,14 +2852,14 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 84
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 343
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 283
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 281
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 44
 msgid "Please select destination"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 90
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 344
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 284
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 282
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 45
 msgid "Before continuing please select desired cruise destination"
 msgstr ""
@@ -6575,7 +6615,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 109
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 350
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 290
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 288
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 193
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 315
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 122
@@ -7709,6 +7749,8 @@ msgid "Activity for"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 362
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 66
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 115
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 235
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 31
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 214
@@ -7720,6 +7762,7 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 365
 # File: module/b2c/view/b2c/cruises/passengers.phtml, line: 132
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 120
 # File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 64
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 236
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 218
@@ -9805,36 +9848,32 @@ msgid "Ship details"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 341
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 281
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 279
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 47
 msgid "OK"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 352
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 292
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 290
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 193
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 317
 msgid "SELECT CABIN"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 231
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 229
 msgid "Recreation"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 240
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 238
 msgid "Cabin Features"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 251
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 249
 msgid "Ship Features"
 msgstr ""
 #
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 260
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 258
 msgid "Classes and Services"
-msgstr ""
-#
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 269
-msgid "Dining"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 33
