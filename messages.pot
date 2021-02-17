@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-17 07:58-0500\n"
+"POT-Creation-Date: 2021-02-17 08:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1461,6 +1461,11 @@ msgid "The best selection of vacation packages. You have different options so yo
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 63
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 15
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 224
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 234
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 244
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 254
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 42
 # File: module/b2c/language/language.php, line: 12
 # File: module/b2c/view/b2c/tours/index.phtml, line: 92
@@ -1516,6 +1521,10 @@ msgid "View"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 101
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 224
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 234
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 244
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 254
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 80
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 312
 # File: module/b2c/view/b2c/activities/results.phtml, line: 296
@@ -1703,7 +1712,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 287
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 313
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 9
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 17
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 139
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 172
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 594
@@ -1823,66 +1832,128 @@ msgstr ""
 msgid "Do"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 8
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 16
 msgid "Start New Search"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 26
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 167
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 32
+msgid "nights on board"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 34
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 175
 msgid "Ports of Call may vary depending on the departure date."
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 177
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 185
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 212
 msgid "Interior"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 178
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 186
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 213
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 207
 msgid "Ocean View"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 179
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 187
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 214
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 208
 msgid "Balcony"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 180
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 188
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 215
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 209
 msgid "Suite"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 392
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 393
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 197
+msgid "Sailing Dates"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 198
+msgid "Cruise Information"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 199
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 278
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 276
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 257
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 467
+msgid "Terms & Conditions"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 223
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 233
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 243
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 253
+msgid "Departing:"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 223
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 233
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 243
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 253
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 34
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 34
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 34
+msgid "at"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 226
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 236
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 246
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 256
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 215
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 315
+# File: module/b2c/costamar/layout/layout.phtml, line: 294
+# File: module/b2c/view/b2c/activities/activity.phtml, line: 151
+# File: module/b2c/view/b2c/activities/activity.phtml, line: 473
+# File: module/b2c/view/b2c/packages/package.phtml, line: 60
+# File: module/b2c/view/b2c/packages/package.phtml, line: 240
+# File: module/b2c/view/b2c/packages/package.phtml, line: 295
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 170
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 313
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 330
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1143
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1248
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 312
+msgid "Book"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 301
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 302
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 267
 msgid "Dining"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 400
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 401
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 309
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 310
 msgid "Bars & Lounges"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 408
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 409
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 317
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 318
 msgid "Entertainment & Nightlife"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 416
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 417
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 325
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 326
 msgid "Onboard Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 424
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 425
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 333
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 334
 msgid "Outdoor Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 432
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 433
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 341
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 342
 msgid "Kids Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 440
+# File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 349
 msgid "Note: Details, ship facts, policies, images and descriptions are gathered for information only and subject to change without notice. Images and descriptions displayed are subject to change at any time without notice. Actual details, design and configuration may vary."
 msgstr ""
 #
@@ -4980,12 +5051,6 @@ msgstr ""
 msgid "Last logged in:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 34
-# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 34
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 34
-msgid "at"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 39
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 57
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 39
@@ -6098,23 +6163,6 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 155
 msgid "Select your Package"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 215
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 315
-# File: module/b2c/costamar/layout/layout.phtml, line: 294
-# File: module/b2c/view/b2c/activities/activity.phtml, line: 151
-# File: module/b2c/view/b2c/activities/activity.phtml, line: 473
-# File: module/b2c/view/b2c/packages/package.phtml, line: 60
-# File: module/b2c/view/b2c/packages/package.phtml, line: 240
-# File: module/b2c/view/b2c/packages/package.phtml, line: 295
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 170
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 313
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 330
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1143
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1248
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 312
-msgid "Book"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 217
@@ -9384,13 +9432,6 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 206
 msgid "Mandatory fees paid at the counter"
-msgstr ""
-#
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 278
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 276
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 257
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 467
-msgid "Terms & Conditions"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 282
