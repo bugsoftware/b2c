@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-18 10:20-0500\n"
+"POT-Creation-Date: 2021-02-19 08:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1425,7 +1425,7 @@ msgid "Forgot Password?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
-# File: module/b2c/costamar/layout/layout.phtml, line: 718
+# File: module/b2c/costamar/layout/layout.phtml, line: 713
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 149
 # File: module/b2c/view/layout/layout.phtml, line: 663
 # File: module/b2c/view/layout/layout2.phtml, line: 663
@@ -1724,7 +1724,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 298
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 159
-# File: module/b2c/costamar/layout/layout.phtml, line: 667
+# File: module/b2c/costamar/layout/layout.phtml, line: 662
 # File: module/b2c/view/layout/layout.phtml, line: 621
 # File: module/b2c/view/layout/layout2.phtml, line: 621
 msgid "Phone:"
@@ -6146,7 +6146,7 @@ msgid "Not a member?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 33
-# File: module/b2c/costamar/layout/layout.phtml, line: 323
+# File: module/b2c/costamar/layout/layout.phtml, line: 321
 # File: module/b2c/view/layout/layout.phtml, line: 226
 # File: module/b2c/view/layout/layout.phtml, line: 229
 # File: module/b2c/view/layout/layout.phtml, line: 235
@@ -6247,7 +6247,7 @@ msgid "See what other travelers say about this hotel so you can better plan your
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 2380
-# File: module/b2c/costamar/layout/layout.phtml, line: 734
+# File: module/b2c/costamar/layout/layout.phtml, line: 729
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
 msgid "All rights reserved"
@@ -7133,6 +7133,35 @@ msgstr ""
 msgid "Click to access your Personalized Website:"
 msgstr ""
 #
+# File: module/b2c/costamar/layout/layout.phtml, line: 45
+# File: module/b2c/costamar/layout/layout.phtml, line: 310
+# File: module/b2c/costamar/layout/layout.phtml, line: 312
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 96
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 111
+# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 33
+# File: module/b2c/view/layout/layout.phtml, line: 214
+# File: module/b2c/view/layout/layout.phtml, line: 220
+# File: module/b2c/view/layout/layout2.phtml, line: 214
+# File: module/b2c/view/layout/layout2.phtml, line: 220
+msgid "My Account Settings and Password Reset"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 45
+# File: module/b2c/costamar/layout/layout.phtml, line: 315
+# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 53
+# File: module/b2c/view/b2c/bookings/signout.phtml, line: 5
+# File: module/b2c/view/b2c/bookings/signout.phtml, line: 15
+# File: module/b2c/view/layout/layout.phtml, line: 216
+# File: module/b2c/view/layout/layout.phtml, line: 222
+# File: module/b2c/view/layout/layout.phtml, line: 393
+# File: module/b2c/view/layout/layout.phtml, line: 399
+# File: module/b2c/view/layout/layout2.phtml, line: 216
+# File: module/b2c/view/layout/layout2.phtml, line: 222
+# File: module/b2c/view/layout/layout2.phtml, line: 393
+# File: module/b2c/view/layout/layout2.phtml, line: 399
+msgid "Sign out"
+msgstr ""
+#
 # File: module/b2c/costamar/layout/layout.phtml, line: 84
 # File: module/b2c/costamar/layout/layout.phtml, line: 108
 msgid "Departure Airport"
@@ -7172,18 +7201,6 @@ msgstr ""
 msgid "Cart Details"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 310
-# File: module/b2c/costamar/layout/layout.phtml, line: 312
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 96
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 111
-# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 33
-# File: module/b2c/view/layout/layout.phtml, line: 214
-# File: module/b2c/view/layout/layout.phtml, line: 220
-# File: module/b2c/view/layout/layout2.phtml, line: 214
-# File: module/b2c/view/layout/layout2.phtml, line: 220
-msgid "My Account Settings and Password Reset"
-msgstr ""
-#
 # File: module/b2c/costamar/layout/layout.phtml, line: 312
 # File: module/b2c/costamar/layout/layout.phtml, line: 317
 # File: module/b2c/view/layout/layout.phtml, line: 214
@@ -7197,22 +7214,7 @@ msgstr ""
 msgid "My Account"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 315
-# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 53
-# File: module/b2c/view/b2c/bookings/signout.phtml, line: 5
-# File: module/b2c/view/b2c/bookings/signout.phtml, line: 15
-# File: module/b2c/view/layout/layout.phtml, line: 216
-# File: module/b2c/view/layout/layout.phtml, line: 222
-# File: module/b2c/view/layout/layout.phtml, line: 393
-# File: module/b2c/view/layout/layout.phtml, line: 399
-# File: module/b2c/view/layout/layout2.phtml, line: 216
-# File: module/b2c/view/layout/layout2.phtml, line: 222
-# File: module/b2c/view/layout/layout2.phtml, line: 393
-# File: module/b2c/view/layout/layout2.phtml, line: 399
-msgid "Sign out"
-msgstr ""
-#
-# File: module/b2c/costamar/layout/layout.phtml, line: 322
+# File: module/b2c/costamar/layout/layout.phtml, line: 321
 # File: module/b2c/view/b2c/admin/login.phtml, line: 91
 # File: module/b2c/view/layout/layout.phtml, line: 225
 # File: module/b2c/view/layout/layout.phtml, line: 228
@@ -7233,14 +7235,14 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 706
+# File: module/b2c/costamar/layout/layout.phtml, line: 701
 # File: module/b2c/view/b2c/admin/social.phtml, line: 5
 # File: module/b2c/view/layout/layout.phtml, line: 660
 # File: module/b2c/view/layout/layout2.phtml, line: 660
 msgid "Social"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 721
+# File: module/b2c/costamar/layout/layout.phtml, line: 716
 # File: module/b2c/view/layout/layout.phtml, line: 664
 # File: module/b2c/view/layout/layout2.phtml, line: 664
 msgid "All Destinations"
