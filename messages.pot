@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-25 07:44-0500\n"
+"POT-Creation-Date: 2021-02-25 08:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1623,7 +1623,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 188
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 31
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8273
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8272
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8272
 msgid "Chat live with your agent"
 msgstr ""
 #
@@ -1633,29 +1634,36 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 35
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 36
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 37
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8272
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8271
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8276
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8277
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8278
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8271
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8276
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8277
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8278
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8279
 msgid "Start a video chat now"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 195
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 38
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 45
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8280
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8279
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8279
 msgid "I want you to call me"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 201
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 50
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8286
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8285
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8285
 msgid "Direct phone"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 208
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 57
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8293
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8292
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8292
 msgid "Schedule"
 msgstr ""
 #
@@ -2783,12 +2791,14 @@ msgid "Start a video chat now!"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8272
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8271
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8271
 msgid "LIVE"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8272
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8271
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8271
 msgid "STREAM"
 msgstr ""
 #
@@ -7127,24 +7137,24 @@ msgstr ""
 msgid "details"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8072
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8071
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8070
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8070
 msgid "About"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8131
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8129
 # File: module/b2c/view/b2c/admin/contacts.phtml, line: 8
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8130
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8129
 msgid "Contacts"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8319
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8419
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8417
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8415
 msgid "To stop receiving these emails"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8319
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 8419
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8417
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 8415
 msgid "unsubscribe"
 msgstr ""
 #
