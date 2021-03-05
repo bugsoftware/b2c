@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-05 05:43-0500\n"
+"POT-Creation-Date: 2021-03-05 06:56-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1452,7 +1452,7 @@ msgid "Forgot Password?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
-# File: module/b2c/costamar/layout/layout.phtml, line: 713
+# File: module/b2c/costamar/layout/layout.phtml, line: 718
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 149
 # File: module/b2c/view/layout/layout.phtml, line: 663
 # File: module/b2c/view/layout/layout2.phtml, line: 663
@@ -1771,7 +1771,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 298
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 151
-# File: module/b2c/costamar/layout/layout.phtml, line: 662
+# File: module/b2c/costamar/layout/layout.phtml, line: 667
 # File: module/b2c/view/layout/layout.phtml, line: 621
 # File: module/b2c/view/layout/layout2.phtml, line: 621
 msgid "Phone:"
@@ -2620,6 +2620,7 @@ msgid "Theme Parks"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features.phtml, line: 3
+# File: module/b2c/costamar/layout/layout.phtml, line: 453
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 372
 msgid "Top Destinations"
 msgstr ""
@@ -7458,20 +7459,24 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 701
+# File: module/b2c/costamar/layout/layout.phtml, line: 454
+msgid "Holidays"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 706
 # File: module/b2c/view/b2c/admin/social.phtml, line: 5
 # File: module/b2c/view/layout/layout.phtml, line: 660
 # File: module/b2c/view/layout/layout2.phtml, line: 660
 msgid "Social"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 716
+# File: module/b2c/costamar/layout/layout.phtml, line: 721
 # File: module/b2c/view/layout/layout.phtml, line: 664
 # File: module/b2c/view/layout/layout2.phtml, line: 664
 msgid "All Destinations"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 729
+# File: module/b2c/costamar/layout/layout.phtml, line: 734
 # File: module/b2c/costamar/layout/layout2.phtml, line: 171
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
