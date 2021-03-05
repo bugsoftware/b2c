@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-05 06:56-0500\n"
+"POT-Creation-Date: 2021-03-05 07:11-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2621,6 +2621,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features.phtml, line: 3
 # File: module/b2c/costamar/layout/layout.phtml, line: 453
+# File: module/b2c/costamar/layout/layout.phtml, line: 474
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 372
 msgid "Top Destinations"
 msgstr ""
@@ -4704,6 +4705,8 @@ msgid "More"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 29
+# File: module/b2c/costamar/b2c/packages/index.phtml, line: 26
+# File: module/b2c/costamar/layout/layout.phtml, line: 467
 # File: module/b2c/view/b2c/activities/index.phtml, line: 166
 # File: module/b2c/view/b2c/activities/index.phtml, line: 181
 # File: module/b2c/view/b2c/activities/index.phtml, line: 196
@@ -6467,9 +6470,11 @@ msgstr ""
 msgid "Select Package"
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/packages/index.phtml, line: 27
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 30
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 51
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 175
+# File: module/b2c/costamar/layout/layout.phtml, line: 468
 # File: module/b2c/view/b2c/activities/index.phtml, line: 167
 # File: module/b2c/view/b2c/activities/index.phtml, line: 182
 # File: module/b2c/view/b2c/activities/index.phtml, line: 197
@@ -7460,7 +7465,43 @@ msgid "Sign in"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 454
+# File: module/b2c/costamar/layout/layout.phtml, line: 460
 msgid "Holidays"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 466
+# File: module/b2c/view/layout/admin.phtml, line: 264
+msgid "Home"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 469
+# File: module/b2c/view/b2c/admin/settings.phtml, line: 29
+# File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 13
+# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 13
+msgid "Transfers"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 470
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 47
+# File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 48
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 57
+# File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 49
+# File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 48
+msgid "Tours & Activities"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 471
+# File: module/b2c/view/b2c/admin/settings.phtml, line: 23
+msgid "Cars"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 472
+# File: module/b2c/view/b2c/admin/settings.phtml, line: 27
+msgid "Cruises"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout.phtml, line: 473
+msgid "Insurances"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 706
@@ -9160,26 +9201,12 @@ msgstr ""
 msgid "Copyright Footer"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/settings.phtml, line: 23
-msgid "Cars"
-msgstr ""
-#
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 25
 msgid "Packages"
 msgstr ""
 #
-# File: module/b2c/view/b2c/admin/settings.phtml, line: 27
-msgid "Cruises"
-msgstr ""
-#
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 28
 msgid "Dynamic Packaging"
-msgstr ""
-#
-# File: module/b2c/view/b2c/admin/settings.phtml, line: 29
-# File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 13
-# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 13
-msgid "Transfers"
 msgstr ""
 #
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 33
@@ -11750,14 +11777,6 @@ msgstr ""
 msgid "Free amendments"
 msgstr ""
 #
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 47
-# File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 48
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 57
-# File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 49
-# File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 48
-msgid "Tours & Activities"
-msgstr ""
-#
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 64
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 255
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 64
@@ -12217,10 +12236,6 @@ msgstr ""
 #
 # File: module/b2c/view/layout/admin.phtml, line: 260
 msgid "Warning! This will reset all your widget settings."
-msgstr ""
-#
-# File: module/b2c/view/layout/admin.phtml, line: 264
-msgid "Home"
 msgstr ""
 #
 # File: module/b2c/view/layout/admin.phtml, line: 264
