@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-05 08:50-0500\n"
+"POT-Creation-Date: 2021-03-05 10:30-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -352,6 +352,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/googlesignin.phtml, line: 9
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 567
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 574
+# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 9
+# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 104
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 238
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 101
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 342
@@ -549,6 +551,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/searching.phtml, line: 74
 # File: module/b2c/costamar/b2c/air/searching.phtml, line: 9
 # File: module/b2c/costamar/b2c/air/searching.phtml, line: 103
+# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 9
+# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 103
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 279
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 282
 # File: module/b2c/view/b2c/dynamic-packaging/preloader.phtml, line: 133
