@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-08 08:20-0500\n"
+"POT-Creation-Date: 2021-03-09 06:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 39
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 143
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 129
+# File: module/b2c/costamar/b2c/packages/search.phtml, line: 57
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 193
 # File: module/b2c/view/b2c/activities/results.phtml, line: 12
 # File: module/b2c/view/b2c/activities/results.phtml, line: 250
@@ -2979,13 +2980,17 @@ msgstr ""
 msgid "Departing from"
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 12
+msgid "Any Destination"
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 18
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 194
 msgid "Length"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 19
-msgid "Any length"
+msgid "Any"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 20
@@ -3091,6 +3096,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 21
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 22
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 23
+# File: module/b2c/costamar/b2c/packages/search.phtml, line: 49
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 566
 # File: module/b2c/language/language.php, line: 13
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 118
