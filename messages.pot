@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-14 12:09-0400\n"
+"POT-Creation-Date: 2021-03-14 12:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3936,6 +3936,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 80
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 44
 # File: module/b2c/costamar/layout/layout.phtml, line: 229
+# File: module/b2c/costamar/layout/layout2.phtml, line: 20
 # File: module/b2c/language/language.php, line: 9
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 94
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 136
@@ -7611,6 +7612,16 @@ msgstr ""
 msgid "All rights reserved"
 msgstr ""
 #
+# File: module/b2c/costamar/layout/layout2.phtml, line: 20
+msgid "with"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout2.phtml, line: 20
+# File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 22
+# File: module/b2c/view/b2c/index/index_features.phtml, line: 21
+msgid "in"
+msgstr ""
+#
 # File: module/b2c/src/Controller/AdminController.php, line: 246
 # File: module/b2c/src/Controller/AdminController.php, line: 2990
 # File: module/b2c/src/Controller/AdminController.php, line: 3260
@@ -10441,11 +10452,6 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 22
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 21
 msgid "Stay"
-msgstr ""
-#
-# File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 22
-# File: module/b2c/view/b2c/index/index_features.phtml, line: 21
-msgid "in"
 msgstr ""
 #
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 29
