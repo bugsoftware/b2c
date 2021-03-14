@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-14 12:33-0400\n"
+"POT-Creation-Date: 2021-03-14 12:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6548,6 +6548,12 @@ msgstr ""
 msgid "Loggin in..."
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 61
+# File: module/b2c/costamar/layout/layout.phtml, line: 457
+# File: module/b2c/costamar/layout/layout.phtml, line: 463
+msgid "Holidays"
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 99
 msgid "Select your Package"
 msgstr ""
@@ -6569,7 +6575,7 @@ msgid "See flight itinerary"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 255
-# File: module/b2c/costamar/layout/layout2.phtml, line: 20
+# File: module/b2c/costamar/layout/layout2.phtml, line: 17
 msgid "per pax in double accommodation"
 msgstr ""
 #
@@ -7576,11 +7582,6 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 457
-# File: module/b2c/costamar/layout/layout.phtml, line: 463
-msgid "Holidays"
-msgstr ""
-#
 # File: module/b2c/costamar/layout/layout.phtml, line: 469
 # File: module/b2c/view/layout/admin.phtml, line: 264
 msgid "Home"
@@ -7610,6 +7611,10 @@ msgstr ""
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
 msgid "All rights reserved"
+msgstr ""
+#
+# File: module/b2c/costamar/layout/layout2.phtml, line: 18
+msgid "per pax"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout2.phtml, line: 20
