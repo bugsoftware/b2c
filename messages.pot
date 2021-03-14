@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-14 10:12-0400\n"
+"POT-Creation-Date: 2021-03-14 12:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1610,7 +1610,8 @@ msgid "Forgot Password?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
-# File: module/b2c/costamar/layout/layout.phtml, line: 721
+# File: module/b2c/costamar/layout/layout.phtml, line: 716
+# File: module/b2c/costamar/layout/layout2.phtml, line: 309
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 149
 # File: module/b2c/view/layout/layout.phtml, line: 663
 # File: module/b2c/view/layout/layout2.phtml, line: 663
@@ -1934,7 +1935,8 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 298
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 151
-# File: module/b2c/costamar/layout/layout.phtml, line: 670
+# File: module/b2c/costamar/layout/layout.phtml, line: 666
+# File: module/b2c/costamar/layout/layout2.phtml, line: 259
 # File: module/b2c/view/layout/layout.phtml, line: 621
 # File: module/b2c/view/layout/layout2.phtml, line: 621
 msgid "Phone:"
@@ -6566,6 +6568,7 @@ msgid "See flight itinerary"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 256
+# File: module/b2c/costamar/layout/layout2.phtml, line: 20
 msgid "per pax in double accommodation"
 msgstr ""
 #
@@ -7586,21 +7589,23 @@ msgstr ""
 msgid "Insurances"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 709
+# File: module/b2c/costamar/layout/layout.phtml, line: 704
+# File: module/b2c/costamar/layout/layout2.phtml, line: 297
 # File: module/b2c/view/b2c/admin/social.phtml, line: 5
 # File: module/b2c/view/layout/layout.phtml, line: 660
 # File: module/b2c/view/layout/layout2.phtml, line: 660
 msgid "Social"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 724
+# File: module/b2c/costamar/layout/layout.phtml, line: 719
+# File: module/b2c/costamar/layout/layout2.phtml, line: 312
 # File: module/b2c/view/layout/layout.phtml, line: 664
 # File: module/b2c/view/layout/layout2.phtml, line: 664
 msgid "All Destinations"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 737
-# File: module/b2c/costamar/layout/layout2.phtml, line: 185
+# File: module/b2c/costamar/layout/layout.phtml, line: 732
+# File: module/b2c/costamar/layout/layout2.phtml, line: 325
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
 msgid "All rights reserved"
