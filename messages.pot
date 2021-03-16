@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-16 09:17-0400\n"
+"POT-Creation-Date: 2021-03-16 10:39-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1760,8 +1760,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 167
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 104
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 235
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 506
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 870
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 515
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 881
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 974
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 977
 msgid "Previous"
@@ -1792,8 +1792,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 168
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 105
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 236
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 507
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 871
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 516
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 882
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 988
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 991
 # File: module/b2c/flights/b2c/air/search.phtml, line: 82
@@ -6611,19 +6611,19 @@ msgstr ""
 msgid "Why?"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 611
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 622
 msgid "Top Activities"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 612
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 623
 msgid "We offer you the best activities so you can enjoy your stay to the fullest!"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 883
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 894
 msgid "Hotel Reviews"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/packages/details.phtml, line: 884
+# File: module/b2c/costamar/b2c/packages/details.phtml, line: 895
 msgid "See what other travelers say about this hotel so you can better plan your next vacation."
 msgstr ""
 #
