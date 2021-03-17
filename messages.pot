@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-17 06:58-0400\n"
+"POT-Creation-Date: 2021-03-17 07:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -670,7 +670,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 26
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 29
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 26
-# File: module/b2c/costamar/layout/layout.phtml, line: 467
+# File: module/b2c/costamar/layout/layout.phtml, line: 466
 # File: module/b2c/view/b2c/activities/index.phtml, line: 166
 # File: module/b2c/view/b2c/activities/index.phtml, line: 181
 # File: module/b2c/view/b2c/activities/index.phtml, line: 196
@@ -728,7 +728,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 30
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 51
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 175
-# File: module/b2c/costamar/layout/layout.phtml, line: 468
+# File: module/b2c/costamar/layout/layout.phtml, line: 467
 # File: module/b2c/view/b2c/activities/index.phtml, line: 167
 # File: module/b2c/view/b2c/activities/index.phtml, line: 182
 # File: module/b2c/view/b2c/activities/index.phtml, line: 197
@@ -783,14 +783,14 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 28
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 28
-# File: module/b2c/costamar/layout/layout.phtml, line: 471
+# File: module/b2c/costamar/layout/layout.phtml, line: 470
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 23
 msgid "Cars"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 29
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 29
-# File: module/b2c/costamar/layout/layout.phtml, line: 469
+# File: module/b2c/costamar/layout/layout.phtml, line: 468
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 29
 # File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 13
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 13
@@ -799,7 +799,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 30
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 30
-# File: module/b2c/costamar/layout/layout.phtml, line: 470
+# File: module/b2c/costamar/layout/layout.phtml, line: 469
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 47
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 48
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 57
@@ -811,7 +811,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 31
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 31
 # File: module/b2c/costamar/layout/layout.phtml, line: 232
-# File: module/b2c/costamar/layout/layout.phtml, line: 472
+# File: module/b2c/costamar/layout/layout.phtml, line: 471
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 27
 msgid "Cruises"
 msgstr ""
@@ -1611,7 +1611,7 @@ msgid "Forgot Password?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
-# File: module/b2c/costamar/layout/layout.phtml, line: 713
+# File: module/b2c/costamar/layout/layout.phtml, line: 712
 # File: module/b2c/costamar/layout/layout2.phtml, line: 309
 # File: module/b2c/view/b2c/destinations/index.phtml, line: 149
 # File: module/b2c/view/layout/layout.phtml, line: 663
@@ -1936,7 +1936,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 298
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 151
-# File: module/b2c/costamar/layout/layout.phtml, line: 663
+# File: module/b2c/costamar/layout/layout.phtml, line: 662
 # File: module/b2c/costamar/layout/layout2.phtml, line: 259
 # File: module/b2c/view/layout/layout.phtml, line: 621
 # File: module/b2c/view/layout/layout2.phtml, line: 621
@@ -2813,8 +2813,8 @@ msgid "Theme Parks"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/index/index_features.phtml, line: 3
-# File: module/b2c/costamar/layout/layout.phtml, line: 453
-# File: module/b2c/costamar/layout/layout.phtml, line: 474
+# File: module/b2c/costamar/layout/layout.phtml, line: 452
+# File: module/b2c/costamar/layout/layout.phtml, line: 473
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 372
 msgid "Top Destinations"
 msgstr ""
@@ -6550,8 +6550,8 @@ msgid "Loggin in..."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 61
-# File: module/b2c/costamar/layout/layout.phtml, line: 454
-# File: module/b2c/costamar/layout/layout.phtml, line: 460
+# File: module/b2c/costamar/layout/layout.phtml, line: 453
+# File: module/b2c/costamar/layout/layout.phtml, line: 459
 msgid "Holidays"
 msgstr ""
 #
@@ -7587,16 +7587,16 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 466
+# File: module/b2c/costamar/layout/layout.phtml, line: 465
 # File: module/b2c/view/layout/admin.phtml, line: 264
 msgid "Home"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 473
+# File: module/b2c/costamar/layout/layout.phtml, line: 472
 msgid "Insurances"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 701
+# File: module/b2c/costamar/layout/layout.phtml, line: 700
 # File: module/b2c/costamar/layout/layout2.phtml, line: 297
 # File: module/b2c/view/b2c/admin/social.phtml, line: 5
 # File: module/b2c/view/layout/layout.phtml, line: 660
@@ -7604,14 +7604,14 @@ msgstr ""
 msgid "Social"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 716
+# File: module/b2c/costamar/layout/layout.phtml, line: 715
 # File: module/b2c/costamar/layout/layout2.phtml, line: 312
 # File: module/b2c/view/layout/layout.phtml, line: 664
 # File: module/b2c/view/layout/layout2.phtml, line: 664
 msgid "All Destinations"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 729
+# File: module/b2c/costamar/layout/layout.phtml, line: 728
 # File: module/b2c/costamar/layout/layout2.phtml, line: 325
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
