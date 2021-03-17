@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-17 07:04-0400\n"
+"POT-Creation-Date: 2021-03-17 07:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -332,7 +332,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 125
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 68
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 92
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 99
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 102
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 624
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 631
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 567
@@ -566,10 +566,11 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 74
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 155
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 306
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 162
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 11
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 160
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 227
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 93
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 96
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1826
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 47
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 82
@@ -1654,6 +1655,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 220
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 230
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 240
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 67
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 42
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 20
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 205
@@ -1687,12 +1689,14 @@ msgid "days"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 86
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 90
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 65
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 297
 msgid "Departs from"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 87
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 91
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 66
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 137
 # File: module/b2c/flights/b2c/air/search.phtml, line: 112
@@ -1704,6 +1708,7 @@ msgid "Arrives"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 90
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 94
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 69
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 314
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 314
@@ -1718,6 +1723,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 220
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 230
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 240
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 105
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 80
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 253
 # File: module/b2c/view/b2c/activities/results.phtml, line: 296
@@ -1740,6 +1746,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 148
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 344
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 566
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 130
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 105
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 127
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 148
@@ -1772,6 +1779,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 149
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 345
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 567
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 131
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 106
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 128
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 149
@@ -2175,6 +2183,30 @@ msgstr ""
 msgid "Note: Details, ship facts, policies, images and descriptions are gathered for information only and subject to change without notice. Images and descriptions displayed are subject to change at any time without notice. Actual details, design and configuration may vary."
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 47
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 3
+# File: module/b2c/view/b2c/index/index_features.phtml, line: 337
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 502
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 507
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 240
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 245
+# File: module/b2c/view/b2c/search.phtml, line: 345
+# File: module/b2c/view/b2c/search.phtml, line: 350
+msgid "Special Deals"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 48
+# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 4
+msgid "The best selection of vacational packages. With different options for you to enjoy your vacations to the fullest."
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/cruises/index.phtml, line: 162
+# File: module/b2c/costamar/b2c/index/index.phtml, line: 227
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 1826
+# File: module/b2c/costamar/b2c/packages/index.phtml, line: 47
+msgid "Sign in to unlock deals and discounts!"
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 9
 # File: module/b2c/view/b2c/cars/search.phtml, line: 9
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 5
@@ -2244,7 +2276,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 50
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 24
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 85
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 47
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 50
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 9
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 24
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 91
@@ -2272,7 +2304,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 161
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 231
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 87
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 48
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 51
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 83
 # File: module/b2c/view/b2c/air/search.phtml, line: 37
 msgid "Advanced options"
@@ -2738,21 +2770,6 @@ msgstr ""
 msgid "December"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 3
-# File: module/b2c/view/b2c/index/index_features.phtml, line: 337
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 502
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 507
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 240
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 245
-# File: module/b2c/view/b2c/search.phtml, line: 345
-# File: module/b2c/view/b2c/search.phtml, line: 350
-msgid "Special Deals"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 4
-msgid "The best selection of vacational packages. With different options for you to enjoy your vacations to the fullest."
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 13
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 51
 # File: module/b2c/view/b2c/packages/package.phtml, line: 92
@@ -3076,12 +3093,6 @@ msgstr ""
 msgid "STREAM"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index.phtml, line: 227
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 1826
-# File: module/b2c/costamar/b2c/packages/index.phtml, line: 47
-msgid "Sign in to unlock deals and discounts!"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 11
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 19
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 9
@@ -3109,7 +3120,7 @@ msgstr ""
 msgid "Cruise Length"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 18
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 19
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 20
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 10
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 49
@@ -3117,11 +3128,11 @@ msgstr ""
 msgid "Any Cruise Length"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 19
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 20
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 21
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 22
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 23
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 24
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 205
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 77
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 566
@@ -3160,7 +3171,7 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 23
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 20
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 10
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 49
@@ -3168,7 +3179,7 @@ msgstr ""
 msgid "Over"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 29
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 30
 # File: module/b2c/costamar/b2c/hotels/flights.phtml, line: 8
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 136
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 21
@@ -3184,7 +3195,7 @@ msgstr ""
 msgid "Departure"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 30
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 32
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 21
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 14
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 50
@@ -3192,7 +3203,7 @@ msgstr ""
 msgid "Any Departure Date"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 39
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 41
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 180
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 22
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 20
@@ -3203,7 +3214,7 @@ msgstr ""
 msgid "Cruise Line"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 40
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 43
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 22
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 20
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 51
@@ -3213,7 +3224,7 @@ msgstr ""
 msgid "Any Cruise Line"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 57
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 60
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 23
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 21
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 52
@@ -3221,7 +3232,7 @@ msgstr ""
 msgid "Cruise Ship"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 58
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 61
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 23
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 21
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 52
@@ -3231,7 +3242,7 @@ msgstr ""
 msgid "Any Cruise Ship"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 65
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 68
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 22
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 53
@@ -3239,7 +3250,7 @@ msgstr ""
 msgid "Departure Port"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 66
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 69
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 22
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 53
@@ -3247,14 +3258,14 @@ msgstr ""
 msgid "Any Departure Port"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 84
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 87
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 343
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 281
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 44
 msgid "Please select destination"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 90
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 93
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 344
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 282
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 45
