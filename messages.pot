@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-22 17:53-0400\n"
+"POT-Creation-Date: 2021-03-23 08:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -580,6 +580,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 599
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 116
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 47
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 298
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 82
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 203
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 195
@@ -2076,6 +2077,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 599
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 116
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 47
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 298
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 2346
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 696
 msgid "Sign in to unlock deals and discounts!"
