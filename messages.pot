@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-03 11:00-0400\n"
+"POT-Creation-Date: 2021-04-05 08:17-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -450,7 +450,7 @@ msgid "per adult"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 122
-# File: module/b2c/costamar/b2c/offers/index.phtml, line: 45
+# File: module/b2c/costamar/b2c/offers/index.phtml, line: 42
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 10
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 270
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 106
@@ -1889,7 +1889,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 230
 # File: module/b2c/costamar/b2c/cruises/cruiseships.phtml, line: 240
 # File: module/b2c/costamar/b2c/cruises/index.phtml, line: 108
-# File: module/b2c/costamar/b2c/offers/index.phtml, line: 38
+# File: module/b2c/costamar/b2c/offers/index.phtml, line: 35
 # File: module/b2c/costamar/b2c/index/index_intelligence.phtml, line: 80
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 248
 # File: module/b2c/view/b2c/activities/results.phtml, line: 296
@@ -2393,7 +2393,7 @@ msgstr ""
 msgid "Departing from"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/offers/index.phtml, line: 19
+# File: module/b2c/costamar/b2c/offers/index.phtml, line: 14
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 59
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 116
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 172
@@ -2425,7 +2425,12 @@ msgstr ""
 msgid "Departing"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/offers/index.phtml, line: 46
+# File: module/b2c/costamar/b2c/offers/index.phtml, line: 38
+# File: module/b2c/language/language.php, line: 11
+msgid "night"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/offers/index.phtml, line: 43
 msgid "Send by Whatsapp"
 msgstr ""
 #
@@ -7934,10 +7939,6 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 559
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 247
 msgid "Air"
-msgstr ""
-#
-# File: module/b2c/language/language.php, line: 11
-msgid "night"
 msgstr ""
 #
 # File: module/b2c/language/language.php, line: 15
