@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 05:25-0400\n"
+"POT-Creation-Date: 2021-04-13 06:19-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7632,81 +7632,81 @@ msgstr ""
 msgid "No"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 19
-# File: module/b2c/view/offers/holidays/index.phtml, line: 19
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 42
+# File: module/b2c/view/offers/holidays/index.phtml, line: 42
 msgid "WORLD'S BEST PLACES TO VISIT"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 20
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 23
-# File: module/b2c/view/offers/holidays/index.phtml, line: 20
-# File: module/b2c/view/offers/holidays/index.phtml, line: 23
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 43
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 46
+# File: module/b2c/view/offers/holidays/index.phtml, line: 43
+# File: module/b2c/view/offers/holidays/index.phtml, line: 46
 msgid "With a world full of fascinating destinations, choose the perfect vacation for you...brought to you by"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 21
-# File: module/b2c/view/offers/holidays/index.phtml, line: 21
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 44
+# File: module/b2c/view/offers/holidays/index.phtml, line: 44
 msgid "With a world full of fascinating destinations, choose the perfect vacation for you..."
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 108
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 382
-# File: module/b2c/view/offers/holidays/index.phtml, line: 108
-# File: module/b2c/view/offers/holidays/index.phtml, line: 382
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 131
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 281
+# File: module/b2c/view/offers/holidays/index.phtml, line: 131
+# File: module/b2c/view/offers/holidays/index.phtml, line: 281
 msgid "OUR WEBSITE"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 129
-# File: module/b2c/view/offers/holidays/index.phtml, line: 129
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 152
+# File: module/b2c/view/offers/holidays/index.phtml, line: 152
 msgid "World's Best Places to Visit"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 130
-# File: module/b2c/view/offers/holidays/index.phtml, line: 130
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 153
+# File: module/b2c/view/offers/holidays/index.phtml, line: 153
 msgid "top destinations"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 131
-# File: module/b2c/view/offers/holidays/index.phtml, line: 131
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 154
+# File: module/b2c/view/offers/holidays/index.phtml, line: 154
 msgid "With a world full of fascinating destinations"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 131
-# File: module/b2c/view/offers/holidays/index.phtml, line: 131
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 154
+# File: module/b2c/view/offers/holidays/index.phtml, line: 154
 msgid "choose the perfect vacation for you..."
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 154
-# File: module/b2c/view/offers/holidays/index.phtml, line: 154
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 177
+# File: module/b2c/view/offers/holidays/index.phtml, line: 177
 msgid "Where do you want to go?"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 154
-# File: module/b2c/view/offers/holidays/index.phtml, line: 154
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 177
+# File: module/b2c/view/offers/holidays/index.phtml, line: 177
 msgid "More than 56,000 travel destinations for you to choose from. White sandy beaches are a must-visit for many, with vibrant cities also on a lot of people's favorits. What is your favorite?"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 356
-# File: module/b2c/view/offers/holidays/index.phtml, line: 356
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 255
+# File: module/b2c/view/offers/holidays/index.phtml, line: 255
 msgid "more destinations"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 378
-# File: module/b2c/view/offers/holidays/index.phtml, line: 378
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 277
+# File: module/b2c/view/offers/holidays/index.phtml, line: 277
 msgid "contact us:"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 395
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 294
 # File: module/b2c/costamar/layout/layout.phtml, line: 728
 # File: module/b2c/costamar/layout/layout2.phtml, line: 333
-# File: module/b2c/view/offers/holidays/index.phtml, line: 395
+# File: module/b2c/view/offers/holidays/index.phtml, line: 294
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
 msgid "All rights reserved"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 396
-# File: module/b2c/view/offers/holidays/index.phtml, line: 396
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 295
+# File: module/b2c/view/offers/holidays/index.phtml, line: 295
 msgid "Write us"
 msgstr ""
 #
