@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-23 07:49-0400\n"
+"POT-Creation-Date: 2021-04-23 10:16-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1832,6 +1832,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 57
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 73
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 77
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 233
 # File: module/b2c/language/language.php, line: 12
 # File: module/b2c/view/b2c/tours/index.phtml, line: 92
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 100
@@ -1855,6 +1856,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 322
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 357
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 393
+# File: module/b2c/view/offers/airline/index.phtml, line: 233
 msgid "days"
 msgstr ""
 #
@@ -2398,8 +2400,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 8
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 19
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 47
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 215
-# File: module/b2c/view/offers/airline/index.phtml, line: 215
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 217
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 233
+# File: module/b2c/view/offers/airline/index.phtml, line: 217
+# File: module/b2c/view/offers/airline/index.phtml, line: 233
 msgid "Departing from"
 msgstr ""
 #
@@ -3358,6 +3362,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 205
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 77
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 594
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 233
 # File: module/b2c/language/language.php, line: 13
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 118
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 20
@@ -3390,6 +3395,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 393
 # File: module/b2c/view/b2c/index/index.phtml, line: 56
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 6
+# File: module/b2c/view/offers/airline/index.phtml, line: 233
 msgid "nights"
 msgstr ""
 #
@@ -6861,6 +6867,10 @@ msgid "Transfer Details"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 374
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 241
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 266
+# File: module/b2c/view/offers/airline/index.phtml, line: 241
+# File: module/b2c/view/offers/airline/index.phtml, line: 266
 msgid "View More"
 msgstr ""
 #
@@ -7698,13 +7708,13 @@ msgid "Exclusive deals & discounts from"
 msgstr ""
 #
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 156
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 461
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 297
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 135
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 282
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 161
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 680
 # File: module/b2c/view/offers/airline/index.phtml, line: 156
-# File: module/b2c/view/offers/airline/index.phtml, line: 461
+# File: module/b2c/view/offers/airline/index.phtml, line: 297
 # File: module/b2c/view/offers/holidays/index.phtml, line: 135
 # File: module/b2c/view/offers/holidays/index.phtml, line: 282
 # File: module/b2c/view/offers/hotels/index.phtml, line: 161
@@ -7733,39 +7743,41 @@ msgid "We offer tons of great airline deals for all types of flights, both domes
 msgstr ""
 #
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 211
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 212
 # File: module/b2c/view/offers/airline/index.phtml, line: 211
+# File: module/b2c/view/offers/airline/index.phtml, line: 212
 msgid "deals"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 444
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 280
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 663
-# File: module/b2c/view/offers/airline/index.phtml, line: 444
+# File: module/b2c/view/offers/airline/index.phtml, line: 280
 # File: module/b2c/view/offers/hotels/index.phtml, line: 663
 msgid "GENERAL CONDITIONS"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 444
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 280
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 663
-# File: module/b2c/view/offers/airline/index.phtml, line: 444
+# File: module/b2c/view/offers/airline/index.phtml, line: 280
 # File: module/b2c/view/offers/hotels/index.phtml, line: 663
 msgid "Prices \"from\" are per person per room in double occupation. Check prices for other dates, room categories and accommodations. Rates are subject to availability or while supplies last. Fares do not allow refunds and cannot be transferred to other passengers. Depending on the destination to travel, check visa requirements."
 msgstr ""
 #
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 457
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 293
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 278
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 676
-# File: module/b2c/view/offers/airline/index.phtml, line: 457
+# File: module/b2c/view/offers/airline/index.phtml, line: 293
 # File: module/b2c/view/offers/holidays/index.phtml, line: 278
 # File: module/b2c/view/offers/hotels/index.phtml, line: 676
 msgid "contact us:"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 470
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 689
 # File: module/b2c/costamar/layout/layout.phtml, line: 728
 # File: module/b2c/costamar/layout/layout2.phtml, line: 333
-# File: module/b2c/view/offers/airline/index.phtml, line: 470
+# File: module/b2c/view/offers/airline/index.phtml, line: 306
 # File: module/b2c/view/offers/holidays/index.phtml, line: 291
 # File: module/b2c/view/offers/hotels/index.phtml, line: 689
 # File: module/b2c/view/layout/layout.phtml, line: 670
@@ -7773,10 +7785,10 @@ msgstr ""
 msgid "All rights reserved"
 msgstr ""
 #
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 470
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 689
-# File: module/b2c/view/offers/airline/index.phtml, line: 470
+# File: module/b2c/view/offers/airline/index.phtml, line: 306
 # File: module/b2c/view/offers/holidays/index.phtml, line: 291
 # File: module/b2c/view/offers/hotels/index.phtml, line: 689
 msgid "Write us"
