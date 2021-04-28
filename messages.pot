@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 01:49-0400\n"
+"POT-Creation-Date: 2021-04-28 01:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3433,6 +3433,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 11
 # File: module/b2c/view/b2c/air/search.phtml, line: 32
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 194
+# File: module/b2c/view/offers/cruises/index.phtml, line: 179
 msgid "Departure"
 msgstr ""
 #
@@ -4269,6 +4270,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/package.phtml, line: 235
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 300
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 301
+# File: module/b2c/view/offers/cruises/index.phtml, line: 165
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 346
 msgid "to"
 msgstr ""
@@ -6864,6 +6866,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 311
 # File: module/b2c/view/b2c/packages/package.phtml, line: 250
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 207
+# File: module/b2c/view/offers/cruises/index.phtml, line: 177
 msgid "Itinerary"
 msgstr ""
 #
@@ -6871,6 +6874,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/book.phtml, line: 137
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 191
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 106
+# File: module/b2c/view/offers/cruises/index.phtml, line: 178
 msgid "Arrival"
 msgstr ""
 #
@@ -7398,6 +7402,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 625
 # File: module/b2c/flights/b2c/air/search.phtml, line: 80
+# File: module/b2c/view/offers/cruises/index.phtml, line: 150
 msgid "adults"
 msgstr ""
 #
@@ -10802,6 +10807,7 @@ msgid "Select your cabin"
 msgstr ""
 #
 # File: module/b2c/view/b2c/cruises/cabin.phtml, line: 42
+# File: module/b2c/view/offers/cruises/index.phtml, line: 165
 msgid "Cabin"
 msgstr ""
 #
@@ -11326,6 +11332,7 @@ msgid "No."
 msgstr ""
 #
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 21
+# File: module/b2c/view/offers/cruises/index.phtml, line: 176
 msgid "Date"
 msgstr ""
 #
@@ -12645,6 +12652,38 @@ msgstr ""
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 440
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 445
 msgid "No transfers shown, try clearing some filters to see more availability."
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 143
+msgid "Quotation"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 144
+msgid "As requested we detail the following quote"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 144
+msgid "we remain attentive to your inquiries and requirements"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 150
+msgid "Reference quote:"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 150
+msgid "children"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 152
+msgid "Telephone:"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 152
+msgid "Quotation date:"
+msgstr ""
+#
+# File: module/b2c/view/offers/cruises/index.phtml, line: 165
+msgid "Cruise from"
 msgstr ""
 #
 # File: module/b2c/view/layout/layout.phtml, line: 624
