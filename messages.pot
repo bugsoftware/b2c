@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-29 02:04-0400\n"
+"POT-Creation-Date: 2021-04-29 05:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7750,6 +7750,11 @@ msgstr ""
 #
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 139
 # File: module/b2c/view/offers/cruises/index.phtml, line: 139
+msgid "Pasajeros:"
+msgstr ""
+#
+# File: module/b2c/costamar/offers/cruises/index.phtml, line: 139
+# File: module/b2c/view/offers/cruises/index.phtml, line: 139
 msgid "children"
 msgstr ""
 #
@@ -7978,6 +7983,17 @@ msgstr ""
 msgid "The ports may vary, if the shipping company deems it convenient."
 msgstr ""
 #
+# File: module/b2c/costamar/offers/cruises/index.phtml, line: 310
+# File: module/b2c/costamar/offers/airline/index.phtml, line: 293
+# File: module/b2c/costamar/offers/holidays/index.phtml, line: 278
+# File: module/b2c/costamar/offers/hotels/index.phtml, line: 314
+# File: module/b2c/view/offers/cruises/index.phtml, line: 310
+# File: module/b2c/view/offers/airline/index.phtml, line: 293
+# File: module/b2c/view/offers/holidays/index.phtml, line: 278
+# File: module/b2c/view/offers/hotels/index.phtml, line: 314
+msgid "contact us:"
+msgstr ""
+#
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 323
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
@@ -8067,16 +8083,6 @@ msgstr ""
 # File: module/b2c/view/offers/airline/index.phtml, line: 280
 # File: module/b2c/view/offers/hotels/index.phtml, line: 303
 msgid "Prices \"from\" are per person per room in double occupation. Check prices for other dates, room categories and accommodations. Rates are subject to availability or while supplies last. Fares do not allow refunds and cannot be transferred to other passengers. Depending on the destination to travel, check visa requirements."
-msgstr ""
-#
-# File: module/b2c/costamar/offers/airline/index.phtml, line: 293
-# File: module/b2c/costamar/offers/holidays/index.phtml, line: 278
-# File: module/b2c/costamar/offers/hotels/index.phtml, line: 314
-# File: module/b2c/view/offers/cruises/index.phtml, line: 310
-# File: module/b2c/view/offers/airline/index.phtml, line: 293
-# File: module/b2c/view/offers/holidays/index.phtml, line: 278
-# File: module/b2c/view/offers/hotels/index.phtml, line: 314
-msgid "contact us:"
 msgstr ""
 #
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 46
@@ -12891,10 +12897,6 @@ msgstr ""
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 440
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 445
 msgid "No transfers shown, try clearing some filters to see more availability."
-msgstr ""
-#
-# File: module/b2c/view/offers/cruises/index.phtml, line: 139
-msgid "Pasajeros:"
 msgstr ""
 #
 # File: module/b2c/view/layout/layout.phtml, line: 624
