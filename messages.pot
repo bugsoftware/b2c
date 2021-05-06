@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-06 08:28-0400\n"
+"POT-Creation-Date: 2021-05-06 10:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 303
+# File: module/b2c/ebc/layout/layout.phtml, line: 151
 msgid "Copyright"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 303
+# File: module/b2c/ebc/layout/layout.phtml, line: 151
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 323
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
