@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-17 15:43-0400\n"
+"POT-Creation-Date: 2021-05-17 16:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -147,7 +147,7 @@ msgid "My Account Settings and Password Reset"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 141
-# File: module/b2c/ebc/layout/layout.phtml, line: 55
+# File: module/b2c/ebc/layout/layout.phtml, line: 66
 # File: module/b2c/costamar/layout/layout.phtml, line: 310
 # File: module/b2c/costamar/layout/layout.phtml, line: 315
 # File: module/b2c/view/layout/layout.phtml, line: 212
@@ -313,7 +313,7 @@ msgstr ""
 msgid "Password is required"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 47
+# File: module/b2c/ebc/layout/layout.phtml, line: 58
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 26
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 29
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 26
@@ -370,7 +370,7 @@ msgstr ""
 msgid "Flights"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 48
+# File: module/b2c/ebc/layout/layout.phtml, line: 59
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 27
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 27
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 30
@@ -429,7 +429,7 @@ msgstr ""
 msgid "Hotels"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 49
+# File: module/b2c/ebc/layout/layout.phtml, line: 60
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 28
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 28
 # File: module/b2c/costamar/layout/layout.phtml, line: 471
@@ -437,7 +437,7 @@ msgstr ""
 msgid "Cars"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 50
+# File: module/b2c/ebc/layout/layout.phtml, line: 61
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 29
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 29
 # File: module/b2c/costamar/layout/layout.phtml, line: 469
@@ -447,7 +447,7 @@ msgstr ""
 msgid "Transfers"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 51
+# File: module/b2c/ebc/layout/layout.phtml, line: 62
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 165
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 352
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 44
@@ -457,7 +457,7 @@ msgstr ""
 msgid "Activities"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 52
+# File: module/b2c/ebc/layout/layout.phtml, line: 63
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 26
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 32
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 238
@@ -466,7 +466,7 @@ msgstr ""
 msgid "Packages"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 53
+# File: module/b2c/ebc/layout/layout.phtml, line: 64
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 31
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 31
 # File: module/b2c/costamar/layout/layout.phtml, line: 233
@@ -475,11 +475,11 @@ msgstr ""
 msgid "Cruises"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 150
+# File: module/b2c/ebc/layout/layout.phtml, line: 161
 msgid "Copyright"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 150
+# File: module/b2c/ebc/layout/layout.phtml, line: 161
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 323
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
