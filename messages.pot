@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-11 09:10-0400\n"
+"POT-Creation-Date: 2021-05-17 15:05-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 140
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 144
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 15
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 67
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 98
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 22
@@ -43,6 +44,10 @@ msgid "Reenter password"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 157
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 147
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 150
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 156
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 159
 # File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 33
 # File: module/b2c/costamar/layout/layout.phtml, line: 319
 # File: module/b2c/view/layout/layout.phtml, line: 224
@@ -64,7 +69,248 @@ msgstr ""
 msgid "Register"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 40
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 107
+# File: module/b2c/view/b2c/bookings/index.phtml, line: 16
+msgid "Welcome and thanks for signing up. We are excited to have you as a member."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 141
+# File: module/b2c/costamar/layout/layout.phtml, line: 50
+# File: module/b2c/costamar/layout/layout.phtml, line: 308
+# File: module/b2c/costamar/layout/layout.phtml, line: 310
+# File: module/b2c/costamar/layout/layout2.phtml, line: 31
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 96
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 111
+# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 33
+# File: module/b2c/view/layout/layout.phtml, line: 212
+# File: module/b2c/view/layout/layout.phtml, line: 218
+# File: module/b2c/view/layout/layout2.phtml, line: 214
+# File: module/b2c/view/layout/layout2.phtml, line: 220
+msgid "My Account Settings and Password Reset"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 141
+# File: module/b2c/ebc/layout/layout.phtml, line: 55
+# File: module/b2c/costamar/layout/layout.phtml, line: 310
+# File: module/b2c/costamar/layout/layout.phtml, line: 315
+# File: module/b2c/view/layout/layout.phtml, line: 212
+# File: module/b2c/view/layout/layout.phtml, line: 218
+# File: module/b2c/view/layout/layout.phtml, line: 389
+# File: module/b2c/view/layout/layout.phtml, line: 395
+# File: module/b2c/view/layout/layout2.phtml, line: 214
+# File: module/b2c/view/layout/layout2.phtml, line: 220
+# File: module/b2c/view/layout/layout2.phtml, line: 391
+# File: module/b2c/view/layout/layout2.phtml, line: 397
+msgid "My Account"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 143
+# File: module/b2c/costamar/layout/layout.phtml, line: 50
+# File: module/b2c/costamar/layout/layout.phtml, line: 313
+# File: module/b2c/costamar/layout/layout2.phtml, line: 31
+# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 53
+# File: module/b2c/view/b2c/bookings/signout.phtml, line: 5
+# File: module/b2c/view/b2c/bookings/signout.phtml, line: 15
+# File: module/b2c/view/layout/layout.phtml, line: 214
+# File: module/b2c/view/layout/layout.phtml, line: 220
+# File: module/b2c/view/layout/layout.phtml, line: 391
+# File: module/b2c/view/layout/layout.phtml, line: 397
+# File: module/b2c/view/layout/layout2.phtml, line: 216
+# File: module/b2c/view/layout/layout2.phtml, line: 222
+# File: module/b2c/view/layout/layout2.phtml, line: 393
+# File: module/b2c/view/layout/layout2.phtml, line: 399
+msgid "Sign out"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 146
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 149
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 155
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 158
+# File: module/b2c/costamar/layout/layout.phtml, line: 319
+# File: module/b2c/view/b2c/admin/login.phtml, line: 91
+# File: module/b2c/view/layout/layout.phtml, line: 223
+# File: module/b2c/view/layout/layout.phtml, line: 226
+# File: module/b2c/view/layout/layout.phtml, line: 232
+# File: module/b2c/view/layout/layout.phtml, line: 235
+# File: module/b2c/view/layout/layout.phtml, line: 400
+# File: module/b2c/view/layout/layout.phtml, line: 403
+# File: module/b2c/view/layout/layout.phtml, line: 409
+# File: module/b2c/view/layout/layout.phtml, line: 412
+# File: module/b2c/view/layout/layout2.phtml, line: 225
+# File: module/b2c/view/layout/layout2.phtml, line: 228
+# File: module/b2c/view/layout/layout2.phtml, line: 234
+# File: module/b2c/view/layout/layout2.phtml, line: 237
+# File: module/b2c/view/layout/layout2.phtml, line: 402
+# File: module/b2c/view/layout/layout2.phtml, line: 405
+# File: module/b2c/view/layout/layout2.phtml, line: 411
+# File: module/b2c/view/layout/layout2.phtml, line: 414
+msgid "Sign in"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/index.phtml, line: 168
+msgid "Logout"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 13
+msgid "Email address"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 13
+msgid "We'll never share your email with anyone else."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 17
+msgid "Forgot your password? click here"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 19
+msgid "Keep me logged in"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 20
+# File: module/b2c/view/b2c/activities/activity.phtml, line: 365
+# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 132
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 120
+# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 64
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 236
+# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 218
+msgid "Continue"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 82
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 206
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 73
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 213
+# File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 13
+# File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 53
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 48
+# File: module/b2c/view/b2c/bookings/confirmagent.phtml, line: 9
+# File: module/b2c/view/b2c/bookings/agentforgotpassword.phtml, line: 26
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 132
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 94
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 48
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 160
+# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 13
+# File: module/b2c/view/b2c/bookings/signin.phtml, line: 13
+msgid "Email is required"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 88
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 215
+# File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 34
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 82
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 222
+# File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 19
+# File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 59
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 150
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 112
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 57
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 169
+# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 19
+# File: module/b2c/view/b2c/bookings/signin.phtml, line: 19
+msgid "Password is required"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 93
+# File: module/b2c/costamar/b2c/activities/results.phtml, line: 28
+# File: module/b2c/costamar/b2c/activities/searching.phtml, line: 9
+# File: module/b2c/costamar/b2c/activities/searching.phtml, line: 75
+# File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 107
+# File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 268
+# File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 125
+# File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 68
+# File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 92
+# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 102
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 624
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 631
+# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 567
+# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 574
+# File: module/b2c/costamar/b2c/air/searching.phtml, line: 9
+# File: module/b2c/costamar/b2c/air/searching.phtml, line: 104
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 115
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 146
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 1478
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 231
+# File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 39
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 100
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 238
+# File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 25
+# File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 64
+# File: module/b2c/costamar/b2c/bookings/googlesignin.phtml, line: 9
+# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 504
+# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 511
+# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 9
+# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 93
+# File: module/b2c/costamar/b2c/packages/search.phtml, line: 6
+# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 247
+# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 101
+# File: module/b2c/costamar/b2c/hotels/view.phtml, line: 258
+# File: module/b2c/costamar/b2c/hotels/view.phtml, line: 341
+# File: module/b2c/costamar/b2c/booking/pay.phtml, line: 9
+# File: module/b2c/costamar/b2c/booking/pay.phtml, line: 36
+# File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 480
+# File: module/b2c/costamar/b2c/booking/index.phtml, line: 9
+# File: module/b2c/costamar/b2c/booking/index.phtml, line: 36
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 940
+# File: module/b2c/flights/b2c/air/confirm.phtml, line: 947
+# File: module/b2c/flights/b2c/air/search.phtml, line: 77
+# File: module/b2c/view/b2c/activities/results.phtml, line: 26
+# File: module/b2c/view/b2c/activities/searching.phtml, line: 129
+# File: module/b2c/view/b2c/activities/checkout.phtml, line: 3
+# File: module/b2c/view/b2c/activities/activity.phtml, line: 27
+# File: module/b2c/view/b2c/activities/activity.phtml, line: 70
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 301
+# File: module/b2c/view/b2c/cars/search.phtml, line: 450
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 296
+# File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
+# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 340
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 367
+# File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 109
+# File: module/b2c/view/b2c/index/index_preloader_transfers.phtml, line: 63
+# File: module/b2c/view/b2c/index/index_preloader_activities.phtml, line: 63
+# File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 67
+# File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 59
+# File: module/b2c/view/b2c/index/index_preloader_flights.phtml, line: 63
+# File: module/b2c/view/b2c/index/index_preloader_hotels.phtml, line: 25
+# File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 93
+# File: module/b2c/view/b2c/index/index_preloader_cars.phtml, line: 63
+# File: module/b2c/view/b2c/index/index_preloader_dynamicpackaging.phtml, line: 63
+# File: module/b2c/view/b2c/index/index_preloader_cruises.phtml, line: 63
+# File: module/b2c/view/b2c/index/index_preloader_packages.phtml, line: 63
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 281
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 490
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 498
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 512
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 520
+# File: module/b2c/view/b2c/air/multisearch.phtml, line: 225
+# File: module/b2c/view/b2c/air/search.phtml, line: 160
+# File: module/b2c/view/b2c/air/search.phtml, line: 194
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 82
+# File: module/b2c/view/b2c/bookings/confirmagent.phtml, line: 14
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 160
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 122
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 75
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 185
+# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 25
+# File: module/b2c/view/b2c/bookings/signin.phtml, line: 25
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 484
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 115
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 318
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 529
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1056
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1070
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 1076
+# File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 288
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 341
+# File: module/b2c/view/b2c/dynamic-packaging/preloader.phtml, line: 134
+# File: module/b2c/view/b2c/search.phtml, line: 93
+# File: module/b2c/view/b2c/booking/pay.phtml, line: 88
+# File: module/b2c/view/b2c/booking/index.phtml, line: 88
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 3
+msgid "Please wait..."
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 47
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 26
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 29
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 26
@@ -121,7 +367,7 @@ msgstr ""
 msgid "Flights"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 41
+# File: module/b2c/ebc/layout/layout.phtml, line: 48
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 27
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 27
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 30
@@ -180,7 +426,7 @@ msgstr ""
 msgid "Hotels"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 42
+# File: module/b2c/ebc/layout/layout.phtml, line: 49
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 28
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 28
 # File: module/b2c/costamar/layout/layout.phtml, line: 471
@@ -188,7 +434,7 @@ msgstr ""
 msgid "Cars"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 43
+# File: module/b2c/ebc/layout/layout.phtml, line: 50
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 29
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 29
 # File: module/b2c/costamar/layout/layout.phtml, line: 469
@@ -198,7 +444,7 @@ msgstr ""
 msgid "Transfers"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 44
+# File: module/b2c/ebc/layout/layout.phtml, line: 51
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 165
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 352
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 44
@@ -208,7 +454,7 @@ msgstr ""
 msgid "Activities"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 45
+# File: module/b2c/ebc/layout/layout.phtml, line: 52
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 26
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 32
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 238
@@ -217,7 +463,7 @@ msgstr ""
 msgid "Packages"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 46
+# File: module/b2c/ebc/layout/layout.phtml, line: 53
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 31
 # File: module/b2c/costamar/b2c/packages/index.phtml, line: 31
 # File: module/b2c/costamar/layout/layout.phtml, line: 233
@@ -226,25 +472,11 @@ msgstr ""
 msgid "Cruises"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 48
-# File: module/b2c/costamar/layout/layout.phtml, line: 310
-# File: module/b2c/costamar/layout/layout.phtml, line: 315
-# File: module/b2c/view/layout/layout.phtml, line: 212
-# File: module/b2c/view/layout/layout.phtml, line: 218
-# File: module/b2c/view/layout/layout.phtml, line: 389
-# File: module/b2c/view/layout/layout.phtml, line: 395
-# File: module/b2c/view/layout/layout2.phtml, line: 214
-# File: module/b2c/view/layout/layout2.phtml, line: 220
-# File: module/b2c/view/layout/layout2.phtml, line: 391
-# File: module/b2c/view/layout/layout2.phtml, line: 397
-msgid "My Account"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 143
+# File: module/b2c/ebc/layout/layout.phtml, line: 150
 msgid "Copyright"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 143
+# File: module/b2c/ebc/layout/layout.phtml, line: 150
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 323
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
@@ -568,104 +800,6 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 61
 # File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 54
 msgid "ages"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/activities/results.phtml, line: 28
-# File: module/b2c/costamar/b2c/activities/searching.phtml, line: 9
-# File: module/b2c/costamar/b2c/activities/searching.phtml, line: 75
-# File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 107
-# File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 268
-# File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 125
-# File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 68
-# File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 92
-# File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 102
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 624
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 631
-# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 567
-# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 574
-# File: module/b2c/costamar/b2c/air/searching.phtml, line: 9
-# File: module/b2c/costamar/b2c/air/searching.phtml, line: 104
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 115
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 146
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 1478
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 231
-# File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 39
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 100
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 238
-# File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 25
-# File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 64
-# File: module/b2c/costamar/b2c/bookings/googlesignin.phtml, line: 9
-# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 504
-# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 511
-# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 9
-# File: module/b2c/costamar/b2c/packages/searching.phtml, line: 93
-# File: module/b2c/costamar/b2c/packages/search.phtml, line: 6
-# File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 247
-# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 101
-# File: module/b2c/costamar/b2c/hotels/view.phtml, line: 258
-# File: module/b2c/costamar/b2c/hotels/view.phtml, line: 341
-# File: module/b2c/costamar/b2c/booking/pay.phtml, line: 9
-# File: module/b2c/costamar/b2c/booking/pay.phtml, line: 36
-# File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 480
-# File: module/b2c/costamar/b2c/booking/index.phtml, line: 9
-# File: module/b2c/costamar/b2c/booking/index.phtml, line: 36
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 940
-# File: module/b2c/flights/b2c/air/confirm.phtml, line: 947
-# File: module/b2c/flights/b2c/air/search.phtml, line: 77
-# File: module/b2c/view/b2c/activities/results.phtml, line: 26
-# File: module/b2c/view/b2c/activities/searching.phtml, line: 129
-# File: module/b2c/view/b2c/activities/checkout.phtml, line: 3
-# File: module/b2c/view/b2c/activities/activity.phtml, line: 27
-# File: module/b2c/view/b2c/activities/activity.phtml, line: 70
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 301
-# File: module/b2c/view/b2c/cars/search.phtml, line: 450
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 296
-# File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 393
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 340
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 367
-# File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 109
-# File: module/b2c/view/b2c/index/index_preloader_transfers.phtml, line: 63
-# File: module/b2c/view/b2c/index/index_preloader_activities.phtml, line: 63
-# File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 67
-# File: module/b2c/view/b2c/index/index_searchbox_activities.phtml, line: 59
-# File: module/b2c/view/b2c/index/index_preloader_flights.phtml, line: 63
-# File: module/b2c/view/b2c/index/index_preloader_hotels.phtml, line: 25
-# File: module/b2c/view/b2c/index/index_searchbox_dynamicpackaging.phtml, line: 93
-# File: module/b2c/view/b2c/index/index_preloader_cars.phtml, line: 63
-# File: module/b2c/view/b2c/index/index_preloader_dynamicpackaging.phtml, line: 63
-# File: module/b2c/view/b2c/index/index_preloader_cruises.phtml, line: 63
-# File: module/b2c/view/b2c/index/index_preloader_packages.phtml, line: 63
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 281
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 490
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 498
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 512
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 520
-# File: module/b2c/view/b2c/air/multisearch.phtml, line: 225
-# File: module/b2c/view/b2c/air/search.phtml, line: 160
-# File: module/b2c/view/b2c/air/search.phtml, line: 194
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 82
-# File: module/b2c/view/b2c/bookings/confirmagent.phtml, line: 14
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 160
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 122
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 75
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 185
-# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 25
-# File: module/b2c/view/b2c/bookings/signin.phtml, line: 25
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 484
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 115
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 318
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 529
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1056
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1070
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 1076
-# File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 288
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 341
-# File: module/b2c/view/b2c/dynamic-packaging/preloader.phtml, line: 134
-# File: module/b2c/view/b2c/search.phtml, line: 93
-# File: module/b2c/view/b2c/booking/pay.phtml, line: 88
-# File: module/b2c/view/b2c/booking/index.phtml, line: 88
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 3
-msgid "Please wait..."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 105
@@ -5034,6 +5168,9 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/contact-us/index.phtml, line: 3
 # File: module/b2c/costamar/b2c/contact-us/index.phtml, line: 8
+# File: module/b2c/tours/layout/layout.phtml, line: 64
+# File: module/b2c/tours/layout/layout.phtml, line: 70
+# File: module/b2c/tours/layout/layout.phtml, line: 79
 # File: module/b2c/view/layout/layout.phtml, line: 417
 # File: module/b2c/view/layout/layout2.phtml, line: 419
 msgid "Contact Us"
@@ -6578,38 +6715,6 @@ msgstr ""
 # File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 39
 # File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 151
 msgid "Phone is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 206
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 73
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 213
-# File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 13
-# File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 53
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 48
-# File: module/b2c/view/b2c/bookings/confirmagent.phtml, line: 9
-# File: module/b2c/view/b2c/bookings/agentforgotpassword.phtml, line: 26
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 132
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 94
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 48
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 160
-# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 13
-# File: module/b2c/view/b2c/bookings/signin.phtml, line: 13
-msgid "Email is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 215
-# File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 34
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 82
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 222
-# File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 19
-# File: module/b2c/costamar/b2c/bookings/signin.phtml, line: 59
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 150
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 112
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 57
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 169
-# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 19
-# File: module/b2c/view/b2c/bookings/signin.phtml, line: 19
-msgid "Password is required"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 5
@@ -8292,37 +8397,6 @@ msgstr ""
 msgid "Click to access your Personalized Website:"
 msgstr ""
 #
-# File: module/b2c/costamar/layout/layout.phtml, line: 50
-# File: module/b2c/costamar/layout/layout.phtml, line: 308
-# File: module/b2c/costamar/layout/layout.phtml, line: 310
-# File: module/b2c/costamar/layout/layout2.phtml, line: 31
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 96
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 111
-# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 33
-# File: module/b2c/view/layout/layout.phtml, line: 212
-# File: module/b2c/view/layout/layout.phtml, line: 218
-# File: module/b2c/view/layout/layout2.phtml, line: 214
-# File: module/b2c/view/layout/layout2.phtml, line: 220
-msgid "My Account Settings and Password Reset"
-msgstr ""
-#
-# File: module/b2c/costamar/layout/layout.phtml, line: 50
-# File: module/b2c/costamar/layout/layout.phtml, line: 313
-# File: module/b2c/costamar/layout/layout2.phtml, line: 31
-# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 53
-# File: module/b2c/view/b2c/bookings/signout.phtml, line: 5
-# File: module/b2c/view/b2c/bookings/signout.phtml, line: 15
-# File: module/b2c/view/layout/layout.phtml, line: 214
-# File: module/b2c/view/layout/layout.phtml, line: 220
-# File: module/b2c/view/layout/layout.phtml, line: 391
-# File: module/b2c/view/layout/layout.phtml, line: 397
-# File: module/b2c/view/layout/layout2.phtml, line: 216
-# File: module/b2c/view/layout/layout2.phtml, line: 222
-# File: module/b2c/view/layout/layout2.phtml, line: 393
-# File: module/b2c/view/layout/layout2.phtml, line: 399
-msgid "Sign out"
-msgstr ""
-#
 # File: module/b2c/costamar/layout/layout.phtml, line: 92
 # File: module/b2c/costamar/layout/layout.phtml, line: 112
 msgid "Departure Airport"
@@ -8364,27 +8438,6 @@ msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 291
 msgid "Cart Details"
-msgstr ""
-#
-# File: module/b2c/costamar/layout/layout.phtml, line: 319
-# File: module/b2c/view/b2c/admin/login.phtml, line: 91
-# File: module/b2c/view/layout/layout.phtml, line: 223
-# File: module/b2c/view/layout/layout.phtml, line: 226
-# File: module/b2c/view/layout/layout.phtml, line: 232
-# File: module/b2c/view/layout/layout.phtml, line: 235
-# File: module/b2c/view/layout/layout.phtml, line: 400
-# File: module/b2c/view/layout/layout.phtml, line: 403
-# File: module/b2c/view/layout/layout.phtml, line: 409
-# File: module/b2c/view/layout/layout.phtml, line: 412
-# File: module/b2c/view/layout/layout2.phtml, line: 225
-# File: module/b2c/view/layout/layout2.phtml, line: 228
-# File: module/b2c/view/layout/layout2.phtml, line: 234
-# File: module/b2c/view/layout/layout2.phtml, line: 237
-# File: module/b2c/view/layout/layout2.phtml, line: 402
-# File: module/b2c/view/layout/layout2.phtml, line: 405
-# File: module/b2c/view/layout/layout2.phtml, line: 411
-# File: module/b2c/view/layout/layout2.phtml, line: 414
-msgid "Sign in"
 msgstr ""
 #
 # File: module/b2c/costamar/layout/layout.phtml, line: 466
@@ -9032,15 +9085,6 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 263
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 280
 msgid "Reserve"
-msgstr ""
-#
-# File: module/b2c/view/b2c/activities/activity.phtml, line: 365
-# File: module/b2c/view/b2c/cruises/passengers.phtml, line: 132
-# File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 120
-# File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 64
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 236
-# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 218
-msgid "Continue"
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 372
@@ -11872,10 +11916,6 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/bookings/signout.phtml, line: 16
 msgid "Thank you. You are now securely logged out of your account. You will need to sign on again to access your account."
-msgstr ""
-#
-# File: module/b2c/view/b2c/bookings/index.phtml, line: 16
-msgid "Welcome and thanks for signing up. We are excited to have you as a member."
 msgstr ""
 #
 # File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 47
