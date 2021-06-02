@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-02 12:54-0400\n"
+"POT-Creation-Date: 2021-06-02 15:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11378,7 +11378,11 @@ msgid "pn"
 msgstr ""
 #
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 7
-msgid "Departure Date & Time"
+msgid "Departure Date & Flight Time"
+msgstr ""
+#
+# File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 34
+msgid "Return Date & Flight Time"
 msgstr ""
 #
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 34
