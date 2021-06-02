@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-02 11:34-0400\n"
+"POT-Creation-Date: 2021-06-02 12:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3505,7 +3505,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 47
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 7
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 83
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 55
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 12
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 464
 msgid "Departure Date"
 msgstr ""
 #
@@ -11382,11 +11383,13 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 34
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 82
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 55
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 463
 msgid "Return Date"
 msgstr ""
 #
 # File: module/b2c/view/b2c/index/index_searchbox_transfers.phtml, line: 81
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 12
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 462
 msgid "Arrival Date"
 msgstr ""
 #
