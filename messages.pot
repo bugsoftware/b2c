@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-02 12:20-0400\n"
+"POT-Creation-Date: 2021-06-02 12:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1276,7 +1276,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 210
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 400
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 377
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 155
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 156
 msgid "COMPLETE BOOKING"
 msgstr ""
 #
@@ -1294,7 +1294,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 137
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 155
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 86
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 136
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 137
 msgid "Coupons"
 msgstr ""
 #
@@ -1408,7 +1408,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 108
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 134
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 160
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 36
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 37
 msgid "Title"
 msgstr ""
 #
@@ -1463,7 +1463,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 157
 # File: module/b2c/view/b2c/booking/view.phtml, line: 370
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 248
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 33
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 34
 msgid "Mr"
 msgstr ""
 #
@@ -1518,7 +1518,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 158
 # File: module/b2c/view/b2c/booking/view.phtml, line: 370
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 248
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 34
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 35
 msgid "Ms"
 msgstr ""
 #
@@ -1563,7 +1563,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 87
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 79
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 31
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 38
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 39
 msgid "First Name"
 msgstr ""
 #
@@ -1608,7 +1608,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 91
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 80
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 32
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 39
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 40
 msgid "Last Name"
 msgstr ""
 #
@@ -1630,7 +1630,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 46
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 95
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 39
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 54
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 55
 msgid "Phone Number"
 msgstr ""
 #
@@ -1685,7 +1685,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 116
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 142
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 168
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 55
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 56
 msgid "Email"
 msgstr ""
 #
@@ -1712,7 +1712,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 33
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 82
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 33
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 41
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 42
 msgid "Address"
 msgstr ""
 #
@@ -1749,7 +1749,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 35
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 9
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 151
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 45
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 46
 msgid "City"
 msgstr ""
 #
@@ -1764,7 +1764,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 40
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 89
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 36
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 48
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 49
 msgid "State"
 msgstr ""
 #
@@ -1799,7 +1799,7 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 94
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 38
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 8
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 53
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 54
 msgid "Country"
 msgstr ""
 #
@@ -1826,7 +1826,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 45
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 94
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 38
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 53
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 54
 msgid "Choose your country"
 msgstr ""
 #
@@ -1839,7 +1839,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 43
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 92
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 37
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 51
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 52
 msgid "Zip/Postal Code"
 msgstr ""
 #
@@ -2814,8 +2814,8 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 24
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 73
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 102
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 181
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 216
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 182
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 217
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 100
 msgid "One Way"
 msgstr ""
@@ -3830,8 +3830,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 333
 # File: module/b2c/view/b2c/booking/view.phtml, line: 261
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 139
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 75
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 93
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 76
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 94
 msgid "Flight details"
 msgstr ""
 #
@@ -4099,9 +4099,9 @@ msgstr ""
 # File: module/b2c/view/b2c/booking/view.phtml, line: 363
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 241
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 114
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 193
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 228
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 239
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 194
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 229
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 240
 msgid "Subtotal"
 msgstr ""
 #
@@ -4229,8 +4229,8 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 206
 # File: module/b2c/view/b2c/booking/view.phtml, line: 343
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 221
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 109
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 121
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 110
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 122
 msgid "Cancellation Policies"
 msgstr ""
 #
@@ -4317,7 +4317,7 @@ msgstr ""
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 476
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 114
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 120
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 239
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 240
 msgid "Total"
 msgstr ""
 #
@@ -5076,8 +5076,8 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 130
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 211
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 225
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 113
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 125
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 114
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 126
 msgid "Last cancellation date"
 msgstr ""
 #
@@ -5099,7 +5099,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 144
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 262
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 180
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 153
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 154
 msgid "By selecting to complete this booking I acknowledge that I have read and accept the terms & conditions and privacy policy."
 msgstr ""
 #
@@ -5338,7 +5338,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 216
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 339
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 343
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 245
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 246
 msgid "Tax Recovery & Booking Fee"
 msgstr ""
 #
@@ -5514,8 +5514,8 @@ msgid "Duration"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 150
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 80
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 98
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 82
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 100
 msgid "Flight number"
 msgstr ""
 #
@@ -7143,15 +7143,15 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1218
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 307
 # File: module/b2c/view/b2c/search.phtml, line: 75
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 111
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 123
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 112
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 124
 msgid "Non Refundable"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 132
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 134
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 217
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 132
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 133
 msgid "NOTE: Cancellation policies are based on local destination time."
 msgstr ""
 #
@@ -8950,14 +8950,14 @@ msgstr ""
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 9
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 303
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 298
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 17
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 18
 msgid "Invalid coupon code."
 msgstr ""
 #
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 10
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 304
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 300
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 18
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 19
 msgid "This coupon code can only be used with a minimum spend of"
 msgstr ""
 #
@@ -8997,7 +8997,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 57
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 137
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 86
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 136
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 137
 msgid "Do you have a Coupon Code?"
 msgstr ""
 #
@@ -9006,7 +9006,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 57
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 137
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 86
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 136
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 137
 msgid "Please type your coupon here"
 msgstr ""
 #
@@ -9014,7 +9014,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 86
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 57
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 137
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 136
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 137
 msgid "Invalid coupon code"
 msgstr ""
 #
@@ -10551,7 +10551,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 17
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 56
 # File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 17
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 25
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 26
 msgid "Please enter a valid email address."
 msgstr ""
 #
@@ -12589,8 +12589,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 145
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 67
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 96
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 175
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 210
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 176
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 211
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 357
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 420
 msgid "Suitcase per person"
@@ -12599,8 +12599,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 187
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 73
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 102
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 181
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 216
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 182
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 217
 msgid "Round Trip"
 msgstr ""
 #
@@ -12728,8 +12728,8 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 101
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 72
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 101
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 180
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 215
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 181
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 216
 msgid "Passengers:"
 msgstr ""
 #
@@ -12868,14 +12868,14 @@ msgstr ""
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 78
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 83
 # File: module/b2c/view/b2c/transfers/book.phtml, line: 107
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 72
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 90
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 109
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 121
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 162
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 185
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 197
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 220
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 73
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 91
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 110
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 122
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 163
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 186
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 198
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 221
 msgid "Journey"
 msgstr ""
 #
@@ -12883,41 +12883,45 @@ msgstr ""
 msgid "Please fill in required questions"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 28
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 9
+msgid "Please select airline name."
+msgstr ""
+#
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 29
 msgid "Customer details"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 28
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 29
 msgid "Please tell us your details."
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 61
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 62
 msgid "Location pick-up/drop off details & requests"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 65
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 66
 msgid "Hotel / Villa / Apartment address"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 66
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 67
 msgid "Hotel / Villa / Apartment address (use if needed)"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 67
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 68
 msgid "Requests"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 72
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 90
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 73
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 91
 msgid "Travel information"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 78
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 96
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 79
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 97
 msgid "Please provide your flight details so our pick-up representative can check the status of your flight. If you are travelling on a connecting flight we require the final leg of your trip only."
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 79
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 80
 msgid "Airport you're flying from?"
 msgstr ""
 #
@@ -12926,33 +12930,38 @@ msgstr ""
 msgid "Airline name"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 82
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 100
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 81
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 99
+msgid "Please select airline"
+msgstr ""
+#
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 83
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 101
 msgid "Your pickup time is"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 84
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 85
 msgid "We need your full flight number (including airline code, for example: ABC1122). If you are travelling on a connecting flight we need the details of your final leg only."
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 97
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 98
 msgid "Airport you're flying to?"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 150
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 151
 msgid "Review and book your transfer"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 160
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 161
 msgid "Transfer details"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 174
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 209
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 175
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 210
 msgid "Passenger(s)"
 msgstr ""
 #
-# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 249
+# File: module/b2c/view/b2c/transfers/confirm.phtml, line: 250
 msgid "Transfer Total"
 msgstr ""
 #
