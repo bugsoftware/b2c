@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-05 21:20+0100\n"
+"POT-Creation-Date: 2023-04-07 07:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -339,8 +339,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 102
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 124
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 37
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 42
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 31
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 37
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 79
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 80
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 133
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 171
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 117
@@ -367,8 +369,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 102
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 124
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 36
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 41
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 30
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 36
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 78
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 79
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 438
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 117
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 232
@@ -441,8 +445,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 125
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 130
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 33
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 36
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 25
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 43
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 73
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 74
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 138
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 176
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 118
@@ -468,8 +474,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 103
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 125
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 33
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 35
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 24
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 42
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 72
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 73
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 445
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 118
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 238
@@ -518,7 +526,6 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 17
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 90
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 79
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 47
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 268
 msgid "Billing Address 1"
 msgstr ""
@@ -526,7 +533,6 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 17
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 91
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 82
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 48
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 269
 msgid "Please enter your Billing Address 1"
 msgstr ""
@@ -534,7 +540,6 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 22
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 96
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 87
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 53
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 274
 msgid "Billing Address 2"
 msgstr ""
@@ -542,7 +547,6 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 22
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 97
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 90
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 54
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 275
 msgid "Please enter your Billing Address 2"
 msgstr ""
@@ -552,8 +556,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 104
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 96
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 70
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 59
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 62
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 69
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 110
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 111
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1583
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 478
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 125
@@ -599,8 +605,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 40
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 105
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 99
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 60
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 63
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 70
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 111
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 112
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 282
 msgid "Please enter your City"
 msgstr ""
@@ -610,7 +618,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 112
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 104
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 63
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 65
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 63
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1584
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 287
@@ -632,7 +639,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 48
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 113
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 107
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 66
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 288
 msgid "Please enter your State"
 msgstr ""
@@ -642,7 +648,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 120
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 112
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 77
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 71
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 75
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 126
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 293
@@ -663,8 +668,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 121
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 115
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 78
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 72
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 69
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 76
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 117
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 118
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 294
 msgid "Please enter your Zip/Postal Code"
 msgstr ""
@@ -672,7 +679,6 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 45
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 123
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 56
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 79
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 123
 msgid "Select your country"
 msgstr ""
@@ -694,7 +700,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 131
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 132
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 54
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 77
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 123
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 306
 msgid "Please select your country"
@@ -717,8 +722,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 112
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 134
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 83
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 89
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 74
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 81
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 122
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 123
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 77
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 129
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 312
@@ -742,8 +749,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 112
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 134
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 84
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 90
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 75
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 82
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 123
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 124
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 77
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 130
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 313
@@ -778,9 +787,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/specialists.phtml, line: 20
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 26
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 22
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 95
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 80
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 87
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 24
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 128
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 129
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 150
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1581
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 461
@@ -857,8 +868,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 113
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 135
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 90
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 96
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 81
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 88
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 129
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 130
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 133
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 319
 msgid "Please enter your Email"
@@ -1549,8 +1562,8 @@ msgstr ""
 # File: module/b2c/abc/b2c/index/index.phtml, line: 1299
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 458
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 460
-# File: module/b2c/ebc/layout/layout.phtml, line: 457
-# File: module/b2c/ebc/layout/layout.phtml, line: 459
+# File: module/b2c/ebc/layout/layout.phtml, line: 463
+# File: module/b2c/ebc/layout/layout.phtml, line: 465
 msgid "Copyright"
 msgstr ""
 #
@@ -1570,8 +1583,8 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 306
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 291
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 327
-# File: module/b2c/ebc/layout/layout.phtml, line: 457
-# File: module/b2c/ebc/layout/layout.phtml, line: 459
+# File: module/b2c/ebc/layout/layout.phtml, line: 463
+# File: module/b2c/ebc/layout/layout.phtml, line: 465
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 323
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 306
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 291
@@ -1641,9 +1654,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 83
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 77
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 104
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 216
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 127
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 108
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 108
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 263
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 264
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 506
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 725
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 732
@@ -1789,7 +1805,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 200
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 91
 # File: module/b2c/ebc/layout/layout.phtml, line: 262
-# File: module/b2c/ebc/layout/layout.phtml, line: 385
+# File: module/b2c/ebc/layout/layout.phtml, line: 391
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 213
 # File: module/b2c/costamar/layout/layout.phtml, line: 339
 # File: module/b2c/view/b2c/admin/login.phtml, line: 91
@@ -1826,9 +1842,12 @@ msgstr ""
 # File: module/b2c/abc/b2c/bookings/agentsignin.phtml, line: 15
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1527
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1552
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 92
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 93
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 19
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 15
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 140
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 141
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 71
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 98
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 22
@@ -1882,8 +1901,11 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/bookings/agentsignin.phtml, line: 47
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 99
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 191
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 96
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 97
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 238
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 239
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 206
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 73
 # File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 213
@@ -1902,8 +1924,11 @@ msgid "Email is required"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/bookings/agentsignin.phtml, line: 53
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 200
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 102
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 103
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 247
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 248
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 215
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 34
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 82
@@ -3894,7 +3919,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 647
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1581
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 441
-# File: module/b2c/ebc/layout/layout.phtml, line: 440
+# File: module/b2c/ebc/layout/layout.phtml, line: 446
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 307
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 193
 msgid "Email:"
@@ -3947,7 +3972,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1547
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1054
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 151
-# File: module/b2c/ebc/layout/layout.phtml, line: 491
+# File: module/b2c/ebc/layout/layout.phtml, line: 497
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 71
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 76
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 147
@@ -5744,7 +5769,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 31
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 392
 # File: module/b2c/ebc/layout/layout.phtml, line: 264
-# File: module/b2c/ebc/layout/layout.phtml, line: 376
+# File: module/b2c/ebc/layout/layout.phtml, line: 382
 msgid "Support"
 msgstr ""
 #
@@ -7634,8 +7659,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 637
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 653
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 667
-# File: module/b2c/ebc/layout/layout.phtml, line: 479
-# File: module/b2c/ebc/layout/layout.phtml, line: 542
+# File: module/b2c/ebc/layout/layout.phtml, line: 485
+# File: module/b2c/ebc/layout/layout.phtml, line: 548
 # File: module/b2c/costamar/b2c/offers/index.phtml, line: 67
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 320
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 320
@@ -7981,7 +8006,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/index.phtml, line: 950
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 428
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 283
-# File: module/b2c/ebc/layout/layout.phtml, line: 427
+# File: module/b2c/ebc/layout/layout.phtml, line: 433
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 301
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 185
 # File: module/b2c/costamar/layout/layout.phtml, line: 683
@@ -8019,7 +8044,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/index.phtml, line: 960
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 398
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 293
-# File: module/b2c/ebc/layout/layout.phtml, line: 397
+# File: module/b2c/ebc/layout/layout.phtml, line: 403
 msgid "Contact"
 msgstr ""
 #
@@ -8298,7 +8323,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 42
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 27
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 23
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 44
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 48
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 92
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 93
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 470
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 120
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 20
@@ -8331,12 +8359,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 26
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 32
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 43
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 45
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 93
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 94
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 120
 msgid "Please enter your Address"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 62
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 128
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 51
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 99
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 100
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 501
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 34
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 90
@@ -9235,7 +9269,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 80
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 93
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 391
-# File: module/b2c/ebc/layout/layout.phtml, line: 375
+# File: module/b2c/ebc/layout/layout.phtml, line: 381
 msgid "About us"
 msgstr ""
 #
@@ -9402,7 +9436,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 793
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 389
 # File: module/b2c/ebc/layout/layout.phtml, line: 340
-# File: module/b2c/ebc/layout/layout.phtml, line: 373
+# File: module/b2c/ebc/layout/layout.phtml, line: 379
 msgid "Links"
 msgstr ""
 #
@@ -9789,6 +9823,7 @@ msgid "Travel"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 598
+# File: module/b2c/ebc/layout/layout.phtml, line: 375
 # File: module/b2c/costamar/b2c/destinations/destination.phtml, line: 123
 # File: module/b2c/costamar/b2c/destinations/featuredcities.phtml, line: 4
 # File: module/b2c/costamar/layout/layout.phtml, line: 733
@@ -9809,7 +9844,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 609
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 403
-# File: module/b2c/ebc/layout/layout.phtml, line: 402
+# File: module/b2c/ebc/layout/layout.phtml, line: 408
 msgid "Location:"
 msgstr ""
 #
@@ -11364,7 +11399,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 3
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 9
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 393
-# File: module/b2c/ebc/layout/layout.phtml, line: 377
+# File: module/b2c/ebc/layout/layout.phtml, line: 383
 msgid "Price Match"
 msgstr ""
 #
@@ -11491,6 +11526,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 59
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 58
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 53
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 50
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 98
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 99
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1585
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 33
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 88
@@ -12020,7 +12058,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 170
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 161
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1577
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 118
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 116
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 166
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 167
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1591
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 143
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 358
@@ -12119,7 +12160,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 2
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 7
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 394
-# File: module/b2c/ebc/layout/layout.phtml, line: 379
+# File: module/b2c/ebc/layout/layout.phtml, line: 385
 msgid "Reward Points"
 msgstr ""
 #
@@ -13364,6 +13405,9 @@ msgid "Enter your address"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1568
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 68
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 116
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 117
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 110
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 110
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 86
@@ -13404,7 +13448,6 @@ msgid "Please review everything carefully, especially paperwork requirements, te
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 16
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 16
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 16
 msgid "Registered on"
 msgstr ""
@@ -13452,7 +13495,6 @@ msgid "Select your city"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 96
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 106
 msgid "Update profile"
 msgstr ""
 #
@@ -13460,23 +13502,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 111
 # File: module/b2c/ebc/b2c/bookings/thankyoupassword.phtml, line: 14
 # File: module/b2c/ebc/b2c/bookings/failedpassword.phtml, line: 14
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 118
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 142
 msgid "Change password"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 105
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 122
 msgid "Old password"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 106
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 128
 msgid "New password"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 107
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 134
 msgid "Reenter new password"
 msgstr ""
 #
@@ -13780,8 +13817,6 @@ msgid "My Bookings: Cancel or review your existing reservations*"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 143
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 15
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 31
 # File: module/b2c/view/b2c/bookings/agentbookings.phtml, line: 39
 msgid "Add Agent"
 msgstr ""
@@ -13851,6 +13886,8 @@ msgid "Create Your Account"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 12
+# File: module/b2c/ebc/b2c/bookings/register_confirm_affiliate.phtml, line: 12
+# File: module/b2c/ebc/b2c/bookings/register_confirm_agent.phtml, line: 12
 # File: module/b2c/costamar/b2c/bookings/register_confirm_affiliate.phtml, line: 18
 # File: module/b2c/costamar/b2c/bookings/register_confirm_agent.phtml, line: 18
 # File: module/b2c/costamar/b2c/bookings/register_confirm.phtml, line: 18
@@ -13861,6 +13898,8 @@ msgid "Thank you very much for signing up with us. Your account has been created
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 12
+# File: module/b2c/ebc/b2c/bookings/register_confirm_affiliate.phtml, line: 12
+# File: module/b2c/ebc/b2c/bookings/register_confirm_agent.phtml, line: 12
 # File: module/b2c/costamar/b2c/bookings/register_confirm_affiliate.phtml, line: 18
 # File: module/b2c/costamar/b2c/bookings/register_confirm_agent.phtml, line: 18
 # File: module/b2c/costamar/b2c/bookings/register_confirm.phtml, line: 18
@@ -13871,6 +13910,8 @@ msgid "Begin your search here."
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 14
+# File: module/b2c/ebc/b2c/bookings/register_confirm_affiliate.phtml, line: 14
+# File: module/b2c/ebc/b2c/bookings/register_confirm_agent.phtml, line: 14
 # File: module/b2c/costamar/b2c/bookings/register_confirm_affiliate.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/register_confirm_agent.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/register_confirm.phtml, line: 20
@@ -13960,7 +14001,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 51
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 49
-# File: module/b2c/ebc/layout/layout.phtml, line: 392
+# File: module/b2c/ebc/layout/layout.phtml, line: 398
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 75
 msgid "Forgot Password?"
 msgstr ""
@@ -13973,12 +14014,226 @@ msgstr ""
 msgid "Click here"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 22
-msgid "update picture"
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 18
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 116
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 105
+msgid "Travel Agent? Register your travel agency today to receive commission for bookings made with us!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 78
-msgid "Floating label select example"
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 38
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 86
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 87
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 120
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 120
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 131
+# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 25
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 69
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 120
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 122
+# File: module/b2c/view/b2c/bookings/register.phtml, line: 23
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 203
+msgid "Company"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 39
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 87
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 88
+msgid "Please enter Company Name"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 56
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 104
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 105
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 95
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 95
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 78
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 145
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 81
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 95
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 126
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 177
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 142
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 128
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 207
+msgid "State/Region/Zone"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 57
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 105
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 106
+# File: module/b2c/ebc/b2c/booking/view.phtml, line: 762
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 97
+# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 729
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 97
+# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 729
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 79
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 146
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 82
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 97
+# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 732
+# File: module/b2c/costamar/b2c/booking/view.phtml, line: 692
+msgid "Choose your state/region/zone"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 86
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 134
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 135
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 184
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 149
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 134
+# File: module/b2c/view/b2c/bookings/register.phtml, line: 33
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 212
+msgid "Fax"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 87
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 135
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 136
+msgid "Please enter your Fax"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 97
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 145
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 146
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 561
+# File: module/b2c/ebc/b2c/booking/view.phtml, line: 1047
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 102
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 170
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 105
+# File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 479
+# File: module/b2c/costamar/b2c/booking/view.phtml, line: 931
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 161
+# File: module/b2c/view/b2c/bookings/register.phtml, line: 59
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 219
+msgid "Memo"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 104
+# File: module/b2c/ebc/b2c/bookings/register.phtml, line: 101
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 152
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 153
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 108
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 176
+# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 46
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 111
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 123
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 137
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 189
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 154
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 167
+# File: module/b2c/view/b2c/bookings/register.phtml, line: 64
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 223
+msgid "Security"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 111
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 159
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 160
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 110
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 178
+# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 47
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 113
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 124
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 190
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 155
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 224
+msgid "Type The Code Shown"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 119
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 167
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 168
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 124
+# File: module/b2c/costamar/b2c/bookings/forgotpassword.phtml, line: 31
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 192
+# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 56
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 138
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 145
+# File: module/b2c/view/b2c/bookings/agentforgotpassword.phtml, line: 42
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 196
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 161
+# File: module/b2c/view/b2c/bookings/forgotpassword.phtml, line: 50
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 175
+# File: module/b2c/view/b2c/bookings/register.phtml, line: 72
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 229
+# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 61
+# File: module/b2c/view/b2c/bookings/signin.phtml, line: 61
+msgid "Reset"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 145
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 192
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 193
+# File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 113
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 154
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 26
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 167
+# File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 55
+msgid "None"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 158
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 211
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 212
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 173
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 40
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 180
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 6
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 6
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 98
+msgid "First Name is required"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 164
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 205
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 206
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 179
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 46
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 186
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 12
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 12
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 104
+msgid "Last Name is required"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 170
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 217
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 218
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 185
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 52
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 192
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 18
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 108
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 70
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 18
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 110
+msgid "Address is required"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 176
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 223
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 224
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 191
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 58
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 198
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 24
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 24
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 116
+msgid "Country is required"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 182
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 229
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 230
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 197
+# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 64
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 204
+# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 39
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 123
+# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 85
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 39
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 151
+msgid "Phone is required"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 23
@@ -13997,6 +14252,8 @@ msgid "Invalid"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 30
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 16
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 17
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 61
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 122
@@ -14011,6 +14268,8 @@ msgid "Please retype the characters from the security box. This ensures that a p
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 31
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 11
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 12
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 58
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 124
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 20
@@ -14021,6 +14280,8 @@ msgid "The email address you have entered is already registered."
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 31
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 11
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 12
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 58
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 21
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 124
@@ -14046,21 +14307,6 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 64
 msgid "Please enter your State Code"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/bookings/register.phtml, line: 101
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 108
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 176
-# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 46
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 111
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 123
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 137
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 189
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 154
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 167
-# File: module/b2c/view/b2c/bookings/register.phtml, line: 64
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 223
-msgid "Security"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 108
@@ -14197,6 +14443,93 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 42
 msgid "to exclusive preferred supplier partners \"net rates\""
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 24
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 25
+# File: module/b2c/ebc/b2c/bookings/register_confirm_affiliate.phtml, line: 11
+# File: module/b2c/costamar/b2c/bookings/register_confirm_affiliate.phtml, line: 10
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 10
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 25
+msgid "Affiliate Partner Program"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 27
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 28
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 19
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 28
+msgid "Our Affiliate Partner Program gives you the unique opportunity to connect your business to our online accommodation booking platform."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 28
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 29
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 20
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 29
+msgid "Join Our Affiliate Partner Program and begin earning commission on bookings made through your website. Signing up is free and easy."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 29
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 30
+# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 21
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 21
+# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 24
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 30
+msgid "A ready-built solution built for travel agents, tour operators, destination management companies, travel companies and freelancers. A tool that empowers you to deliver a better booking experience."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 35
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 36
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 28
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 39
+msgid "Big earnings"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 37
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 38
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 30
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 40
+msgid "For each booking that is made through your site, you will earn a commission. The more you book, the more you make."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 42
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 43
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 35
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 46
+msgid "Largest Inventory Supply. Over 1 million properties"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 44
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 45
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 37
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 47
+msgid "Extensive selection of hotels, resorts, apartments and holiday homes with, exclusive discounts and more..."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 49
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 50
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 42
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 53
+msgid "+400 bookable airlines"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 51
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 52
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 44
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 54
+msgid "We negotiate directly with suppliers to secure access to superior inventory, including dynamic packages, private fares and exclusive rates..."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 67
+# File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 68
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 15
+# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 49
+# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 198
+msgid "Create Your Affiliate Account"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/register_confirm_agent.phtml, line: 11
+# File: module/b2c/costamar/b2c/bookings/register_confirm_agent.phtml, line: 10
+msgid "Agent Partner Program"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 53
@@ -14821,19 +15154,6 @@ msgstr ""
 msgid "DoLex money transfer"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 561
-# File: module/b2c/ebc/b2c/booking/view.phtml, line: 1047
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 102
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 170
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 105
-# File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 479
-# File: module/b2c/costamar/b2c/booking/view.phtml, line: 931
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 161
-# File: module/b2c/view/b2c/bookings/register.phtml, line: 59
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 219
-msgid "Memo"
-msgstr ""
-#
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 5
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 5
 # File: module/b2c/view/b2c/booking/view.phtml, line: 4
@@ -15270,20 +15590,6 @@ msgstr ""
 msgid "Choose your city"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/view.phtml, line: 762
-# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 97
-# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 729
-# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 97
-# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 729
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 79
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 146
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 82
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 97
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 732
-# File: module/b2c/costamar/b2c/booking/view.phtml, line: 692
-msgid "Choose your state/region/zone"
-msgstr ""
-#
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 799
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 766
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 766
@@ -15612,36 +15918,36 @@ msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 151
 # File: module/b2c/ebc/layout/layout.phtml, line: 169
-# File: module/b2c/ebc/layout/layout.phtml, line: 514
+# File: module/b2c/ebc/layout/layout.phtml, line: 520
 # File: module/b2c/view/b2c/admin/login.phtml, line: 77
 # File: module/b2c/view/b2c/admin/login.phtml, line: 78
 msgid "English"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 154
-# File: module/b2c/ebc/layout/layout.phtml, line: 515
+# File: module/b2c/ebc/layout/layout.phtml, line: 521
 # File: module/b2c/view/layout/admin.phtml, line: 193
 msgid "Spanish"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 157
-# File: module/b2c/ebc/layout/layout.phtml, line: 517
+# File: module/b2c/ebc/layout/layout.phtml, line: 523
 msgid "French"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 160
-# File: module/b2c/ebc/layout/layout.phtml, line: 518
+# File: module/b2c/ebc/layout/layout.phtml, line: 524
 msgid "Italian"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 163
-# File: module/b2c/ebc/layout/layout.phtml, line: 519
+# File: module/b2c/ebc/layout/layout.phtml, line: 525
 # File: module/b2c/view/layout/admin.phtml, line: 196
 msgid "German"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 166
-# File: module/b2c/ebc/layout/layout.phtml, line: 516
+# File: module/b2c/ebc/layout/layout.phtml, line: 522
 # File: module/b2c/view/b2c/admin/login.phtml, line: 79
 msgid "Portuguese"
 msgstr ""
@@ -15650,77 +15956,90 @@ msgstr ""
 msgid "Savings"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 381
-msgid "Groups"
+# File: module/b2c/ebc/layout/layout.phtml, line: 372
+msgid "Become an affiliate"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 382
-msgid "Weddings"
+# File: module/b2c/ebc/layout/layout.phtml, line: 373
+msgid "List your property"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 374
+# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 85
+msgid "Open Business Account"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 387
+msgid "Groups"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 388
+msgid "Weddings"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 393
 msgid "New customer? Register here"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 490
+# File: module/b2c/ebc/layout/layout.phtml, line: 496
 msgid "Display settings"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 496
-# File: module/b2c/ebc/layout/layout.phtml, line: 508
+# File: module/b2c/ebc/layout/layout.phtml, line: 502
+# File: module/b2c/ebc/layout/layout.phtml, line: 514
 # File: module/b2c/view/b2c/admin/routing_add.phtml, line: 12
 # File: module/b2c/view/b2c/admin/routing.phtml, line: 14
 # File: module/b2c/view/b2c/admin/routing_edit.phtml, line: 12
 msgid "Region"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 497
+# File: module/b2c/ebc/layout/layout.phtml, line: 503
 # File: module/b2c/view/layout/admin.phtml, line: 187
 msgid "United States"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 498
+# File: module/b2c/ebc/layout/layout.phtml, line: 504
 msgid "Argentina"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 499
+# File: module/b2c/ebc/layout/layout.phtml, line: 505
 msgid "Brazil"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 500
+# File: module/b2c/ebc/layout/layout.phtml, line: 506
 msgid "Chile"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 501
+# File: module/b2c/ebc/layout/layout.phtml, line: 507
 msgid "Costa Rica"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 502
+# File: module/b2c/ebc/layout/layout.phtml, line: 508
 msgid "Venezuela"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 503
+# File: module/b2c/ebc/layout/layout.phtml, line: 509
 msgid "Colombia"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 504
+# File: module/b2c/ebc/layout/layout.phtml, line: 510
 msgid "Equador"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 505
+# File: module/b2c/ebc/layout/layout.phtml, line: 511
 msgid "Mexico"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 506
+# File: module/b2c/ebc/layout/layout.phtml, line: 512
 msgid "Peru"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 507
+# File: module/b2c/ebc/layout/layout.phtml, line: 513
 msgid "Dominican Republic"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 513
-# File: module/b2c/ebc/layout/layout.phtml, line: 520
+# File: module/b2c/ebc/layout/layout.phtml, line: 519
+# File: module/b2c/ebc/layout/layout.phtml, line: 526
 # File: module/b2c/view/b2c/admin/topmenu_add.phtml, line: 12
 # File: module/b2c/view/b2c/admin/footermenu_edit.phtml, line: 14
 # File: module/b2c/view/b2c/admin/login.phtml, line: 74
@@ -15731,8 +16050,8 @@ msgstr ""
 msgid "Language"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 525
-# File: module/b2c/ebc/layout/layout.phtml, line: 536
+# File: module/b2c/ebc/layout/layout.phtml, line: 531
+# File: module/b2c/ebc/layout/layout.phtml, line: 542
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 392
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 492
 # File: module/b2c/view/b2c/admin/currency.phtml, line: 5
@@ -15742,47 +16061,47 @@ msgstr ""
 msgid "Currency"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 526
+# File: module/b2c/ebc/layout/layout.phtml, line: 532
 msgid "USD"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 527
+# File: module/b2c/ebc/layout/layout.phtml, line: 533
 msgid "ARS"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 528
+# File: module/b2c/ebc/layout/layout.phtml, line: 534
 msgid "BRL"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 529
+# File: module/b2c/ebc/layout/layout.phtml, line: 535
 msgid "SOL"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 530
+# File: module/b2c/ebc/layout/layout.phtml, line: 536
 msgid "CLP"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 531
+# File: module/b2c/ebc/layout/layout.phtml, line: 537
 msgid "COP"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 532
+# File: module/b2c/ebc/layout/layout.phtml, line: 538
 msgid "MXN"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 533
+# File: module/b2c/ebc/layout/layout.phtml, line: 539
 msgid "VEF"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 534
+# File: module/b2c/ebc/layout/layout.phtml, line: 540
 msgid "RD"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 535
+# File: module/b2c/ebc/layout/layout.phtml, line: 541
 msgid "EUR"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 541
+# File: module/b2c/ebc/layout/layout.phtml, line: 547
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 144
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 144
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 144
@@ -16900,14 +17219,6 @@ msgstr ""
 msgid "Enter Destination or Hotel/Resort Name"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 113
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 154
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 26
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 167
-# File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 55
-msgid "None"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/index/index_searchbox_packages.phtml, line: 12
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 30
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 48
@@ -17505,12 +17816,6 @@ msgstr ""
 msgid "Price per adult"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/register_confirm_affiliate.phtml, line: 10
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 10
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 25
-msgid "Affiliate Partner Program"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/bookings/register_confirm_affiliate.phtml, line: 15
 msgid "Your Affiliate Account"
 msgstr ""
@@ -17636,20 +17941,6 @@ msgstr ""
 msgid "Alternative Phone"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 95
-# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 95
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 78
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 145
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 81
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 95
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 126
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 177
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 142
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 128
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 207
-msgid "State/Region/Zone"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 112
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 565
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 112
@@ -17666,18 +17957,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 114
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 570
 msgid "Select Document Type"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 120
-# File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 120
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 131
-# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 25
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 69
-# File: module/b2c/costamar/b2c/bookings/index.phtml, line: 120
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 122
-# File: module/b2c/view/b2c/bookings/register.phtml, line: 23
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 203
-msgid "Company"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 135
@@ -17806,10 +18085,6 @@ msgstr ""
 msgid "Add Family Member"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/register_confirm_agent.phtml, line: 10
-msgid "Agent Partner Program"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/bookings/register_confirm_agent.phtml, line: 15
 msgid "Your Agent Account"
 msgstr ""
@@ -17833,13 +18108,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 20
 # File: module/b2c/view/b2c/bookings/register-property.phtml, line: 23
 msgid "Add your property and fill in the form bellow. It takes 1 minute and registration is totally free. There are absolutely no sign-up fees or subscription costs when you partner with us!"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 21
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 21
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 24
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 30
-msgid "A ready-built solution built for travel agents, tour operators, destination management companies, travel companies and freelancers. A tool that empowers you to deliver a better booking experience."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 28
@@ -17878,88 +18146,10 @@ msgstr ""
 msgid "Name of Property"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 110
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 178
-# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 47
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 113
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 124
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 190
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 155
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 224
-msgid "Type The Code Shown"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 124
-# File: module/b2c/costamar/b2c/bookings/forgotpassword.phtml, line: 31
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 192
-# File: module/b2c/costamar/b2c/bookings/register.phtml, line: 56
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 138
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 145
-# File: module/b2c/view/b2c/bookings/agentforgotpassword.phtml, line: 42
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 196
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 161
-# File: module/b2c/view/b2c/bookings/forgotpassword.phtml, line: 50
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 175
-# File: module/b2c/view/b2c/bookings/register.phtml, line: 72
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 229
-# File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 61
-# File: module/b2c/view/b2c/bookings/signin.phtml, line: 61
-msgid "Reset"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 167
 # File: module/b2c/view/b2c/bookings/register-property.phtml, line: 102
 # File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 64
 msgid "Name is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 173
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 40
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 180
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 6
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 6
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 98
-msgid "First Name is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 179
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 46
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 186
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 12
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 12
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 104
-msgid "Last Name is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 185
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 52
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 192
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 18
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 108
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 70
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 18
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 110
-msgid "Address is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 191
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 58
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 198
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 24
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 24
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 116
-msgid "Country is required"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 197
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 64
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 204
-# File: module/b2c/view/b2c/bookings/mydetails.phtml, line: 39
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 123
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 85
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 39
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 151
-msgid "Phone is required"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 5
@@ -18046,11 +18236,6 @@ msgstr ""
 msgid "Register your travel agency with us today!"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 116
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 105
-msgid "Travel Agent? Register your travel agency today to receive commission for bookings made with us!"
-msgstr ""
-#
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 131
 msgid "Travel Agency"
 msgstr ""
@@ -18074,52 +18259,6 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/register.phtml, line: 68
 msgid "terms of service"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 15
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 49
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 198
-msgid "Create Your Affiliate Account"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 19
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 28
-msgid "Our Affiliate Partner Program gives you the unique opportunity to connect your business to our online accommodation booking platform."
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 20
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 29
-msgid "Join Our Affiliate Partner Program and begin earning commission on bookings made through your website. Signing up is free and easy."
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 28
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 39
-msgid "Big earnings"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 30
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 40
-msgid "For each booking that is made through your site, you will earn a commission. The more you book, the more you make."
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 35
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 46
-msgid "Largest Inventory Supply. Over 1 million properties"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 37
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 47
-msgid "Extensive selection of hotels, resorts, apartments and holiday homes with, exclusive discounts and more..."
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 42
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 53
-msgid "+400 bookable airlines"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/bookings/affiliate-program.phtml, line: 44
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 54
-msgid "We negotiate directly with suppliers to secure access to superior inventory, including dynamic packages, private fares and exclusive rates..."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 37
@@ -20968,14 +21107,6 @@ msgstr ""
 msgid "Type of Property"
 msgstr ""
 #
-# File: module/b2c/view/b2c/bookings/register-property.phtml, line: 184
-# File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 149
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 134
-# File: module/b2c/view/b2c/bookings/register.phtml, line: 33
-# File: module/b2c/view/b2c/bookings/affiliate-program.phtml, line: 212
-msgid "Fax"
-msgstr ""
-#
 # File: module/b2c/view/b2c/bookings/register-property.phtml, line: 186
 # File: module/b2c/view/b2c/bookings/addproperty.phtml, line: 151
 msgid "Homepage"
@@ -21117,10 +21248,6 @@ msgstr ""
 #
 # File: module/b2c/view/b2c/bookings/forgotpassword.phtml, line: 34
 msgid "Login is required"
-msgstr ""
-#
-# File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 85
-msgid "Open Business Account"
 msgstr ""
 #
 # File: module/b2c/view/b2c/bookings/registeragent.phtml, line: 94
