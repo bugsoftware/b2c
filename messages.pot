@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-08 08:47+0100\n"
+"POT-Creation-Date: 2023-04-09 07:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -345,7 +345,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 83
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 133
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 171
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 117
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 74
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 231
 msgid "Please enter your First Name"
 msgstr ""
@@ -374,7 +374,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 75
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 82
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 438
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 117
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 74
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 232
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 15
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 106
@@ -451,7 +451,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 77
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 138
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 176
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 118
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 75
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 237
 msgid "Please enter your Last Name"
 msgstr ""
@@ -479,7 +479,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 69
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 76
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 445
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 118
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 75
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 238
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 16
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 107
@@ -562,7 +562,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 114
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1583
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 478
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 125
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 82
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 281
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 27
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 103
@@ -649,7 +649,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 112
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 77
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 75
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 126
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 83
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 293
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 39
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 322
@@ -679,7 +679,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 45
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 123
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 56
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 123
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 80
 msgid "Select your country"
 msgstr ""
 #
@@ -700,7 +700,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 131
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 132
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 54
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 123
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 80
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 306
 msgid "Please select your country"
 msgstr ""
@@ -727,7 +727,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 119
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 126
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 77
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 129
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 84
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 312
 msgid "Phone number"
 msgstr ""
@@ -754,7 +754,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 120
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 127
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 77
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 130
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 84
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 313
 msgid "Please enter your Phone number"
 msgstr ""
@@ -795,7 +795,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 150
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1581
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 461
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 133
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 85
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 318
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 59
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 18
@@ -872,7 +872,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 88
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 126
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 133
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 133
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 85
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 319
 msgid "Please enter your Email"
 msgstr ""
@@ -1677,7 +1677,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 731
 # File: module/b2c/ebc/b2c/booking/index.phtml, line: 9
 # File: module/b2c/ebc/b2c/booking/index.phtml, line: 41
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 277
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 295
 # File: module/b2c/ebc/b2c/transfers/searching.phtml, line: 51
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 452
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 28
@@ -1849,6 +1849,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 15
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 137
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 144
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 86
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 71
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 98
 # File: module/b2c/costamar/b2c/bookings/signinpassword.phtml, line: 22
@@ -2678,7 +2679,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 126
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 164
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 469
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 108
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 65
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 52
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 68
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 11
@@ -2751,7 +2752,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 127
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 165
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 469
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 109
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 66
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 53
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 69
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 12
@@ -2821,8 +2822,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 126
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 128
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 166
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 105
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 107
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 62
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 64
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 50
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 66
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 9
@@ -3834,7 +3835,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 638
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 654
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 668
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 151
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 222
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 341
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 265
@@ -3983,7 +3984,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1543
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1547
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1054
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 151
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
 # File: module/b2c/ebc/layout/layout.phtml, line: 496
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 71
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 76
@@ -8364,7 +8365,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 89
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 96
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 470
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 120
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 77
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 85
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 85
@@ -8398,7 +8399,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 48
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 90
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 97
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 120
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 77
 msgid "Please enter your Address"
 msgstr ""
 #
@@ -8996,7 +8997,7 @@ msgid "Book"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 54
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 30
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 27
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 35
 # File: module/b2c/ebc/b2c/air/index.phtml, line: 54
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 324
@@ -10298,57 +10299,56 @@ msgstr ""
 msgid "Add to Cart"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 17
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 86
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 87
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 90
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 15
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 80
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 83
 # File: module/b2c/ebc/b2c/air/index.phtml, line: 79
 # File: module/b2c/ebc/b2c/air/index.phtml, line: 81
 msgid "Need Help?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 20
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 17
 # File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 511
 msgid "Update your profle now!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 21
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 18
 # File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 302
 # File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 342
 #, php-format
 msgid "Get 10% discount gift voucher"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 22
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 19
 msgid "Update now!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 31
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 28
 #, php-format
 msgid "Update your profile and we will give you a 10% discount gift card for you to use in any of these destinations."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 38
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 35
 msgid "type the destination"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 71
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 68
 msgid "Update your profile and get"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 71
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 68
 msgid "discount!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 71
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 68
 msgid "Update your profile now and get"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 71
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 68
 msgid "gift certificate"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 91
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 84
 # File: module/b2c/ebc/b2c/air/index.phtml, line: 82
 msgid "Call us for better advice"
 msgstr ""
@@ -12309,7 +12309,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 163
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 169
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1591
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 143
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 113
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 358
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 405
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 440
@@ -13713,17 +13713,17 @@ msgid "Apartment number, Suite, or Other secondary address"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 49
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 78
 msgid "Please enter Apartment number, Suite, or Other secondary address information"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 65
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 124
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 81
 msgid "Select your state/zone/region"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 72
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 125
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 82
 msgid "Select your city"
 msgstr ""
 #
@@ -13818,32 +13818,32 @@ msgid "Password and confirm password does not match!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 191
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 171
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 141
 msgid "Please enter first name!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 199
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 182
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 152
 msgid "Please enter last name!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 208
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 193
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 163
 msgid "Please enter address!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 217
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 205
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 175
 msgid "Please enter country!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 226
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 217
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 211
 msgid "Please enter phone!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 235
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 229
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 223
 msgid "Please enter email!"
 msgstr ""
 #
@@ -15940,146 +15940,230 @@ msgstr ""
 msgid "This reservation can not be reinstated once cancelled. Are you really sure you want to cancel this reservation?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 31
-msgid "View More Offers"
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 24
+msgid "View Offers"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 52
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 25
 msgid "How To Use?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 61
-msgid "Gift Card is redeemable towards purchase of hotels, activities, car-rentals, cruises, transfers and packages provided by"
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 26
+msgid "Gift Card is redeemable towards purchase of hotels, activities, car-rentals, cruises, transfers and packages"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 61
-msgid "and its affiliates"
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 26
+msgid "With this voucher, you're able to get a discount when you purchase services through our online website. Purchase a service that's applicable for a voucher discount from our online website. Check out and enter your voucher code into the field Promotional code and hit 'Apply code'."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 87
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 37
 msgid "Check your inbox!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 89
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 39
 msgid "You're one step away from getting"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 89
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 98
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 39
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 55
 msgid "discount gift card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 89
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 39
 msgid "Click the link in the confirmation email we sent to:"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 90
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 40
 msgid "Please verify your email address. Your account will not be updated until your email address is confirmed."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 93
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 42
 msgid "If nothing shows up in your email, check your junk folder. Check if you used the right email. Still no joy?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 93
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 42
 msgid "Contact us for more help."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 98
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 46
+msgid "Invalid email address. Please input a valid email address."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 49
+msgid "Invalid phone number. Please input a valid phone number."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 51
+msgid "Unable to update profile"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 55
 msgid "Complete the form below accurately and we will issue a"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 106
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 63
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 90
 msgid "Select Title"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 110
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 67
 msgid "Mrs"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 111
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 68
 msgid "Miss"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 112
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 69
 msgid "Dr"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 113
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 70
 msgid "Rev"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 78
 msgid "Apartment number, Suite, or other secondary address"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 124
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 81
 msgid "State/Zone/Region"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 124
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 81
 msgid "Select your State/Zone/Region"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 126
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 83
 msgid "Input your Zip/Postal Code"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 138
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 86
+msgid "Enter your desired password"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 89
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 91
+msgid "Prefered Language"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 92
+# File: module/b2c/ebc/layout/layout.phtml, line: 150
+# File: module/b2c/ebc/layout/layout.phtml, line: 168
+# File: module/b2c/ebc/layout/layout.phtml, line: 519
+# File: module/b2c/view/b2c/admin/login.phtml, line: 77
+# File: module/b2c/view/b2c/admin/login.phtml, line: 78
+msgid "English"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 93
+# File: module/b2c/ebc/layout/layout.phtml, line: 153
+# File: module/b2c/ebc/layout/layout.phtml, line: 520
+# File: module/b2c/view/layout/admin.phtml, line: 193
+msgid "Spanish"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 94
+# File: module/b2c/ebc/layout/layout.phtml, line: 165
+# File: module/b2c/ebc/layout/layout.phtml, line: 521
+# File: module/b2c/view/b2c/admin/login.phtml, line: 79
+msgid "Portuguese"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 95
+# File: module/b2c/ebc/layout/layout.phtml, line: 156
+# File: module/b2c/ebc/layout/layout.phtml, line: 522
+msgid "French"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 96
+# File: module/b2c/ebc/layout/layout.phtml, line: 159
+# File: module/b2c/ebc/layout/layout.phtml, line: 523
+msgid "Italian"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 97
+# File: module/b2c/ebc/layout/layout.phtml, line: 162
+# File: module/b2c/ebc/layout/layout.phtml, line: 524
+# File: module/b2c/view/layout/admin.phtml, line: 196
+msgid "German"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 106
 msgid "Setting your home airport allows us to offer you the most relevant content. This includes trip alerts relevant to your departure region."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 138
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 106
 msgid "Why is this important?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 138
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 322
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 106
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 340
 msgid "Which airport do you prefer to fly from?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 139
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 108
 msgid "What places would you like to visit in the future?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 139
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 108
 msgid "Type country or city here..."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 140
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 110
 msgid "In which month(s) do you frequently travel?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 140
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 110
 msgid "Select the month(s) you you frequently travel..."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 160
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 170
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 181
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 192
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 204
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 216
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 228
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 240
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 252
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 264
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 130
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 140
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 151
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 162
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 174
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 186
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 198
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 210
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 222
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 234
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 246
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 258
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 270
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 282
 msgid "Profile Update"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 161
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 131
 msgid "Please select title!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 241
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 187
+msgid "Please enter state/region/zone!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 199
+msgid "Please enter city!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 235
+msgid "Please enter a new password!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 247
+msgid "Please select your prefered language!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 259
 msgid "Please select your home airport! Which airport do you prefer to fly from?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 253
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 271
 msgid "Please select destinations! Which destinations are you most hoping to visit with?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 265
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 283
 msgid "Please select which month's do you prefer to travel!"
 msgstr ""
 #
@@ -16221,42 +16305,6 @@ msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 117
 msgid "Sign Out"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 150
-# File: module/b2c/ebc/layout/layout.phtml, line: 168
-# File: module/b2c/ebc/layout/layout.phtml, line: 519
-# File: module/b2c/view/b2c/admin/login.phtml, line: 77
-# File: module/b2c/view/b2c/admin/login.phtml, line: 78
-msgid "English"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 153
-# File: module/b2c/ebc/layout/layout.phtml, line: 520
-# File: module/b2c/view/layout/admin.phtml, line: 193
-msgid "Spanish"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 156
-# File: module/b2c/ebc/layout/layout.phtml, line: 522
-msgid "French"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 159
-# File: module/b2c/ebc/layout/layout.phtml, line: 523
-msgid "Italian"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 162
-# File: module/b2c/ebc/layout/layout.phtml, line: 524
-# File: module/b2c/view/layout/admin.phtml, line: 196
-msgid "German"
-msgstr ""
-#
-# File: module/b2c/ebc/layout/layout.phtml, line: 165
-# File: module/b2c/ebc/layout/layout.phtml, line: 521
-# File: module/b2c/view/b2c/admin/login.phtml, line: 79
-msgid "Portuguese"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 181
