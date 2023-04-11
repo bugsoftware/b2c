@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 17:44+0100\n"
+"POT-Creation-Date: 2023-04-11 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1579,7 +1579,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 662
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 458
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 460
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 584
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 550
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 323
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 306
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 291
@@ -4366,7 +4366,7 @@ msgstr ""
 # File: module/b2c/abc/offers/hotels/index.phtml, line: 153
 # File: module/b2c/abc/offers/hotels/index.phtml, line: 318
 # File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 273
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 562
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 534
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 121
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 314
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 156
@@ -4920,7 +4920,7 @@ msgstr ""
 # File: module/b2c/abc/offers/airline/index.phtml, line: 293
 # File: module/b2c/abc/offers/holidays/index.phtml, line: 278
 # File: module/b2c/abc/offers/hotels/index.phtml, line: 314
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 541
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 534
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 310
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 293
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 278
@@ -4940,7 +4940,7 @@ msgstr ""
 # File: module/b2c/abc/offers/airline/index.phtml, line: 306
 # File: module/b2c/abc/offers/holidays/index.phtml, line: 291
 # File: module/b2c/abc/offers/hotels/index.phtml, line: 327
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 586
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 550
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 323
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 306
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 291
@@ -10307,7 +10307,7 @@ msgid "Need Help?"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 17
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 511
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 510
 msgid "Update your profle now!"
 msgstr ""
 #
@@ -16296,17 +16296,17 @@ msgstr ""
 msgid "Return:"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 345
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 344
 #, php-format
 msgid "Update your profile and get 10% discount gift voucher"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 351
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 350
 #, php-format
 msgid "Update your profle now and get 10% discount gift card!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 355
+# File: module/b2c/ebc/b2c/top-destinations/upgradeprofileemail.phtml, line: 354
 msgid "More than 56,000 travel destinations for you to choose from. White sandy beaches are a must-visit for many, with vibrant cities also on a lot of people's favorites. What is your favorite?"
 msgstr ""
 #
