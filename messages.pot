@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-09 07:40+0100\n"
+"POT-Creation-Date: 2023-04-11 15:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16044,7 +16044,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 89
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 91
-msgid "Prefered Language"
+msgid "Preferred Language"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 92
@@ -16152,7 +16152,7 @@ msgid "Please enter a new password!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 247
-msgid "Please select your prefered language!"
+msgid "Please select your preferred language!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 259
