@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-19 11:57+0100\n"
+"POT-Creation-Date: 2023-04-19 20:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7870,6 +7870,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 57
 # File: module/b2c/ebc/b2c/destinations/explore.phtml, line: 156
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 286
+# File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 56
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 120
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 145
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 658
