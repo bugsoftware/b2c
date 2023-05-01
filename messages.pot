@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-26 21:26+0100\n"
+"POT-Creation-Date: 2023-05-01 07:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4330,6 +4330,41 @@ msgstr ""
 msgid "Your dates are popular - we've run out of rooms at this property!"
 msgstr ""
 #
+# File: module/b2c/abc/b2c/air/search.phtml, line: 466
+msgid "DEP"
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 476
+msgid "direct"
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 476
+# File: module/b2c/ebc/b2c/air/search.old.phtml, line: 579
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 531
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 705
+msgid "stop"
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 476
+# File: module/b2c/ebc/b2c/air/search.old.phtml, line: 581
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 533
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 707
+msgid "stops"
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 501
+# File: module/b2c/abc/offers/lastminute/index.phtml, line: 1629
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 310
+# File: module/b2c/ebc/b2c/cruises/cabins.phtml, line: 35
+# File: module/b2c/ebc/offers/lastminute/index.phtml, line: 1629
+# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 137
+# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1629
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 147
+# File: module/b2c/view/b2c/search.phtml, line: 122
+# File: module/b2c/view/offers/lastminute/index.phtml, line: 1629
+msgid "total"
+msgstr ""
+#
 # File: module/b2c/abc/offers/cruises/index.phtml, line: 49
 # File: module/b2c/abc/offers/cruises/index.phtml, line: 50
 # File: module/b2c/abc/offers/cruises/index.phtml, line: 51
@@ -5369,18 +5404,6 @@ msgstr ""
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 591
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 591
 msgid "Special Offers"
-msgstr ""
-#
-# File: module/b2c/abc/offers/lastminute/index.phtml, line: 1629
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 310
-# File: module/b2c/ebc/b2c/cruises/cabins.phtml, line: 35
-# File: module/b2c/ebc/offers/lastminute/index.phtml, line: 1629
-# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 137
-# File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1629
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 147
-# File: module/b2c/view/b2c/search.phtml, line: 122
-# File: module/b2c/view/offers/lastminute/index.phtml, line: 1629
-msgid "total"
 msgstr ""
 #
 # File: module/b2c/abc/offers/lastminute/index.phtml, line: 1649
@@ -13451,18 +13474,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 9
 # File: module/b2c/view/b2c/air/search.phtml, line: 130
 msgid "Direct"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/search.old.phtml, line: 579
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 531
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 705
-msgid "stop"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/search.old.phtml, line: 581
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 533
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 707
-msgid "stops"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 650
