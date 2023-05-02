@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 16:59+0100\n"
+"POT-Creation-Date: 2023-05-02 18:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3970,7 +3970,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 792
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1512
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 349
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 351
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 135
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 243
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 884
@@ -5950,7 +5950,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 15
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 64
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 108
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 127
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 129
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 14
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 97
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 388
@@ -7904,7 +7904,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 89
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 90
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 108
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 98
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 100
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 359
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 89
 msgid "Latest Flight Promos!"
@@ -7912,7 +7912,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 206
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 90
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 99
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 101
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 360
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 90
 msgid "See the best flight deals anywhere in the world from hundreds of airlines, then book with no fees. Act fast - these fares may rise."
@@ -7920,7 +7920,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 223
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 107
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 116
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 118
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 377
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 107
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 5
@@ -7935,7 +7935,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 245
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 129
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 347
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 138
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 140
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 399
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 129
 msgid "SEARCH FLIGHT"
@@ -7945,7 +7945,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 137
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 360
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 160
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 146
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 148
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 407
 # File: module/b2c/ebc/b2c/hotels/index.phtml, line: 57
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 137
@@ -7961,7 +7961,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 174
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 384
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 184
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 170
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 172
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 444
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 389
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 174
@@ -7982,7 +7982,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 257
 # File: module/b2c/ebc/b2c/destinations/explore.phtml, line: 841
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 481
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 252
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 254
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 527
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 257
 msgid "SEARCH CAR"
@@ -8003,7 +8003,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 90
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 119
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 119
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 268
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 270
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 24
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 64
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 53
@@ -8026,7 +8026,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 91
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 120
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 120
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 269
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 271
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 25
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 65
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 54
@@ -8056,7 +8056,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 100
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 129
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 129
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 278
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 280
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 34
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 74
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 63
@@ -8095,7 +8095,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 110
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 139
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 139
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 288
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 290
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 44
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 84
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 73
@@ -9032,7 +9032,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 265
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 489
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 271
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 260
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 262
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 532
 # File: module/b2c/ebc/b2c/hotels/index.phtml, line: 940
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 264
@@ -10325,8 +10325,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 15
 # File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 80
 # File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 83
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 79
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 81
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 80
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 82
 msgid "Need Help?"
 msgstr ""
 #
@@ -10371,7 +10371,7 @@ msgid "gift certificate"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/promoprofile.phtml, line: 84
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 82
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 83
 msgid "Call us for better advice"
 msgstr ""
 #
@@ -11398,7 +11398,7 @@ msgid "date to"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 361
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 147
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 149
 msgid "Exclusive offers, attractive rates for 1.7m accommodations. From tranquil countryside retreats to opulent beach resorts, low prices and flexible payment terms."
 msgstr ""
 #
@@ -13579,7 +13579,7 @@ msgid "Choose returning flight"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1512
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 349
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 351
 # File: module/b2c/costamar/b2c/cruises/packages.phtml, line: 1808
 # File: module/b2c/costamar/b2c/cruises/index.phtml, line: 161
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 260
