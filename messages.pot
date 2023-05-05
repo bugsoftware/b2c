@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-03 15:42+0100\n"
+"POT-Creation-Date: 2023-05-05 16:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4330,29 +4330,85 @@ msgstr ""
 msgid "Your dates are popular - we've run out of rooms at this property!"
 msgstr ""
 #
-# File: module/b2c/abc/b2c/air/search.phtml, line: 466
+# File: module/b2c/abc/b2c/air/search.phtml, line: 431
+# File: module/b2c/ebc/b2c/activities/results.phtml, line: 246
+# File: module/b2c/ebc/b2c/cruises/search.phtml, line: 446
+# File: module/b2c/ebc/b2c/air/search.phtml, line: 219
+# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 129
+# File: module/b2c/costamar/b2c/activities/results.phtml, line: 255
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 105
+# File: module/b2c/costamar/b2c/packages/search.phtml, line: 93
+# File: module/b2c/view/b2c/activities/results.phtml, line: 350
+# File: module/b2c/view/b2c/cars/search.phtml, line: 322
+# File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 155
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 284
+# File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
+# File: module/b2c/view/b2c/air/search.phtml, line: 149
+# File: module/b2c/view/b2c/packages/list.phtml, line: 115
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 532
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 271
+# File: module/b2c/view/b2c/search.phtml, line: 369
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 440
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 445
+msgid "We're sorry, but no results match the criteria you selected. Please broaden your selections and search again."
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 431
+# File: module/b2c/ebc/b2c/air/search.phtml, line: 219
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 105
+# File: module/b2c/costamar/b2c/packages/search.phtml, line: 93
+# File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
+# File: module/b2c/view/b2c/air/search.phtml, line: 149
+msgid "No air fares shown, try clearing some filters to see more availability."
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 431
+# File: module/b2c/ebc/b2c/cruises/search.phtml, line: 446
+# File: module/b2c/ebc/b2c/air/search.phtml, line: 219
+# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 129
+# File: module/b2c/costamar/b2c/activities/results.phtml, line: 255
+# File: module/b2c/costamar/b2c/air/search.phtml, line: 105
+# File: module/b2c/costamar/b2c/packages/search.phtml, line: 93
+# File: module/b2c/view/b2c/activities/results.phtml, line: 350
+# File: module/b2c/view/b2c/cars/search.phtml, line: 322
+# File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 155
+# File: module/b2c/view/b2c/cruises/search.phtml, line: 284
+# File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
+# File: module/b2c/view/b2c/air/search.phtml, line: 149
+# File: module/b2c/view/b2c/packages/list.phtml, line: 115
+# File: module/b2c/view/b2c/hotels/search.phtml, line: 532
+# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 271
+# File: module/b2c/view/b2c/search.phtml, line: 369
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 440
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 445
+msgid "Modify your search, remove your filters or try different dates."
+msgstr ""
+#
+# File: module/b2c/abc/b2c/air/search.phtml, line: 441
 msgid "DEP"
 msgstr ""
 #
-# File: module/b2c/abc/b2c/air/search.phtml, line: 476
+# File: module/b2c/abc/b2c/air/search.phtml, line: 451
 msgid "direct"
 msgstr ""
 #
-# File: module/b2c/abc/b2c/air/search.phtml, line: 476
+# File: module/b2c/abc/b2c/air/search.phtml, line: 451
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 579
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 531
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 705
 msgid "stop"
 msgstr ""
 #
-# File: module/b2c/abc/b2c/air/search.phtml, line: 476
+# File: module/b2c/abc/b2c/air/search.phtml, line: 451
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 581
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 533
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 707
 msgid "stops"
 msgstr ""
 #
-# File: module/b2c/abc/b2c/air/search.phtml, line: 501
+# File: module/b2c/abc/b2c/air/search.phtml, line: 476
 # File: module/b2c/abc/offers/lastminute/index.phtml, line: 1629
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 310
 # File: module/b2c/ebc/b2c/cruises/cabins.phtml, line: 35
@@ -6197,29 +6253,6 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/results.phtml, line: 239
 msgid "Highest -> Lowest"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/activities/results.phtml, line: 246
-# File: module/b2c/ebc/b2c/cruises/search.phtml, line: 446
-# File: module/b2c/ebc/b2c/air/search.phtml, line: 219
-# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 129
-# File: module/b2c/costamar/b2c/activities/results.phtml, line: 255
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 105
-# File: module/b2c/costamar/b2c/packages/search.phtml, line: 93
-# File: module/b2c/view/b2c/activities/results.phtml, line: 350
-# File: module/b2c/view/b2c/cars/search.phtml, line: 322
-# File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 155
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 284
-# File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
-# File: module/b2c/view/b2c/air/search.phtml, line: 149
-# File: module/b2c/view/b2c/packages/list.phtml, line: 115
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 532
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 271
-# File: module/b2c/view/b2c/search.phtml, line: 369
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 440
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 445
-msgid "We're sorry, but no results match the criteria you selected. Please broaden your selections and search again."
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/results.phtml, line: 413
@@ -11256,28 +11289,6 @@ msgstr ""
 msgid "No cruises shown, try clearing some filters to see more availability."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/cruises/search.phtml, line: 446
-# File: module/b2c/ebc/b2c/air/search.phtml, line: 219
-# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 129
-# File: module/b2c/costamar/b2c/activities/results.phtml, line: 255
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 105
-# File: module/b2c/costamar/b2c/packages/search.phtml, line: 93
-# File: module/b2c/view/b2c/activities/results.phtml, line: 350
-# File: module/b2c/view/b2c/cars/search.phtml, line: 322
-# File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 131
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 155
-# File: module/b2c/view/b2c/cruises/search.phtml, line: 284
-# File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
-# File: module/b2c/view/b2c/air/search.phtml, line: 149
-# File: module/b2c/view/b2c/packages/list.phtml, line: 115
-# File: module/b2c/view/b2c/hotels/search.phtml, line: 532
-# File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 271
-# File: module/b2c/view/b2c/search.phtml, line: 369
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 440
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 445
-msgid "Modify your search, remove your filters or try different dates."
-msgstr ""
-#
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 477
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 109
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 350
@@ -13554,14 +13565,6 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 202
 msgid "Sort by Arrival (Latest)"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/search.phtml, line: 219
-# File: module/b2c/costamar/b2c/air/search.phtml, line: 105
-# File: module/b2c/costamar/b2c/packages/search.phtml, line: 93
-# File: module/b2c/view/b2c/air/multisearch.phtml, line: 217
-# File: module/b2c/view/b2c/air/search.phtml, line: 149
-msgid "No air fares shown, try clearing some filters to see more availability."
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 645
