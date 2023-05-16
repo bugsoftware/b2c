@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-12 11:42+0100\n"
+"POT-Creation-Date: 2023-05-16 11:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1057,7 +1057,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 166
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 559
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 63
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 36
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 33
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 69
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 68
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 63
@@ -1077,7 +1077,7 @@ msgid "Cruises"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/index/index.phtml, line: 58
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 99
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 96
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 37
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 13
 msgid "Going to"
@@ -1173,10 +1173,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 118
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 94
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 39
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 49
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 107
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 406
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 466
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 46
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 104
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 403
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 463
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 170
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 41
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 267
@@ -1330,10 +1330,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 135
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 108
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 52
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 60
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 118
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 417
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 481
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 57
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 115
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 414
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 478
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 172
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 55
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 269
@@ -1469,12 +1469,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 159
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 51
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 68
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 92
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 153
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 270
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 449
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 499
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 559
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 89
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 150
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 267
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 446
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 496
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 556
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 29
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 45
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 60
@@ -1635,12 +1635,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/searching.phtml, line: 39
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 529
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 640
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 544
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 593
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 867
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1114
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1271
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1452
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 541
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 590
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 864
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1111
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1268
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1449
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 456
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 673
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 16
@@ -2125,8 +2125,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 197
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 207
 # File: module/b2c/ebc/b2c/cruises/info.phtml, line: 51
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 950
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 970
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 947
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 967
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 95
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 254
@@ -2949,8 +2949,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1502
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 83
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 84
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 950
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 970
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 947
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 967
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 156
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 39
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 40
@@ -3332,7 +3332,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 9
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 151
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 544
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 32
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 29
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 24
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 60
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 369
@@ -3801,12 +3801,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 910
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 625
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 647
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 772
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 791
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 805
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1016
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1035
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1049
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 478
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 498
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 520
@@ -3874,7 +3874,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 214
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 265
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1324
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 105
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 102
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 228
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 23
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 24
@@ -3970,7 +3970,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 792
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1512
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 351
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 346
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 135
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 243
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 884
@@ -4090,7 +4090,7 @@ msgid "Country of nationality"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/view.phtml, line: 626
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 103
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 100
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 490
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 127
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 148
@@ -4105,7 +4105,7 @@ msgid "Check In"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/view.phtml, line: 627
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 104
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 101
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 491
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 128
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 149
@@ -4629,8 +4629,8 @@ msgid "to"
 msgstr ""
 #
 # File: module/b2c/abc/offers/cruises/index.phtml, line: 161
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 288
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 346
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 285
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 343
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 27
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 18
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 20
@@ -4676,8 +4676,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 65
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 386
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 177
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 46
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 528
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 43
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 525
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 134
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 24
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 74
@@ -5209,11 +5209,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 100
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 102
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 417
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 515
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 516
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 517
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 518
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 519
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 520
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 521
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 522
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 239
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 240
 # File: module/b2c/costamar/b2c/cruises/cabins.phtml, line: 45
@@ -5754,7 +5754,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 795
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 148
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 541
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 31
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 28
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 100
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 18
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 57
@@ -5828,7 +5828,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 797
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 154
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 547
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 33
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 30
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 30
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 63
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 372
@@ -5855,7 +5855,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 798
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 157
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 550
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 34
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 31
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 60
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 36
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 66
@@ -6005,12 +6005,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 175
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 280
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 452
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 278
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 275
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 142
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 15
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 64
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 108
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 129
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 124
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 14
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 97
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 388
@@ -6069,7 +6069,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 12
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 380
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 178
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 282
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 279
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 20
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 65
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 109
@@ -6171,7 +6171,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 308
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 312
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 25
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 463
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 460
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 27
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 43
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 58
@@ -6204,7 +6204,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 315
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 319
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 31
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 464
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 461
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 28
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 44
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 59
@@ -6334,12 +6334,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6407,12 +6407,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6480,12 +6480,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6553,12 +6553,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6627,12 +6627,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6700,12 +6700,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6773,12 +6773,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6846,12 +6846,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6919,12 +6919,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -6992,12 +6992,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -7065,12 +7065,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -7138,12 +7138,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 906
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 621
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 643
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 765
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 784
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 798
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1009
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1028
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1042
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 474
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 494
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 516
@@ -7211,12 +7211,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7274,12 +7274,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7337,12 +7337,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7400,12 +7400,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7463,12 +7463,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7526,12 +7526,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7589,12 +7589,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 907
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 622
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 644
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 769
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 788
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 802
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1013
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1032
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1046
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 766
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 785
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 799
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1010
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1029
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1043
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 475
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 495
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 517
@@ -7651,12 +7651,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 908
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 623
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 645
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 770
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 789
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 803
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1014
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1033
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1047
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 767
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 786
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 800
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1011
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1030
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1044
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 476
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 496
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 518
@@ -7717,12 +7717,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 909
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 624
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 646
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 771
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 790
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 804
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1015
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1034
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1048
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 768
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 787
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 801
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1012
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1031
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1045
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 477
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 497
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 519
@@ -7941,7 +7941,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 89
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 90
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 108
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 100
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 95
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 359
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 89
 msgid "Latest Flight Promos!"
@@ -7949,7 +7949,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 206
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 90
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 101
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 96
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 360
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 90
 msgid "See the best flight deals anywhere in the world from hundreds of airlines, then book with no fees. Act fast - these fares may rise."
@@ -7957,7 +7957,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 223
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 107
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 118
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 113
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 377
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 107
 # File: module/b2c/costamar/b2c/index/index_features_flights.phtml, line: 5
@@ -7972,7 +7972,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 245
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 129
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 347
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 140
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 135
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 399
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 129
 msgid "SEARCH FLIGHT"
@@ -7980,9 +7980,9 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 253
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 137
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 360
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 357
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 160
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 148
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 143
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 407
 # File: module/b2c/ebc/b2c/hotels/index.phtml, line: 57
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 137
@@ -7996,9 +7996,9 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 290
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 174
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 384
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 381
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 184
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 172
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 167
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 444
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 389
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 174
@@ -8018,8 +8018,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/index.phtml, line: 387
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 257
 # File: module/b2c/ebc/b2c/destinations/explore.phtml, line: 841
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 481
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 254
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 478
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 249
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 527
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 257
 msgid "SEARCH CAR"
@@ -8032,7 +8032,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 1139
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 547
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 441
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 497
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 494
 # File: module/b2c/ebc/b2c/index/support.phtml, line: 90
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 90
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 279
@@ -8040,13 +8040,13 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 90
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 119
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 119
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 270
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 265
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 24
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 64
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 53
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 62
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 538
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 945
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 940
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 273
 msgid "Specialists"
 msgstr ""
@@ -8055,7 +8055,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 274
 # File: module/b2c/ebc/b2c/destinations/travel.phtml, line: 720
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 442
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 498
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 495
 # File: module/b2c/ebc/b2c/index/support.phtml, line: 91
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 91
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 280
@@ -8063,13 +8063,13 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 91
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 120
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 120
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 271
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 266
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 25
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 65
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 54
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 63
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 539
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 946
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 941
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 274
 msgid "We are experienced professionals in the travel industry. Our specialists have access to unparalleled relationships with the world's top luxury hotels, airlines, tours and cruise lines, who offer upgrades and travel experiences that is only available when you work with one of us."
 msgstr ""
@@ -8085,7 +8085,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 833
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 451
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 634
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 507
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 504
 # File: module/b2c/ebc/b2c/index/support.phtml, line: 100
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 100
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 289
@@ -8093,14 +8093,14 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 100
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 129
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 129
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 280
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 275
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 34
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 74
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 63
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 72
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 548
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1595
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 955
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 950
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 428
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 283
 # File: module/b2c/ebc/layout/layout.phtml, line: 432
@@ -8124,7 +8124,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 817
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 461
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 604
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 517
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 514
 # File: module/b2c/ebc/b2c/index/support.phtml, line: 110
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 110
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 299
@@ -8132,13 +8132,13 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 110
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 139
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 139
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 290
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 285
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 44
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 84
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 73
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 82
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 558
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 965
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 960
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 398
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 293
 # File: module/b2c/ebc/layout/layout.phtml, line: 402
@@ -8897,12 +8897,12 @@ msgid "Car search"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 6
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 161
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 158
 msgid "Pick-up location"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 8
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 169
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 166
 msgid "Pick-up date"
 msgstr ""
 #
@@ -8911,12 +8911,12 @@ msgid "Pick-up Time"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 54
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 165
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 162
 msgid "Drop-off location"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 58
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 203
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 200
 msgid "Drop-off date"
 msgstr ""
 #
@@ -8930,7 +8930,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 108
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 109
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 244
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 241
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 76
 # File: module/b2c/view/b2c/cars/search.phtml, line: 96
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 64
@@ -8938,7 +8938,7 @@ msgid "Country of Residence"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 116
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 239
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 236
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 75
 # File: module/b2c/view/b2c/cars/search.phtml, line: 95
 # File: module/b2c/view/b2c/index/index_searchbox_cars.phtml, line: 63
@@ -9085,11 +9085,11 @@ msgid "Find the best destination"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/index.phtml, line: 265
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 489
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 486
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 271
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 262
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 257
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 532
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 940
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 935
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 264
 msgid "The best travel experience!"
 msgstr ""
@@ -9119,7 +9119,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 799
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 160
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 553
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 35
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 32
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 66
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 42
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 91
@@ -9309,7 +9309,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/step3.phtml, line: 224
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 391
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 198
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 47
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 44
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 151
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 30
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 105
@@ -9476,7 +9476,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/index.phtml, line: 356
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 54
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 457
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 454
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 60
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 59
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 54
@@ -9874,7 +9874,7 @@ msgid "Category"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 516
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 72
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 69
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 177
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 274
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 355
@@ -10760,7 +10760,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 73
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 184
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 108
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 535
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 532
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 196
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 573
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 1225
@@ -11068,7 +11068,7 @@ msgid "Cruises search"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 57
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 508
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 505
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 11
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 19
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 9
@@ -11078,7 +11078,7 @@ msgid "Cruise Destination"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 59
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 510
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 507
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 12
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 19
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 9
@@ -11090,7 +11090,7 @@ msgid "Select Destination"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 67
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 530
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 527
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 32
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 21
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 14
@@ -11101,8 +11101,8 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 75
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 470
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 545
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 537
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 542
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 534
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 43
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 22
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 20
@@ -11114,7 +11114,7 @@ msgid "Any Cruise Line"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 82
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 541
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 538
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 60
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 23
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 21
@@ -11125,8 +11125,8 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 84
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 471
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 546
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 543
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 543
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 540
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 61
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 23
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 21
@@ -11139,7 +11139,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 90
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 172
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 515
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 512
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 416
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 17
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 20
@@ -11151,7 +11151,7 @@ msgid "Cruise Length"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 92
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 517
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 514
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 19
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 20
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 10
@@ -11161,7 +11161,7 @@ msgid "Any Cruise Length"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 102
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 522
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 519
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 20
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 10
@@ -11171,7 +11171,7 @@ msgid "Over"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 105
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 549
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 546
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 68
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 22
@@ -11181,7 +11181,7 @@ msgid "Departure Port"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 107
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 551
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 548
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 69
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 24
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 22
@@ -11430,12 +11430,12 @@ msgstr ""
 msgid "date to"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 361
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 149
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 358
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 144
 msgid "Exclusive offers, attractive rates for 1.7m accommodations. From tranquil countryside retreats to opulent beach resorts, low prices and flexible payment terms."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 547
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 544
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 87
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 343
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 267
@@ -11443,7 +11443,7 @@ msgstr ""
 msgid "Please select destination"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 548
+# File: module/b2c/ebc/b2c/cruises/index.phtml, line: 545
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 93
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 344
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 268
@@ -12094,7 +12094,7 @@ msgstr ""
 msgid "SUBMIT"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 42
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 39
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 55
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 114
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 170
@@ -12115,16 +12115,16 @@ msgstr ""
 msgid "Flying from"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 42
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 43
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 39
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 40
 msgid "Search by city or airport"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 42
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 39
 msgid "Where are you leaving from?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 43
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 40
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 57
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 115
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 171
@@ -12143,11 +12143,11 @@ msgstr ""
 msgid "Flying to"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 43
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 40
 msgid "Where are you going to?"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 83
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 72
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 110
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 111
@@ -12162,52 +12162,52 @@ msgstr ""
 msgid "Airline"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 83
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 80
 msgid "Select airline"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 83
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 111
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 155
 msgid "All Airlines"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 88
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 85
 msgid "One-Way"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 138
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 255
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 434
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 489
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 135
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 252
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 431
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 486
 msgid "Add a Flight"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 147
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 495
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 144
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 492
 msgid "Add a Car"
 msgstr ""
 #
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 159
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 162
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 165
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 9
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 10
 # File: module/b2c/costamar/layout/layout.phtml, line: 131
 msgid "City, station or airport"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 241
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 238
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 75
 msgid "Age"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 264
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 443
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 492
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 261
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 440
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 489
 msgid "Add a Hotel"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 591
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 588
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 11
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 105
 # File: module/b2c/view/b2c/cars/search.phtml, line: 10
@@ -12218,7 +12218,7 @@ msgstr ""
 msgid "Pick-up Date"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 592
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 589
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 43
 # File: module/b2c/costamar/b2c/index/index_searchbox_cars.phtml, line: 106
 # File: module/b2c/view/b2c/cars/search.phtml, line: 53
@@ -13604,7 +13604,7 @@ msgid "Choose returning flight"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1512
-# File: module/b2c/ebc/b2c/air/index.phtml, line: 351
+# File: module/b2c/ebc/b2c/air/index.phtml, line: 346
 # File: module/b2c/costamar/b2c/cruises/packages.phtml, line: 1808
 # File: module/b2c/costamar/b2c/cruises/index.phtml, line: 161
 # File: module/b2c/costamar/b2c/index/index.phtml, line: 260
@@ -15191,15 +15191,15 @@ msgstr ""
 msgid "Who or what company provided your hotel saver"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 102
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 97
 msgid "Hotels by Brand"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 103
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 98
 msgid "Explore the Best Hotels By Brand"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 937
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 932
 msgid "SEARCH CARS"
 msgstr ""
 #
