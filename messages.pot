@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-16 14:20+0100\n"
+"POT-Creation-Date: 2023-05-18 13:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,7 +87,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 11
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 13
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 167
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 169
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 170
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 312
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 357
 msgid "Please select payment method"
@@ -95,7 +95,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 16
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 19
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 173
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 175
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 317
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 362
 msgid "Credit card information"
@@ -103,7 +103,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 20
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 23
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 177
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 179
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 322
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 55
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 367
@@ -116,7 +116,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 25
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 29
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 183
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 185
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 329
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 331
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 54
@@ -137,7 +137,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 30
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 35
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 190
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 192
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 336
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 379
 msgid "Expiration date"
@@ -145,15 +145,15 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 35
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 41
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 196
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 198
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 343
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 385
 msgid "Security code"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 331
-# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 474
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 263
+# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 492
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 346
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 154
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 134
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 128
@@ -180,7 +180,7 @@ msgid "COMPLETE BOOKING"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 390
-# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 533
+# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 551
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 609
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 777
 msgid "PLEASE WAIT..."
@@ -1619,9 +1619,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/activity.phtml, line: 451
 # File: module/b2c/ebc/b2c/activities/activity.phtml, line: 530
 # File: module/b2c/ebc/b2c/activities/activity.phtml, line: 722
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 268
 # File: module/b2c/ebc/b2c/cars/searching.phtml, line: 37
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 324
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 370
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 25
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 393
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 431
@@ -2196,7 +2196,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 143
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 169
 # File: module/b2c/ebc/b2c/cars/book.phtml, line: 81
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 246
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 329
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 101
 # File: module/b2c/ebc/b2c/transfers/book.phtml, line: 113
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 458
@@ -2223,7 +2223,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 440
 # File: module/b2c/ebc/b2c/activities/activity.phtml, line: 372
 # File: module/b2c/ebc/b2c/activities/confirm.phtml, line: 94
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 257
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 340
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 360
 # File: module/b2c/ebc/b2c/cruises/book.phtml, line: 86
 # File: module/b2c/ebc/b2c/cruises/book.phtml, line: 92
@@ -3957,6 +3957,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 158
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 99
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 105
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 355
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 361
 # File: module/b2c/ebc/b2c/destinations/explore.phtml, line: 1123
 # File: module/b2c/ebc/b2c/destinations/index.phtml, line: 308
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 1369
@@ -7773,7 +7775,7 @@ msgid "Searching activities"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 9
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 270
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 372
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 305
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 9
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 316
@@ -7783,7 +7785,7 @@ msgid "Invalid coupon code."
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 10
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 271
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 373
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 307
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 10
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 317
@@ -8517,6 +8519,7 @@ msgid "Select your payment method"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 11
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 169
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 520
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 159
 msgid "Cash Payment"
@@ -8529,7 +8532,7 @@ msgid "Expires"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 35
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 191
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 193
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 149
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 35
 msgid "mm/yy"
@@ -8540,353 +8543,61 @@ msgid "(CVV2/CVC2)"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 52
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 209
 msgid "MoneyGram Sender"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 54
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 211
 msgid "Use primary passenger data"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 59
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 216
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 528
 msgid "Sender Full Name"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 65
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 222
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 534
 msgid "Sender Phone Number"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 71
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 228
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 540
 msgid "Sender Address"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 77
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 234
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 546
 msgid "Sender City & State"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 83
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 240
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 552
 msgid "Zip Code"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 88
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 245
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 557
 msgid "View MoneyGram Payment Locations"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 98
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 354
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 618
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1082
 msgid "MoneyGram Payment Locations"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 113
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 254
 msgid "You can pay your reservation from any of the establishments"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 2
-msgid "Car Confirmation"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 6
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 54
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 62
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 16
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 66
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 74
-msgid "Driver"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 13
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 31
-# File: module/b2c/view/b2c/hotels/view.phtml, line: 233
-# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 209
-msgid "Other"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 15
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 35
-msgid "Driver Age:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 17
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 39
-msgid "Phone number:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 25
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 137
-msgid "PLEASE NOTE: YOU WILL BE REQUIRED TO PRESENT A VALID CREDIT CARD AT THE TIME OF PICK UP AS REQUIRED BY OUR CAR RENTAL PARTNERS TO COVER THEIR SECURITY DEPOSIT AND ANY INCIDENTAL CHARGES. IF YOUR CREDIT CARD IS NOT APPROVED AT THE TIME OF PICK UP OUR CAR RENTAL PARTNERS WILL NOT PROVIDE THE CAR AND WILL NOT ISSUE A REFUND."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 38
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 207
-msgid "Car information"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 46
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 287
-# File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 197
-# File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 56
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 70
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 73
-# File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 418
-# File: module/b2c/view/b2c/cars/book.phtml, line: 66
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 174
-# File: module/b2c/view/b2c/cars/search.phtml, line: 195
-# File: module/b2c/view/b2c/cars/search.phtml, line: 270
-# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
-# File: module/b2c/view/b2c/cruises/info.phtml, line: 24
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 180
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 240
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 127
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 169
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 207
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 242
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 95
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 163
-# File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 142
-# File: module/b2c/view/b2c/transfers/book.phtml, line: 66
-# File: module/b2c/view/b2c/transfers/book.phtml, line: 95
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 356
-# File: module/b2c/view/b2c/transfers/search.phtml, line: 419
-msgid "Passengers"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 47
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 218
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 299
-# File: module/b2c/view/b2c/cars/book.phtml, line: 70
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 178
-# File: module/b2c/view/b2c/cars/search.phtml, line: 270
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 244
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 167
-msgid "Air Conditioning"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 48
-msgid "bags"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 49
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 217
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 296
-# File: module/b2c/view/b2c/cars/book.phtml, line: 68
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 176
-# File: module/b2c/view/b2c/cars/search.phtml, line: 270
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 242
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 127
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 169
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 207
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 242
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 165
-msgid "Doors"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 50
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 290
-# File: module/b2c/view/b2c/cars/book.phtml, line: 69
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 177
-# File: module/b2c/view/b2c/cars/search.phtml, line: 270
-msgid "Transmission"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 53
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 220
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 302
-# File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 230
-# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 145
-# File: module/b2c/view/b2c/cars/book.phtml, line: 78
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 186
-# File: module/b2c/view/b2c/cars/search.phtml, line: 276
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 134
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 176
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 214
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 249
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 285
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 323
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 361
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 399
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 437
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 475
-msgid "Pick up location:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 55
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 222
-# File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 231
-# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 146
-msgid "Other:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 57
-msgid "Free cancellation up to 48 hours prior to car pickup."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 71
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 237
-# File: module/b2c/view/b2c/cars/book.phtml, line: 93
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 200
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 256
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 178
-msgid "Pick up"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 75
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 241
-# File: module/b2c/view/b2c/cars/book.phtml, line: 94
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 216
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 257
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 181
-msgid "Drop off"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 87
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 251
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 117
-# File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 462
-msgid "Due at office"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 94
-# File: module/b2c/ebc/b2c/hotels/book.phtml, line: 116
-# File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 176
-# File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 237
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 394
-# File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 166
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 143
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 141
-msgid "Service Charge"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 105
-# File: module/b2c/ebc/b2c/cruises/book.phtml, line: 50
-# File: module/b2c/ebc/b2c/hotels/book.phtml, line: 52
-# File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 55
-# File: module/b2c/costamar/b2c/air/book.phtml, line: 60
-# File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 55
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 55
-# File: module/b2c/view/b2c/cars/book.phtml, line: 45
-# File: module/b2c/view/b2c/cruises/book.phtml, line: 45
-# File: module/b2c/view/b2c/air/book.phtml, line: 58
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 53
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 70
-msgid "Thank you for giving us the opportunity to make your travel arrangements for your trip to"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 122
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 150
-msgid "Driving instructions"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 123
-msgid "Please note that if you collect or return your vehicle outside the pick-up/drop-off time and date booked, additional charges may be applicable or may not be possible. Please contact the desk telephone in case of this. Please also note that the vehicle may not be available if you arrive late to the rental desk. If the vehicle is not released due to a late arrival no funds will be reimbursed. In the event of a delay, please contact the desk telephone number."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 124
-msgid "A full licence held for minimum of 1 years with no major endorsements. UK licence holders need to present the photocard."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 125
-msgid "Credit card(s) must be valid for up to 6 months after the rental has ended."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 126
-msgid "A valid credit card in the first name and surname (no abbreviations) of the lead driver must be presented at the rental desk in order to pre-authorise/charge a deposit. Please be prepared to provide the PIN number of the credit card(s) presented as suppliers could require this to proceed with the rental contract."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/book.phtml, line: 127
-msgid "A valid photo ID (passport or national ID) is required."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 23
-msgid "Step 1 - Driver information"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 23
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 59
-msgid "Please tell us who will be driving. Must be 18 or older."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 27
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 28
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 61
-msgid "Driver's First Name"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 33
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 34
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 57
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 65
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 62
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 69
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 77
-msgid "Driver's Last Name"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 39
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 43
-msgid "Driver's Title"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 48
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 49
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 59
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 67
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 64
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 71
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 79
-msgid "Driver's Age"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 147
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 178
-# File: module/b2c/view/b2c/air/search.phtml, line: 87
-msgid "Flight Number"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 148
-msgid "Please enter the Flight Number"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 155
-# File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 285
-msgid "Step 2 - Promotional code"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 165
-# File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 305
-msgid "Step 3 - Payment"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 210
-# File: module/b2c/view/b2c/cars/book.phtml, line: 62
-# File: module/b2c/view/b2c/cars/confirm.phtml, line: 170
-# File: module/b2c/view/b2c/cars/search.phtml, line: 266
-# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 235
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 122
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 164
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 202
-# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 237
-# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 158
-msgid "or similar"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 224
-# File: module/b2c/ebc/b2c/cars/search.phtml, line: 303
-# File: module/b2c/ebc/b2c/destinations/from.phtml, line: 427
-# File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 232
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 229
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 409
-# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 147
-# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 86
-# File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 431
-# File: module/b2c/costamar/b2c/hotels/list.phtml, line: 233
-msgid "Free cancellation"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/searching.phtml, line: 36
@@ -9036,6 +8747,43 @@ msgstr ""
 msgid "Descending"
 msgstr ""
 #
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 287
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 46
+# File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 197
+# File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 56
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 70
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 73
+# File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 418
+# File: module/b2c/view/b2c/cars/book.phtml, line: 66
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 174
+# File: module/b2c/view/b2c/cars/search.phtml, line: 195
+# File: module/b2c/view/b2c/cars/search.phtml, line: 270
+# File: module/b2c/view/b2c/cruises/confirm.phtml, line: 192
+# File: module/b2c/view/b2c/cruises/info.phtml, line: 24
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 180
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 240
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 127
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 169
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 207
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 242
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 95
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 163
+# File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 142
+# File: module/b2c/view/b2c/transfers/book.phtml, line: 66
+# File: module/b2c/view/b2c/transfers/book.phtml, line: 95
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 356
+# File: module/b2c/view/b2c/transfers/search.phtml, line: 419
+msgid "Passengers"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 290
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 50
+# File: module/b2c/view/b2c/cars/book.phtml, line: 69
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 177
+# File: module/b2c/view/b2c/cars/search.phtml, line: 270
+msgid "Transmission"
+msgstr ""
+#
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 293
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 154
 # File: module/b2c/view/b2c/cars/book.phtml, line: 67
@@ -9047,6 +8795,66 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 242
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 164
 msgid "Bags"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 296
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 49
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 300
+# File: module/b2c/view/b2c/cars/book.phtml, line: 68
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 176
+# File: module/b2c/view/b2c/cars/search.phtml, line: 270
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 242
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 127
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 169
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 207
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 242
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 165
+msgid "Doors"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 299
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 47
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 301
+# File: module/b2c/view/b2c/cars/book.phtml, line: 70
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 178
+# File: module/b2c/view/b2c/cars/search.phtml, line: 270
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 244
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 167
+msgid "Air Conditioning"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 302
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 53
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 303
+# File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 230
+# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 145
+# File: module/b2c/view/b2c/cars/book.phtml, line: 78
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 186
+# File: module/b2c/view/b2c/cars/search.phtml, line: 276
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 134
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 176
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 214
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 249
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 285
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 323
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 361
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 399
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 437
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 475
+msgid "Pick up location:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/search.phtml, line: 303
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 307
+# File: module/b2c/ebc/b2c/destinations/from.phtml, line: 427
+# File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 232
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 229
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 409
+# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 147
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 86
+# File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 431
+# File: module/b2c/costamar/b2c/hotels/list.phtml, line: 233
+msgid "Free cancellation"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/search.phtml, line: 313
@@ -9094,6 +8902,211 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/index.phtml, line: 935
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 264
 msgid "The best travel experience!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 2
+msgid "Car Confirmation"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 6
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 54
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 62
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 16
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 66
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 74
+msgid "Driver"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 13
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 31
+# File: module/b2c/view/b2c/hotels/view.phtml, line: 233
+# File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 209
+msgid "Other"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 15
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 35
+msgid "Driver Age:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 17
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 39
+msgid "Phone number:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 25
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 137
+msgid "PLEASE NOTE: YOU WILL BE REQUIRED TO PRESENT A VALID CREDIT CARD AT THE TIME OF PICK UP AS REQUIRED BY OUR CAR RENTAL PARTNERS TO COVER THEIR SECURITY DEPOSIT AND ANY INCIDENTAL CHARGES. IF YOUR CREDIT CARD IS NOT APPROVED AT THE TIME OF PICK UP OUR CAR RENTAL PARTNERS WILL NOT PROVIDE THE CAR AND WILL NOT ISSUE A REFUND."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 38
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 290
+msgid "Car information"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 48
+msgid "bags"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 55
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 305
+# File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 231
+# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 146
+msgid "Other:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 57
+msgid "Free cancellation up to 48 hours prior to car pickup."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 71
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 320
+# File: module/b2c/view/b2c/cars/book.phtml, line: 93
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 200
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 256
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 178
+msgid "Pick up"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 75
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 324
+# File: module/b2c/view/b2c/cars/book.phtml, line: 94
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 216
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 257
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 181
+msgid "Drop off"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 87
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 334
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 117
+# File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 462
+msgid "Due at office"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 94
+# File: module/b2c/ebc/b2c/hotels/book.phtml, line: 116
+# File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 176
+# File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 237
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 394
+# File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 166
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 143
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 141
+msgid "Service Charge"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 105
+# File: module/b2c/ebc/b2c/cruises/book.phtml, line: 50
+# File: module/b2c/ebc/b2c/hotels/book.phtml, line: 52
+# File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 55
+# File: module/b2c/costamar/b2c/air/book.phtml, line: 60
+# File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 55
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 55
+# File: module/b2c/view/b2c/cars/book.phtml, line: 45
+# File: module/b2c/view/b2c/cruises/book.phtml, line: 45
+# File: module/b2c/view/b2c/air/book.phtml, line: 58
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 53
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 70
+msgid "Thank you for giving us the opportunity to make your travel arrangements for your trip to"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 122
+# File: module/b2c/ebc/b2c/transfers/book.phtml, line: 150
+msgid "Driving instructions"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 123
+msgid "Please note that if you collect or return your vehicle outside the pick-up/drop-off time and date booked, additional charges may be applicable or may not be possible. Please contact the desk telephone in case of this. Please also note that the vehicle may not be available if you arrive late to the rental desk. If the vehicle is not released due to a late arrival no funds will be reimbursed. In the event of a delay, please contact the desk telephone number."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 124
+msgid "A full licence held for minimum of 1 years with no major endorsements. UK licence holders need to present the photocard."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 125
+msgid "Credit card(s) must be valid for up to 6 months after the rental has ended."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 126
+msgid "A valid credit card in the first name and surname (no abbreviations) of the lead driver must be presented at the rental desk in order to pre-authorise/charge a deposit. Please be prepared to provide the PIN number of the credit card(s) presented as suppliers could require this to proceed with the rental contract."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/book.phtml, line: 127
+msgid "A valid photo ID (passport or national ID) is required."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 23
+msgid "Step 1 - Driver information"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 23
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 59
+msgid "Please tell us who will be driving. Must be 18 or older."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 27
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 28
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 61
+msgid "Driver's First Name"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 33
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 34
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 57
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 65
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 62
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 69
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 77
+msgid "Driver's Last Name"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 39
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 43
+msgid "Driver's Title"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 48
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 49
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 59
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 67
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 64
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 71
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 79
+msgid "Driver's Age"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 147
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 178
+# File: module/b2c/view/b2c/air/search.phtml, line: 87
+msgid "Flight Number"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 148
+msgid "Please enter the Flight Number"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 155
+# File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 285
+msgid "Step 2 - Promotional code"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 165
+# File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 305
+msgid "Step 3 - Payment"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 293
+# File: module/b2c/view/b2c/cars/book.phtml, line: 62
+# File: module/b2c/view/b2c/cars/confirm.phtml, line: 170
+# File: module/b2c/view/b2c/cars/search.phtml, line: 266
+# File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 235
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 122
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 164
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 202
+# File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 237
+# File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 158
+msgid "or similar"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/explore.phtml, line: 9
