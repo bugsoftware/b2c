@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-30 14:47+0100\n"
+"POT-Creation-Date: 2023-05-31 13:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,9 +25,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 304
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 321
 # File: module/b2c/ebc/b2c/shared/coupons.phtml, line: 1
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 5
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 2
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 3
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 5
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 33
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 18
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 35
@@ -188,6 +188,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 5
 # File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 5
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 195
 # File: module/b2c/view/b2c/shared/insurance.phtml, line: 3
 msgid "Insurance"
 msgstr ""
@@ -225,52 +226,52 @@ msgid "trip"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 28
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 28
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 32
 msgid "NEW! Add Travel Protection (Recommended)"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 29
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 29
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 33
 msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 30
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 30
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 34
 msgid "Coverage for COVID-19 sickness"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 31
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 31
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 35
 msgid "Yes, add travel protection for"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 32
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 32
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 36
 msgid "Trip Cancellation"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 33
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 33
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 37
 msgid "Trip Interruption"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 34
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 34
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 38
 msgid "of trip cost"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 35
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 35
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 39
 msgid "Travel Delay"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 36
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 36
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 40
 msgid "Medical and Dental"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 37
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 37
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 41
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 38
 # File: module/b2c/costamar/b2c/packages/search.phtml, line: 84
 # File: module/b2c/view/b2c/packages/package.phtml, line: 225
@@ -280,38 +281,38 @@ msgid "per person"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 38
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 38
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 42
 msgid "daily limit"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 39
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 39
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 43
 msgid "View Description of Coverage/Policy"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 80
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 79
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 83
 msgid "Travel Protection"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 83
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 82
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 86
 msgid "Details for"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 85
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 84
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 88
 msgid "This will be an automatic confirmation. Immediate payment is required."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 87
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 86
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 90
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 952
 msgid "items"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/insurance.phtml, line: 108
-# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 101
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 105
 msgid "Policy Limit"
 msgstr ""
 #
@@ -777,11 +778,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 76
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 97
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 118
+# File: module/b2c/ebc/b2c/air/search.phtml, line: 1523
+# File: module/b2c/ebc/b2c/air/search.phtml, line: 1548
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 91
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 113
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 135
-# File: module/b2c/ebc/b2c/air/search.phtml, line: 1523
-# File: module/b2c/ebc/b2c/air/search.phtml, line: 1548
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 89
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 29
 # File: module/b2c/ebc/b2c/bookings/specialists.phtml, line: 20
@@ -793,8 +794,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 125
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 132
 # File: module/b2c/ebc/b2c/bookings/unsubscribe.phtml, line: 43
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 150
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1594
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 150
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 85
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 534
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 318
@@ -897,8 +898,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 61
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 54
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 70
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 361
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 59
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 362
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 43
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 148
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 49
@@ -933,14 +934,14 @@ msgstr ""
 # File: module/b2c/abc/b2c/index/index.phtml, line: 31
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 144
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 161
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 258
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 339
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 111
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 225
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 264
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 67
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 121
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 258
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 353
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 39
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 69
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 26
@@ -1180,8 +1181,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 463
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 170
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 41
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 267
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 348
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 71
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 72
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 253
@@ -1189,8 +1188,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 116
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 292
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 40
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 267
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 362
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 240
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 393
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 33
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 40
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 34
@@ -1201,6 +1201,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 128
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 129
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 394
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 440
 # File: module/b2c/ebc/b2c/transfers/search.phtml, line: 158
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 16
@@ -1337,8 +1338,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 478
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 172
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 55
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 269
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 350
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 84
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 85
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 255
@@ -1346,8 +1345,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 129
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 294
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 54
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 269
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 364
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 251
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 393
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 34
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 35
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 244
@@ -1355,6 +1355,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 141
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 142
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 394
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 446
 # File: module/b2c/ebc/b2c/transfers/search.phtml, line: 172
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 17
@@ -1643,7 +1644,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1268
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 1449
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 456
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 673
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 16
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 223
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 1012
@@ -1651,6 +1651,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 18
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 262
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1096
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 687
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 180
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 241
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 83
@@ -1662,10 +1663,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 108
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 260
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 277
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 506
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 725
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 738
 # File: module/b2c/ebc/b2c/hotels/searching_2.phtml, line: 61
 # File: module/b2c/ebc/b2c/hotels/searching.phtml, line: 9
 # File: module/b2c/ebc/b2c/hotels/searching.phtml, line: 29
@@ -1673,6 +1670,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 428
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 701
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 764
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 518
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 737
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 744
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 750
 # File: module/b2c/ebc/b2c/booking/pay.phtml, line: 9
 # File: module/b2c/ebc/b2c/booking/pay.phtml, line: 36
 # File: module/b2c/ebc/b2c/booking/index.phtml, line: 9
@@ -1961,11 +1962,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 143
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 294
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 42
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 368
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 523
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 88
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 63
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 369
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 65
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 180
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 59
@@ -1979,9 +1980,9 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 108
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 115
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 160
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 393
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 78
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 394
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 431
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 440
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 180
@@ -2021,9 +2022,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 97
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 103
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 112
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 393
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 78
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 394
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 431
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 440
 # File: module/b2c/costamar/b2c/cruises/search.phtml, line: 426
@@ -2062,9 +2063,9 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/view.phtml, line: 946
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 214
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1322
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 389
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 989
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 81
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 390
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 129
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 182
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 85
@@ -2087,8 +2088,8 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 112
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 157
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 390
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 82
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 391
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 182
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 111
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 88
@@ -2129,16 +2130,16 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 947
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 967
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 80
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 95
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 254
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 293
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 156
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 95
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 39
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 40
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 249
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1034
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1448
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 156
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 444
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 18
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 420
@@ -2223,6 +2224,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 440
 # File: module/b2c/ebc/b2c/activities/activity.phtml, line: 372
 # File: module/b2c/ebc/b2c/activities/confirm.phtml, line: 94
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 199
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 340
 # File: module/b2c/ebc/b2c/destinations/experience.phtml, line: 360
 # File: module/b2c/ebc/b2c/cruises/book.phtml, line: 86
@@ -2237,23 +2239,23 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 223
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 200
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 211
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 297
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 307
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 314
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 378
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 387
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 140
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 97
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 151
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 162
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 306
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 321
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 328
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 392
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 401
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 32
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 31
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 21
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 27
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 24
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 445
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 463
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 136
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 447
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 470
 # File: module/b2c/ebc/b2c/booking/cancel.phtml, line: 21
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 712
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 307
@@ -2423,8 +2425,8 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 211
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 220
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 187
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 196
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 188
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 197
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 159
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 165
 msgid "Check-in instructions"
@@ -2433,34 +2435,34 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 227
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 234
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 269
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 203
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 210
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 245
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 204
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 211
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 246
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 171
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 177
 msgid "Special Check-in instructions"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 241
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 217
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 218
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 182
 msgid "Mandatory Fees"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 248
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 224
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 225
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 188
 msgid "Excluded"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 255
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 231
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 232
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 194
 msgid "Optionals"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 262
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 238
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 239
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 200
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 451
 msgid "Announcements"
@@ -2468,8 +2470,8 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 278
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 102
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 254
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 188
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 255
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 453
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 208
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 137
@@ -2493,9 +2495,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 379
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1308
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1337
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 259
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 974
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1005
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 260
 # File: module/b2c/costamar/b2c/cruises/cabins.phtml, line: 558
 # File: module/b2c/costamar/b2c/cruises/cabins.phtml, line: 562
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 127
@@ -2516,7 +2518,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 284
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 298
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 381
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 286
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 287
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 110
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 227
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 132
@@ -2530,7 +2532,7 @@ msgid "Last cancellation date"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 290
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 265
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 266
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 143
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 134
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 217
@@ -2539,26 +2541,26 @@ msgid "NOTE: Cancellation policies are based on local destination time."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 295
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 283
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 284
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 222
 msgid "This is a Non Refundable booking."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 303
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 291
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 151
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 231
 msgid "Please note, if you are booking a Non-Refundable booking, all Non-Refundable bookings are Non-Refundable, Non-Amendable, and Non-Negotiable. We recommend reviewing travel plans before booking a Non-Refundable booking."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 307
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 295
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 253
 msgid "Warning - the price has been updated. Please review the new price."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/book.phtml, line: 307
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 295
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 59
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 251
 msgid "The price has been updated!"
@@ -2636,13 +2638,13 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 205
 # File: module/b2c/ebc/b2c/cruises/info.phtml, line: 48
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 63
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 77
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 916
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 252
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 291
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 119
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 77
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 930
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1021
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 119
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 241
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 53
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 165
@@ -2893,8 +2895,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 28
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 24
 # File: module/b2c/ebc/b2c/bookings/unsubscribe.phtml, line: 47
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 144
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1595
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 144
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 58
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 260
 # File: module/b2c/costamar/b2c/offers/index.phtml, line: 64
@@ -2953,11 +2955,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 84
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 947
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 967
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 156
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 39
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 40
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 249
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1448
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 156
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 19
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 421
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 118
@@ -3019,7 +3021,7 @@ msgid "Child's Last Name"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 153
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 383
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 384
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 366
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 219
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 46
@@ -3028,7 +3030,7 @@ msgid "Night:"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 153
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 383
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 384
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 366
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 219
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 46
@@ -3062,7 +3064,7 @@ msgid "We highly recommend you purchase Travel Insurance."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 193
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 486
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 498
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 165
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 259
 msgid "Review and book your hotel"
@@ -3070,7 +3072,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 195
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 150
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 494
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 506
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 124
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 246
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 186
@@ -3094,7 +3096,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 208
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 4
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 297
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 507
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 519
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 285
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 4
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 290
@@ -3107,7 +3109,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 209
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 5
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 298
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 508
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 520
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 286
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 5
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 291
@@ -3120,7 +3122,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 210
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 6
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 299
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 509
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 521
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 287
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 6
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 292
@@ -3133,7 +3135,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 211
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 7
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 300
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 510
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 522
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 288
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 7
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 293
@@ -3144,14 +3146,14 @@ msgid "The credit card expiration date you provided is invalid."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 213
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 512
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 524
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 290
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 490
 msgid "Invalid coupon/promotion code."
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 214
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 513
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 525
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 291
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 491
 msgid "This coupon/promotion code can only be used with a minimum spend of"
@@ -3627,8 +3629,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 217
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 539
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 2021
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 415
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 497
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 429
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 509
 msgid "BOOK NOW"
 msgstr ""
 #
@@ -3815,18 +3817,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 540
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 562
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 582
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 715
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 735
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 757
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 777
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 799
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 819
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 802
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 818
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 832
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 886
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 902
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 916
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 729
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 749
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 771
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 791
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 813
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 833
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 135
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 259
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 274
@@ -3966,7 +3968,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 688
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 746
 # File: module/b2c/ebc/b2c/cruises/step4.phtml, line: 278
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 907
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 718
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 747
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 645
@@ -3975,10 +3976,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1512
 # File: module/b2c/ebc/b2c/air/index.phtml, line: 346
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 921
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 135
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 243
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 884
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 886
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1589
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1603
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1464
@@ -3987,6 +3987,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1539
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1543
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1547
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 896
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 898
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1071
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1083
@@ -4208,9 +4210,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1404
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1416
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1428
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 60
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 357
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 396
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 60
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1069
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1081
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1093
@@ -4581,7 +4583,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 688
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 417
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 2
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 3
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 1
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 221
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 58
@@ -4592,6 +4593,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 61
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 115
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 275
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 3
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 127
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 151
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 346
@@ -4719,8 +4721,8 @@ msgid "Item"
 msgstr ""
 #
 # File: module/b2c/abc/offers/cruises/index.phtml, line: 205
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 181
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1106
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 205
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 389
 # File: module/b2c/costamar/b2c/insurances/details.phtml, line: 60
@@ -4775,9 +4777,9 @@ msgid "Taxes & Charges"
 msgstr ""
 #
 # File: module/b2c/abc/offers/cruises/index.phtml, line: 229
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 327
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 339
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 349
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 328
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 340
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 350
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 229
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 229
 # File: module/b2c/view/offers/cruises/index.phtml, line: 229
@@ -6350,18 +6352,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6423,18 +6425,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6496,18 +6498,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6569,18 +6571,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6643,18 +6645,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6716,18 +6718,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6789,18 +6791,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6862,18 +6864,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -6935,18 +6937,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -7008,18 +7010,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -7081,18 +7083,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -7154,18 +7156,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 536
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 558
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 578
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 711
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 731
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 753
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 773
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 795
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 798
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 814
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 828
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 882
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 898
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 912
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 725
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 745
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 767
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 787
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 809
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 829
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 255
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 270
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 285
@@ -7227,18 +7229,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7290,18 +7292,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7353,18 +7355,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7416,18 +7418,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7479,18 +7481,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7542,18 +7544,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7605,18 +7607,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 537
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 559
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 579
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 712
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 732
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 754
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 774
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 796
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 799
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 815
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 829
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 883
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 899
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 913
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 726
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 746
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 768
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 788
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 810
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 830
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 256
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 271
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 286
@@ -7667,18 +7669,18 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 538
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 560
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 580
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 713
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 733
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 755
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 775
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 797
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 817
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 800
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 816
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 830
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 884
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 900
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 914
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 727
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 747
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 769
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 789
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 811
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 831
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 257
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 272
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 287
@@ -7733,13 +7735,6 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 539
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 561
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 581
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 714
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 734
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 756
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 776
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 798
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 818
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1010
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 801
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 817
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 831
@@ -7748,6 +7743,13 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 915
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1534
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1577
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 728
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 748
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 770
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 790
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 812
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 832
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1024
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 114
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 258
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 273
@@ -7878,8 +7880,8 @@ msgid "Cancellation charges"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 387
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 275
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 213
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 276
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 263
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 287
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1072
@@ -8600,6 +8602,15 @@ msgstr ""
 msgid "You can pay your reservation from any of the establishments"
 msgstr ""
 #
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 21
+msgid "IMPORTANT: CUSTOMER DENIED THE INSURANCE."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 195
+# File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 199
+msgid "$"
+msgstr ""
+#
 # File: module/b2c/ebc/b2c/cars/searching.phtml, line: 36
 # File: module/b2c/view/b2c/index/index_preloader_cars.phtml, line: 62
 msgid "Searching cars"
@@ -8848,9 +8859,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 307
 # File: module/b2c/ebc/b2c/destinations/from.phtml, line: 427
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 232
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 229
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 409
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 147
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 229
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 423
 # File: module/b2c/ebc/b2c/transfers/book.phtml, line: 86
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 431
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 233
@@ -9076,8 +9087,8 @@ msgid "Driver's Age"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 147
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 178
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1106
 # File: module/b2c/view/b2c/air/search.phtml, line: 87
 msgid "Flight Number"
 msgstr ""
@@ -9495,8 +9506,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 60
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 59
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 54
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 177
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1106
 # File: module/b2c/costamar/b2c/insurances/details.phtml, line: 63
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 357
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 20
@@ -9891,14 +9902,14 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 516
 # File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 69
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 177
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 274
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 355
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 97
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 98
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 257
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 141
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 142
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 296
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 274
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 369
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 91
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 147
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 198
@@ -10090,9 +10101,9 @@ msgid "Quick facts"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 240
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 885
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 131
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 325
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 897
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 254
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 249
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 328
@@ -10597,11 +10608,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 424
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 218
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 195
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 292
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 373
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 135
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 92
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 146
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 292
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 387
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 139
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 140
 # File: module/b2c/view/b2c/air/book.phtml, line: 136
@@ -10867,9 +10878,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 262
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 265
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 304
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 426
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 450
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 122
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 427
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 452
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 144
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 251
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 145
@@ -11491,12 +11502,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 202
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 142
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 159
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 256
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 337
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 78
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 109
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 65
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 119
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 256
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 351
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 386
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 110
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 122
@@ -11535,12 +11546,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/cruiseships.phtml, line: 203
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 143
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 160
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 257
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 338
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 79
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 110
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 66
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 120
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 257
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 352
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 387
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 111
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 123
@@ -12564,11 +12575,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 63
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 101
+# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 11
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 9
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 77
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 95
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 117
-# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 11
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 9
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 99
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 141
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 178
@@ -12668,11 +12679,11 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 70
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 91
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 112
+# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 25
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 23
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 84
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 106
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 128
-# File: module/b2c/ebc/b2c/air/book.old.phtml, line: 25
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 23
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 114
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 151
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 188
@@ -12708,11 +12719,11 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 101
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 175
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 117
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 272
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 353
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 256
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 295
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 117
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 272
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 367
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 178
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 130
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 252
@@ -12735,11 +12746,11 @@ msgid "Infant"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 129
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 239
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 320
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 50
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 51
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 104
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 239
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 334
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 257
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 64
 msgid "Flight information"
@@ -12748,7 +12759,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 144
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 161
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 258
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 339
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 353
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 248
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 91
 # File: module/b2c/view/b2c/index/index_searchbox_flights.phtml, line: 93
@@ -12760,12 +12771,12 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 190
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 287
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 368
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 382
 msgid "Base Fare"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/confirm.old.phtml, line: 206
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 303
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 317
 msgid "Travel Protection Insurance"
 msgstr ""
 #
@@ -12793,160 +12804,6 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 543
 msgid "Airline Policies"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 13
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 103
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 65
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 257
-msgid "The selected rate is no longer available. Please select another rate or restart your search."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 50
-msgid "Promotional code."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 50
-msgid "If you have any promotional code enter it bellow. Otherwise leave it blank."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 89
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 111
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 133
-msgid "Please enter your Frequent Flyer Number"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 89
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 111
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 133
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 131
-# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 88
-# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 124
-# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 160
-# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 88
-# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 124
-# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 160
-msgid "Frequent Flyer Number"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 143
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 312
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 907
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 171
-msgid "Seat Selection"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 144
-msgid "It is not mandatory to select a seat while booking a flight ticket. However, we recommend that you do so to avoid any inconvenience during the journey. We recommend that you choose your seat to get the one you want and to avoid sitting separately from your family or friends. You may be able to choose seats for free or have to pay, depending on your circumstances."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 146
-msgid "Select Seats"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 169
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 192
-msgid "Carry on"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 169
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 170
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 192
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 193
-msgid "piece"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 169
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 170
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 192
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 193
-msgid "pieces"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 170
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 193
-msgid "Checked Baggage"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 209
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 393
-msgid "Your flight has separate tickets"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 211
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 395
-msgid "Your flight is a combination of two one-way fares, each subject to its own rules and restrictions. If one of your flights is changed or cancelled, it will not automatically alter the other flight. Changes to the other flight may incur a charge."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 219
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 401
-msgid "Airline Disclaimer"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 221
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 403
-msgid "Fares and availability are subject to change until ticketed. Prices are not guaranteed until time of ticketing."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 222
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 404
-msgid "This is a Non-Refundable and Non-Amendabe ticket. No changes or refunds possible."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 231
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 411
-msgid "There's no fee to cancel within 23 hours of booking."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 916
-msgid "Select Passenger"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 996
-msgid "Available"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 999
-msgid "Unavailable"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1002
-msgid "Occupied"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1009
-msgid "Total price:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1010
-msgid "Cancel Seats Selection"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1010
-msgid "Confirm Seating"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1053
-msgid "Free"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 176
-# File: module/b2c/view/b2c/admin/mapping_edit.phtml, line: 11
-# File: module/b2c/view/b2c/admin/mapping.phtml, line: 12
-# File: module/b2c/view/b2c/admin/routing_edit.phtml, line: 13
-# File: module/b2c/view/b2c/admin/mapping_add.phtml, line: 11
-msgid "Origin"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 179
-msgid "Pax"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1092
-# File: module/b2c/ebc/b2c/air/book.phtml, line: 180
-msgid "Seat"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/book.old.phtml, line: 1
@@ -13737,6 +13594,160 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/book.phtml, line: 46
 msgid "Please review everything carefully, especially paperwork requirements, terms & condition and payment deadlines. Please also review your invoice for accuracy. If you have any questions, please contact us as soon as possible."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 171
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 143
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 326
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 921
+msgid "Seat Selection"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 176
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1106
+# File: module/b2c/view/b2c/admin/mapping_edit.phtml, line: 11
+# File: module/b2c/view/b2c/admin/mapping.phtml, line: 12
+# File: module/b2c/view/b2c/admin/routing_edit.phtml, line: 13
+# File: module/b2c/view/b2c/admin/mapping_add.phtml, line: 11
+msgid "Origin"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 179
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1106
+msgid "Pax"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/book.phtml, line: 180
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1106
+msgid "Seat"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 13
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 103
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 65
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 257
+msgid "The selected rate is no longer available. Please select another rate or restart your search."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 50
+msgid "Promotional code."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 50
+msgid "If you have any promotional code enter it bellow. Otherwise leave it blank."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 89
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 111
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 133
+msgid "Please enter your Frequent Flyer Number"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 89
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 111
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 133
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 131
+# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 88
+# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 124
+# File: module/b2c/costamar/b2c/air/confirm.phtml, line: 160
+# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 88
+# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 124
+# File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 160
+msgid "Frequent Flyer Number"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 144
+msgid "It is not mandatory to select a seat while booking a flight ticket. However, we recommend that you do so to avoid any inconvenience during the journey. We recommend that you choose your seat to get the one you want and to avoid sitting separately from your family or friends. You may be able to choose seats for free or have to pay, depending on your circumstances."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 146
+msgid "Select Seats"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 169
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 192
+msgid "Carry on"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 169
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 170
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 192
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 193
+msgid "piece"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 169
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 170
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 192
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 193
+msgid "pieces"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 170
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 193
+msgid "Checked Baggage"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 209
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 407
+msgid "Your flight has separate tickets"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 211
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 409
+msgid "Your flight is a combination of two one-way fares, each subject to its own rules and restrictions. If one of your flights is changed or cancelled, it will not automatically alter the other flight. Changes to the other flight may incur a charge."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 219
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 415
+msgid "Airline Disclaimer"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 221
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 417
+msgid "Fares and availability are subject to change until ticketed. Prices are not guaranteed until time of ticketing."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 222
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 418
+msgid "This is a Non-Refundable and Non-Amendabe ticket. No changes or refunds possible."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 231
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 425
+msgid "There's no fee to cancel within 23 hours of booking."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 930
+msgid "Select Passenger"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1010
+msgid "Available"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1013
+msgid "Unavailable"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1016
+msgid "Occupied"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1023
+msgid "Total price:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1024
+msgid "Cancel Seats Selection"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1024
+msgid "Confirm Seating"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/air/confirm.phtml, line: 1067
+msgid "Free"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 16
@@ -14949,99 +14960,6 @@ msgstr ""
 msgid "Testimonials"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 113
-# File: module/b2c/view/b2c/activities/checkout.phtml, line: 299
-# File: module/b2c/view/b2c/air/confirm.phtml, line: 72
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 69
-# File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 20
-msgid "Who's traveling?"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 270
-msgid "Deposit Policies"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 275
-# File: module/b2c/ebc/b2c/hotels/book.phtml, line: 213
-msgid "on"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 300
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1010
-msgid "Pay at hotel"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 300
-msgid "You will not be charged until your stay. Pay the property directly in their local currency."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 300
-msgid "This payment will be processed in"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 300
-msgid "Your credit card will be used to guarantee the reservation, no deposit is required. To avoid a no-show charge if your plans change, call Customer Support and cancel this reservation."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 316
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 56
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 263
-msgid "Retail Price"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 323
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 335
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 345
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 56
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 265
-msgid "YOUR SAVINGS"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 390
-# File: module/b2c/costamar/b2c/cart/cart.phtml, line: 30
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
-msgid "price"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 406
-msgid "Base Rate"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 412
-msgid "Sales Taxes"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 418
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 419
-msgid "This charge includes estimated amounts the travel service provider (i.e. hotel, car rental company) pays for their taxes, and/or taxes that we pay, to taxing authorities on your booking (including but not limited to sales, occupancy, and value added tax). This amount may also include any amounts charged to us for resort fees, cleaning fees, and other fees and/or a fee we, the hotel supplier and/or the website you booked on, retain as part of the compensation for our and/or their services, which varies based on factors such as location, the amount, and how you booked. For more details, please see the Terms and Conditions."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 418
-# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 638
-# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 472
-msgid "Taxes & Fees"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 432
-msgid "Due now:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 436
-msgid "Due at hotel:"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 457
-msgid "Due now"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 490
-msgid "By selecting to complete this booking I acknowledge that I have read and accept the EPS Terms & Conditions."
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 884
-msgid "EPS Terms and Conditions"
-msgstr ""
-#
 # File: module/b2c/ebc/b2c/hotels/searching_2.phtml, line: 60
 # File: module/b2c/ebc/b2c/hotels/searching.phtml, line: 29
 # File: module/b2c/view/b2c/index/index_preloader_hotels.phtml, line: 24
@@ -15268,9 +15186,23 @@ msgid "SEARCH CARS"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 56
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 263
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 317
+msgid "Retail Price"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 56
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 264
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 265
 msgid "YOU COULD BE SAVING"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 56
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 265
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 324
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 336
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 346
+msgid "YOUR SAVINGS"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 56
@@ -15321,6 +15253,11 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 367
 msgid "Popular properties similar to"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1010
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 301
+msgid "Pay at hotel"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 105
@@ -15376,8 +15313,82 @@ msgstr ""
 msgid "Deposit instructions"
 msgstr ""
 #
+# File: module/b2c/ebc/b2c/hotels/book.phtml, line: 213
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 276
+msgid "on"
+msgstr ""
+#
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 225
 msgid "GO TO MyBookings"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 113
+# File: module/b2c/view/b2c/activities/checkout.phtml, line: 299
+# File: module/b2c/view/b2c/air/confirm.phtml, line: 72
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 69
+# File: module/b2c/view/b2c/dynamic-packaging/confirm.phtml, line: 20
+msgid "Who's traveling?"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 271
+msgid "Deposit Policies"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 301
+msgid "You will not be charged until your stay. Pay the property directly in their local currency."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 301
+msgid "This payment will be processed in"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 301
+msgid "Your credit card will be used to guarantee the reservation, no deposit is required. To avoid a no-show charge if your plans change, call Customer Support and cancel this reservation."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 391
+# File: module/b2c/costamar/b2c/cart/cart.phtml, line: 30
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
+msgid "price"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 407
+msgid "Base Rate"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 413
+msgid "Sales Taxes"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 419
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 420
+msgid "This charge includes estimated amounts the travel service provider (i.e. hotel, car rental company) pays for their taxes, and/or taxes that we pay, to taxing authorities on your booking (including but not limited to sales, occupancy, and value added tax). This amount may also include any amounts charged to us for resort fees, cleaning fees, and other fees and/or a fee we, the hotel supplier and/or the website you booked on, retain as part of the compensation for our and/or their services, which varies based on factors such as location, the amount, and how you booked. For more details, please see the Terms and Conditions."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 419
+# File: module/b2c/costamar/b2c/hotels/search.phtml, line: 638
+# File: module/b2c/view/b2c/hotels/confirm.phtml, line: 472
+msgid "Taxes & Fees"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 433
+msgid "Due now:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 437
+msgid "Due at hotel:"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 459
+msgid "Due now"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 502
+msgid "By selecting to complete this booking I acknowledge that I have read and accept the EPS Terms & Conditions."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 896
+msgid "EPS Terms and Conditions"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/cancel.phtml, line: 16
