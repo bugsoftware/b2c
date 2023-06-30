@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-29 07:51+0100\n"
+"POT-Creation-Date: 2023-06-30 06:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3476,7 +3476,8 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/search.phtml, line: 355
 # File: module/b2c/abc/b2c/hotels/search.phtml, line: 532
-# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 618
+# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 125
+# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 624
 msgid "Switch Map to Aerial View"
 msgstr ""
 #
@@ -3638,8 +3639,7 @@ msgid "BOOK NOW"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/search.phtml, line: 527
-# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 125
-# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 623
+# File: module/b2c/ebc/b2c/hotels/search.phtml, line: 619
 msgid "Switch Map to Road View"
 msgstr ""
 #
