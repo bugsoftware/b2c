@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 06:15+0100\n"
+"POT-Creation-Date: 2023-07-03 17:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1060,16 +1060,16 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 166
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 559
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 63
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 35
-# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 37
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 34
+# File: module/b2c/ebc/b2c/index/index_searchbox.phtml, line: 36
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 69
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 68
 # File: module/b2c/ebc/b2c/index/rewardpoints.phtml, line: 63
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 47
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 75
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 384
-# File: module/b2c/ebc/layout/layout.phtml, line: 248
-# File: module/b2c/ebc/layout/layout.phtml, line: 251
+# File: module/b2c/ebc/layout/layout.phtml, line: 247
+# File: module/b2c/ebc/layout/layout.phtml, line: 250
 # File: module/b2c/ebc/layout/layout.phtml, line: 372
 # File: module/b2c/costamar/b2c/activities/index.phtml, line: 31
 # File: module/b2c/costamar/b2c/cruises/passengers.phtml, line: 612
@@ -7766,7 +7766,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 657
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 671
 # File: module/b2c/ebc/layout/layout.phtml, line: 490
-# File: module/b2c/ebc/layout/layout.phtml, line: 554
+# File: module/b2c/ebc/layout/layout.phtml, line: 562
 # File: module/b2c/costamar/b2c/offers/index.phtml, line: 67
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 320
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 320
@@ -9594,8 +9594,8 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/index.phtml, line: 392
 # File: module/b2c/ebc/b2c/destinations/index.phtml, line: 492
-# File: module/b2c/ebc/layout/layout.phtml, line: 536
-# File: module/b2c/ebc/layout/layout.phtml, line: 548
+# File: module/b2c/ebc/layout/layout.phtml, line: 541
+# File: module/b2c/ebc/layout/layout.phtml, line: 556
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 392
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 492
 # File: module/b2c/view/b2c/admin/currency.phtml, line: 5
@@ -15538,7 +15538,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 92
 # File: module/b2c/ebc/layout/layout.phtml, line: 150
 # File: module/b2c/ebc/layout/layout.phtml, line: 168
-# File: module/b2c/ebc/layout/layout.phtml, line: 525
+# File: module/b2c/ebc/layout/layout.phtml, line: 530
 # File: module/b2c/view/b2c/admin/login.phtml, line: 77
 # File: module/b2c/view/b2c/admin/login.phtml, line: 78
 msgid "English"
@@ -15546,33 +15546,33 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 93
 # File: module/b2c/ebc/layout/layout.phtml, line: 153
-# File: module/b2c/ebc/layout/layout.phtml, line: 526
+# File: module/b2c/ebc/layout/layout.phtml, line: 531
 # File: module/b2c/view/layout/admin.phtml, line: 193
 msgid "Spanish"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 94
 # File: module/b2c/ebc/layout/layout.phtml, line: 165
-# File: module/b2c/ebc/layout/layout.phtml, line: 527
+# File: module/b2c/ebc/layout/layout.phtml, line: 532
 # File: module/b2c/view/b2c/admin/login.phtml, line: 79
 msgid "Portuguese"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 95
 # File: module/b2c/ebc/layout/layout.phtml, line: 156
-# File: module/b2c/ebc/layout/layout.phtml, line: 528
+# File: module/b2c/ebc/layout/layout.phtml, line: 533
 msgid "French"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 96
 # File: module/b2c/ebc/layout/layout.phtml, line: 159
-# File: module/b2c/ebc/layout/layout.phtml, line: 529
+# File: module/b2c/ebc/layout/layout.phtml, line: 534
 msgid "Italian"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 97
 # File: module/b2c/ebc/layout/layout.phtml, line: 162
-# File: module/b2c/ebc/layout/layout.phtml, line: 530
+# File: module/b2c/ebc/layout/layout.phtml, line: 535
 # File: module/b2c/view/layout/admin.phtml, line: 196
 msgid "German"
 msgstr ""
@@ -16466,7 +16466,7 @@ msgstr ""
 msgid "Savings"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 250
+# File: module/b2c/ebc/layout/layout.phtml, line: 249
 # File: module/b2c/costamar/layout/layout.phtml, line: 256
 msgid "Escorted Tours"
 msgstr ""
@@ -16501,7 +16501,7 @@ msgid "Display settings"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 507
-# File: module/b2c/ebc/layout/layout.phtml, line: 519
+# File: module/b2c/ebc/layout/layout.phtml, line: 524
 # File: module/b2c/view/b2c/admin/routing_add.phtml, line: 12
 # File: module/b2c/view/b2c/admin/routing.phtml, line: 14
 # File: module/b2c/view/b2c/admin/routing_edit.phtml, line: 12
@@ -16530,6 +16530,7 @@ msgid "Costa Rica"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 513
+# File: module/b2c/ebc/layout/layout.phtml, line: 521
 msgid "Venezuela"
 msgstr ""
 #
@@ -16553,8 +16554,24 @@ msgstr ""
 msgid "Dominican Republic"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 524
-# File: module/b2c/ebc/layout/layout.phtml, line: 531
+# File: module/b2c/ebc/layout/layout.phtml, line: 519
+msgid "Australia"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 520
+msgid "New Zealand"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 522
+msgid "Saudi Arabia"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 523
+msgid "United Arab Emirates"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 529
+# File: module/b2c/ebc/layout/layout.phtml, line: 536
 # File: module/b2c/view/b2c/admin/topmenu_add.phtml, line: 12
 # File: module/b2c/view/b2c/admin/footermenu_edit.phtml, line: 14
 # File: module/b2c/view/b2c/admin/login.phtml, line: 74
@@ -16565,51 +16582,63 @@ msgstr ""
 msgid "Language"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 537
+# File: module/b2c/ebc/layout/layout.phtml, line: 542
 msgid "USD"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 538
+# File: module/b2c/ebc/layout/layout.phtml, line: 543
 msgid "ARS"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 539
+# File: module/b2c/ebc/layout/layout.phtml, line: 544
 msgid "BRL"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 540
+# File: module/b2c/ebc/layout/layout.phtml, line: 545
 msgid "SOL"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 541
+# File: module/b2c/ebc/layout/layout.phtml, line: 546
 msgid "CLP"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 542
+# File: module/b2c/ebc/layout/layout.phtml, line: 547
 msgid "COP"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 543
+# File: module/b2c/ebc/layout/layout.phtml, line: 548
 msgid "MXN"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 544
+# File: module/b2c/ebc/layout/layout.phtml, line: 549
 msgid "VEF"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 545
+# File: module/b2c/ebc/layout/layout.phtml, line: 550
 msgid "RD"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 546
+# File: module/b2c/ebc/layout/layout.phtml, line: 551
 msgid "EUR"
 msgstr ""
 #
-# File: module/b2c/ebc/layout/layout.phtml, line: 547
+# File: module/b2c/ebc/layout/layout.phtml, line: 552
 msgid "AUD"
 msgstr ""
 #
 # File: module/b2c/ebc/layout/layout.phtml, line: 553
+msgid "NZD"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 554
+msgid "SAR"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 555
+msgid "AED"
+msgstr ""
+#
+# File: module/b2c/ebc/layout/layout.phtml, line: 561
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 144
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 144
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 144
