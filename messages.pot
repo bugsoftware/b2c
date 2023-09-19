@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-26 07:30+0100\n"
+"POT-Creation-Date: 2023-09-19 07:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -767,7 +767,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 141
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 141
 # File: module/b2c/ebc/b2c/index/support.phtml, line: 29
-# File: module/b2c/ebc/b2c/index/support.phtml, line: 57
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 60
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 43
 # File: module/b2c/ebc/b2c/index/groups.phtml, line: 42
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 40
@@ -1661,7 +1661,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 217
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 126
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 108
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 108
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 112
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 260
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 277
 # File: module/b2c/ebc/b2c/hotels/searching_2.phtml, line: 61
@@ -1908,7 +1908,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 99
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 192
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 96
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 97
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 101
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 235
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 252
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 206
@@ -1931,7 +1931,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/bookings/agentsignin.phtml, line: 53
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 201
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 102
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 103
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 107
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 244
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 261
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 215
@@ -3669,7 +3669,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 400
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 695
 # File: module/b2c/ebc/b2c/cruises/cruiselines.phtml, line: 22
-# File: module/b2c/ebc/b2c/index/support.phtml, line: 66
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 71
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 95
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 95
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 30
@@ -8042,7 +8042,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/tour.phtml, line: 547
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 441
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 494
-# File: module/b2c/ebc/b2c/index/support.phtml, line: 90
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 97
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 90
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 279
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 171
@@ -8053,9 +8053,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 24
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 64
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 53
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 62
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 65
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 538
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 952
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 953
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 273
 msgid "Specialists"
 msgstr ""
@@ -8065,7 +8065,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/travel.phtml, line: 720
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 442
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 495
-# File: module/b2c/ebc/b2c/index/support.phtml, line: 91
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 98
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 91
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 280
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 172
@@ -8076,9 +8076,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 25
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 65
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 54
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 63
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 66
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 539
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 953
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 954
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 274
 msgid "We are experienced professionals in the travel industry. Our specialists have access to unparalleled relationships with the world's top luxury hotels, airlines, tours and cruise lines, who offer upgrades and travel experiences that is only available when you work with one of us."
 msgstr ""
@@ -8095,7 +8095,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 451
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 634
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 504
-# File: module/b2c/ebc/b2c/index/support.phtml, line: 100
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 107
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 100
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 289
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 181
@@ -8106,10 +8106,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 34
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 74
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 63
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 72
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 75
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 548
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1635
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 962
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 963
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 428
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 283
 # File: module/b2c/ebc/layout/layout.phtml, line: 434
@@ -8134,7 +8134,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 461
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 604
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 514
-# File: module/b2c/ebc/b2c/index/support.phtml, line: 110
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 117
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 110
 # File: module/b2c/ebc/b2c/index/index.phtml, line: 299
 # File: module/b2c/ebc/b2c/index/weddings.phtml, line: 191
@@ -8145,9 +8145,9 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register_confirm.phtml, line: 44
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 84
 # File: module/b2c/ebc/b2c/bookings/agentsignin.phtml, line: 73
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 82
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 85
 # File: module/b2c/ebc/b2c/packages/index.phtml, line: 558
-# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 972
+# File: module/b2c/ebc/b2c/hotels/index.phtml, line: 973
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 398
 # File: module/b2c/ebc/b2c/transfers/index.phtml, line: 293
 # File: module/b2c/ebc/layout/layout.phtml, line: 404
@@ -11763,6 +11763,10 @@ msgstr ""
 msgid "Contact Support"
 msgstr ""
 #
+# File: module/b2c/ebc/b2c/index/support.phtml, line: 56
+msgid "This service offers email support during business hours from 9am to 8pm eastern"
+msgstr ""
+#
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 3
 # File: module/b2c/ebc/b2c/index/pricematch.phtml, line: 9
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 393
@@ -14256,14 +14260,14 @@ msgid "A temporary password will be sent to the email address you have provided.
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 30
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 28
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 29
 # File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 68
 # File: module/b2c/view/b2c/bookings/signin.phtml, line: 68
 msgid "Help"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 36
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 34
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 35
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 55
 # File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 69
 # File: module/b2c/view/b2c/bookings/signin.phtml, line: 69
@@ -14272,8 +14276,8 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 37
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 45
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 35
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 43
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 36
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 44
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 55
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 56
 # File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 69
@@ -14284,8 +14288,8 @@ msgid "Register here"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 42
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 29
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 40
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 30
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 41
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 56
 # File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 70
 # File: module/b2c/view/b2c/bookings/signin.phtml, line: 70
@@ -14293,19 +14297,19 @@ msgid "Are you a travel agent?"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 44
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 42
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 43
 msgid "Login here"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 51
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 49
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 50
 # File: module/b2c/ebc/layout/layout.phtml, line: 399
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 75
 msgid "Forgot Password?"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 52
-# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 50
+# File: module/b2c/ebc/b2c/bookings/signin.phtml, line: 51
 # File: module/b2c/costamar/b2c/bookings/agentsignin.phtml, line: 50
 # File: module/b2c/view/b2c/bookings/agentsignin.phtml, line: 71
 # File: module/b2c/view/b2c/bookings/signin.phtml, line: 71
