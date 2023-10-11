@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-26 18:20+0100\n"
+"POT-Creation-Date: 2023-10-11 14:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 8
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 8
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 168
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 405
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 416
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 998
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 14
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 304
@@ -119,7 +119,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 29
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 185
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 329
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 420
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 431
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 62
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1049
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1052
@@ -153,7 +153,7 @@ msgid "Security code"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 331
-# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 493
+# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 491
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 346
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 154
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 134
@@ -181,7 +181,7 @@ msgid "COMPLETE BOOKING"
 msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/paymentmethods.phtml, line: 390
-# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 552
+# File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 550
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 609
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 777
 msgid "PLEASE WAIT..."
@@ -376,7 +376,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 75
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 82
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 74
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 526
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 537
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 232
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 15
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 106
@@ -481,7 +481,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 69
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 76
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 75
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 533
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 544
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 238
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 16
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 107
@@ -564,7 +564,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 114
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1636
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 82
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 566
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 577
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 281
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 27
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 103
@@ -798,7 +798,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1634
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 158
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 85
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 549
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 560
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 318
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 59
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 18
@@ -1536,7 +1536,7 @@ msgstr ""
 # File: module/b2c/abc/b2c/index/index.phtml, line: 713
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1524
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1549
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 551
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 562
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 404
 msgid "Enter your email"
 msgstr ""
@@ -1680,7 +1680,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/index.phtml, line: 9
 # File: module/b2c/ebc/b2c/booking/index.phtml, line: 41
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 295
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 840
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 850
 # File: module/b2c/ebc/b2c/transfers/searching.phtml, line: 51
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 452
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 28
@@ -3991,8 +3991,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 916
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 918
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 664
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 670
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 674
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 680
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1089
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1101
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1107
@@ -7885,7 +7885,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 387
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 213
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 284
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 656
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 667
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 274
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 298
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1090
@@ -8434,7 +8434,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 89
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 96
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 77
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 558
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 569
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 20
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 85
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 85
@@ -8477,7 +8477,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 54
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 96
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 103
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 589
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 600
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 34
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 90
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 90
@@ -8560,42 +8560,43 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 59
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 216
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 361
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 397
 msgid "Sender Full Name"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 65
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 222
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 367
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 373
 msgid "Sender Phone Number"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 71
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 228
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 373
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 379
 msgid "Sender Address"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 77
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 234
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 379
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 385
 msgid "Sender City & State"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 83
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 240
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 385
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 391
 msgid "Zip Code"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 88
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 245
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 396
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 408
 msgid "View MoneyGram Payment Locations"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 98
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 354
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 663
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 673
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1100
 msgid "MoneyGram Payment Locations"
 msgstr ""
@@ -11701,7 +11702,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/index/support.phtml, line: 30
 # File: module/b2c/ebc/b2c/contact-us/emailus.phtml, line: 47
 # File: module/b2c/ebc/b2c/contact-us/index.phtml, line: 47
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 542
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 553
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 17
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 90
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 158
@@ -13540,7 +13541,7 @@ msgid "First name"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1557
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 528
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 539
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 393
 msgid "Enter your first name"
 msgstr ""
@@ -13551,7 +13552,7 @@ msgid "Last name"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1561
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 535
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 546
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 396
 msgid "Enter your last name"
 msgstr ""
@@ -13585,7 +13586,7 @@ msgid "Enter your zip/postal code"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1573
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 544
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 555
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 401
 msgid "Enter your phone number"
 msgstr ""
@@ -14441,7 +14442,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 100
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 142
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 149
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 650
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 661
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1082
 # File: module/b2c/costamar/b2c/bookings/register-property.phtml, line: 102
 # File: module/b2c/costamar/b2c/bookings/registeragent.phtml, line: 170
@@ -15669,11 +15670,12 @@ msgstr ""
 msgid "Payment Establishments"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 391
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 367
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 403
 msgid "Sender Mail"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 417
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 428
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 982
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 131
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 312
@@ -15681,7 +15683,7 @@ msgstr ""
 msgid "Please enter credit card details."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 420
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 431
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1054
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 148
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 314
@@ -15689,7 +15691,7 @@ msgstr ""
 msgid "Enter your cardholder's name as it appears on card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 427
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 438
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1057
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1060
 # File: module/b2c/costamar/b2c/shared/bookpayments.phtml, line: 48
@@ -15702,7 +15704,7 @@ msgstr ""
 msgid "Credit card number"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 429
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 440
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1062
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 147
 # File: module/b2c/costamar/b2c/shared/coupons.phtml, line: 9
@@ -15711,7 +15713,7 @@ msgstr ""
 msgid "Enter your credit card number's as it appears on card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 435
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 446
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1070
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 149
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 320
@@ -15719,7 +15721,7 @@ msgstr ""
 msgid "Enter credit card's expiration month and year"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 440
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 451
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 66
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1075
 # File: module/b2c/costamar/b2c/shared/bookpayments.phtml, line: 51
@@ -15733,7 +15735,7 @@ msgstr ""
 msgid "CVV"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 442
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 453
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1077
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 150
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 321
@@ -15741,53 +15743,53 @@ msgstr ""
 msgid "A Mastercard or VISA credit card verification code is a three-digit number located on the back of the card, at the end of the signature space. American Express 4-digit security code is located on the front of your card."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 472
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 483
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 345
 msgid "You are paying a trip for the following guests:"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 513
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 524
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 384
 msgid "Please enter billing address details."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 521
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 532
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 390
 msgid "Billing Details"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 560
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 571
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 408
 msgid "Enter your billing's address as it appears on card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 568
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 579
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 411
 msgid "Enter your billing's city as it appears on card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 575
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 586
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 415
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 86
 msgid "State Code"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 577
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 588
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 415
 msgid "Enter your billing's state code as it appears on card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 582
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 593
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 418
 msgid "Postal/Zip Code"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 584
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 595
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 418
 msgid "Enter your billing's postal code / zip code as it appears on card"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 609
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 620
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1010
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 438
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 888
@@ -15795,7 +15797,7 @@ msgstr ""
 msgid "PayPal"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 615
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 626
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1022
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 21
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 34
@@ -15805,7 +15807,7 @@ msgstr ""
 msgid "Cash Payments"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 620
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 631
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1030
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 72
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 449
@@ -15814,7 +15816,7 @@ msgstr ""
 msgid "Online Bank Transfer"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 627
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 638
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1042
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 456
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 906
@@ -15824,12 +15826,12 @@ msgstr ""
 msgid "Pay over time with Affirm"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 634
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 645
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 463
 msgid "MoneyGram money transfer"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 641
+# File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 652
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 470
 msgid "DoLex money transfer"
 msgstr ""
