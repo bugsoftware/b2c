@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 13:45+0000\n"
+"POT-Creation-Date: 2024-01-09 13:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1811,7 +1811,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 91
 # File: module/b2c/ebc/layout/layout.phtml, line: 272
 # File: module/b2c/ebc/layout/layout.phtml, line: 401
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 219
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 221
 # File: module/b2c/costamar/layout/layout.phtml, line: 339
 # File: module/b2c/view/b2c/admin/login.phtml, line: 91
 # File: module/b2c/view/layout/layout.phtml, line: 223
@@ -3846,7 +3846,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 665
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 679
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 228
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 230
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 341
 # File: module/b2c/view/b2c/cruises/cruiseships.phtml, line: 265
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 47
@@ -4011,7 +4011,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 65
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 70
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 151
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 210
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 212
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 310
 # File: module/b2c/costamar/b2c/cruises/packages.phtml, line: 1808
 # File: module/b2c/costamar/b2c/cruises/index.phtml, line: 161
@@ -8525,7 +8525,7 @@ msgid "Mandatory requiremnt"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 160
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 222
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 224
 msgid "We have found your email in our system. We are going to associate this reservation to your account:"
 msgstr ""
 #
@@ -11421,7 +11421,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 129
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 256
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 24
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 224
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 226
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 129
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 166
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 203
@@ -17180,7 +17180,7 @@ msgstr ""
 msgid "Sign in with Google"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 188
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 190
 msgid "Document Number Saved Successful"
 msgstr ""
 #
