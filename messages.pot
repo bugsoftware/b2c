@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 13:47+0000\n"
+"POT-Creation-Date: 2024-01-18 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,7 +159,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 134
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 128
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 550
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 250
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 252
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 190
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 190
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 170
@@ -954,7 +954,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 124
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 46
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 151
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 296
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 298
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 113
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 125
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 212
@@ -1218,7 +1218,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 26
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 59
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 195
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 377
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 379
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 241
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 51
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 54
@@ -1374,7 +1374,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 42
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 60
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 201
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 377
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 379
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 246
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 61
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 63
@@ -1698,8 +1698,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/index_searchbox_activities.phtml, line: 68
 # File: module/b2c/costamar/b2c/index/index_searchbox_transfers.phtml, line: 92
 # File: module/b2c/costamar/b2c/index/index_searchbox_cruises.phtml, line: 102
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 625
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 632
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 627
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 634
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 569
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 576
 # File: module/b2c/costamar/b2c/air/searching.phtml, line: 9
@@ -1995,7 +1995,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 195
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 95
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 172
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 377
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 379
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 109
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 124
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 86
@@ -2038,7 +2038,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 195
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 95
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 172
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 377
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 379
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 109
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 124
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 86
@@ -2275,10 +2275,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 343
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 268
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 197
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 264
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 340
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 381
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 399
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 266
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 342
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 383
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 401
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 158
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 306
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 308
@@ -2526,7 +2526,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/activities/checkout.phtml, line: 381
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 303
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 110
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 227
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 228
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 132
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 374
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 130
@@ -3028,7 +3028,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 153
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 422
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 366
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 368
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 219
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 46
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 282
@@ -3037,7 +3037,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/hotels/confirm.phtml, line: 153
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 422
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 366
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 368
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 219
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 46
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 282
@@ -3080,7 +3080,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 150
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 545
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 124
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 246
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 248
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 186
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 186
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 166
@@ -6392,7 +6392,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6465,7 +6465,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6538,7 +6538,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6611,7 +6611,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6685,7 +6685,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6758,7 +6758,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6831,7 +6831,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6904,7 +6904,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -6977,7 +6977,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -7050,7 +7050,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -7123,7 +7123,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -7196,7 +7196,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -9016,7 +9016,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 116
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 176
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 237
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 394
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 396
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 166
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 143
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 161
@@ -9359,7 +9359,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 67
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 111
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 29
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 314
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 316
 # File: module/b2c/view/b2c/index/index_intelligence.phtml, line: 20
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 20
 # File: module/b2c/view/b2c/air/calendar.phtml, line: 398
@@ -10307,7 +10307,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -10321,7 +10321,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -10335,7 +10335,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -10349,7 +10349,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -10363,7 +10363,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -10377,7 +10377,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -10391,7 +10391,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 450
 # File: module/b2c/costamar/b2c/index/index_searchbox_flights.phtml, line: 276
 # File: module/b2c/costamar/b2c/index/index_searchbox_hotels.phtml, line: 109
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 670
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 672
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 614
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 1496
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 602
@@ -11528,7 +11528,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 397
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 110
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 122
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 294
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 296
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 111
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 123
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 210
@@ -11572,7 +11572,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 398
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 111
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 123
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 295
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 297
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 112
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 124
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 211
@@ -16223,7 +16223,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 372
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 100
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 274
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 276
 # File: module/b2c/costamar/b2c/air/book.phtml, line: 102
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 304
 # File: module/b2c/view/b2c/air/book.phtml, line: 98
@@ -16937,12 +16937,12 @@ msgstr ""
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 107
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 113
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 224
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 230
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 232
 msgid "This reservation require full payment to be made at the time of booking. Payment will be processed and debited from your account. No refund will be offered for cancellations, no-shows and early departures. Changes or amendments to the reservation will be termed as cancellations and no refund will be offered."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 120
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 242
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 244
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 181
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 181
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 141
@@ -16951,14 +16951,14 @@ msgid "Review and book your trip"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 124
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 246
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 248
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 186
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 186
 msgid "You will be charged the total amount of the booking."
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 193
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 411
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 413
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 340
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 328
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 270
@@ -17941,16 +17941,16 @@ msgstr ""
 msgid "Enter guest's email address"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 287
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 289
 msgid "Outbound"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 290
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 317
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 292
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 319
 msgid "Flight Time:"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 351
+# File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 353
 msgid "Hotel Details"
 msgstr ""
 #
