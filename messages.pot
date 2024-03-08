@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-08 14:13+0000\n"
+"POT-Creation-Date: 2024-03-08 17:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -340,7 +340,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 102
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 124
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 37
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 41
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 36
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 36
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 76
@@ -370,7 +370,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 80
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 102
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 124
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 36
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 40
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 35
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 35
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 75
@@ -446,7 +446,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 108
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 125
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 130
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 33
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 37
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 30
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 42
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 70
@@ -475,7 +475,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 81
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 103
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 125
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 33
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 37
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 29
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 41
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 69
@@ -557,7 +557,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 39
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 104
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 96
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 70
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 74
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 65
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 68
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 107
@@ -619,7 +619,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 47
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 112
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 104
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 63
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 67
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 62
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1703
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 287
@@ -649,7 +649,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 55
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 120
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 112
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 77
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 81
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 74
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 83
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 293
@@ -669,7 +669,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 56
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 121
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 115
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 78
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 82
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 72
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 75
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 114
@@ -680,7 +680,7 @@ msgstr ""
 #
 # File: module/b2c/abc/b2c/shared/createcustomerinfo.phtml, line: 45
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 123
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 56
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 60
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 80
 msgid "Select your country"
 msgstr ""
@@ -701,7 +701,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 110
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 131
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 132
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 54
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 58
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 80
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 306
 msgid "Please select your country"
@@ -723,7 +723,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 90
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 112
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 134
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 83
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 87
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 77
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 80
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 119
@@ -750,7 +750,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 90
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 112
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 134
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 84
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 88
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 78
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 81
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 120
@@ -784,7 +784,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 91
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 113
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 135
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 89
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 93
 # File: module/b2c/ebc/b2c/bookings/history.phtml, line: 29
 # File: module/b2c/ebc/b2c/bookings/specialists.phtml, line: 20
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 26
@@ -870,7 +870,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 91
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 113
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 135
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 90
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 94
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 84
 # File: module/b2c/ebc/b2c/bookings/register.phtml, line: 87
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 126
@@ -1654,8 +1654,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 262
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1096
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 687
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 180
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 241
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 188
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 249
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 83
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 77
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 104
@@ -3837,7 +3837,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 791
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 813
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 833
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 135
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 143
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 267
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 282
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 297
@@ -3985,7 +3985,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1512
 # File: module/b2c/ebc/b2c/air/index.phtml, line: 346
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 921
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 135
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 143
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 243
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1695
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1709
@@ -6000,7 +6000,7 @@ msgid "Settings"
 msgstr ""
 #
 # File: module/b2c/abc/layout/layout.phtml, line: 99
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 126
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 134
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 66
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 215
 msgid "Profile"
@@ -8438,7 +8438,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 25
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 31
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1564
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 42
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 46
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 27
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 23
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 47
@@ -8476,7 +8476,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 26
 # File: module/b2c/ebc/b2c/shared/createcustomerinfo.phtml, line: 32
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 43
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 47
 # File: module/b2c/ebc/b2c/bookings/registeragent.phtml, line: 48
 # File: module/b2c/ebc/b2c/bookings/affiliate-program.phtml, line: 90
 # File: module/b2c/ebc/b2c/bookings/register-property.phtml, line: 97
@@ -13782,108 +13782,112 @@ msgid "Update Picture"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 23
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 190
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 198
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 207
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 216
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 225
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 234
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 206
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 215
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 224
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 233
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 242
 # File: module/b2c/ebc/b2c/bookings/thankyou.phtml, line: 14
 msgid "Edit Profile"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 27
-msgid "Please use the form below to update your profile and keep your contact information up-to-date."
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 28
+msgid "Attention: To ensure a smooth and successful booking process, please update your profile with your current address, zip code, country, city and state. If you do not update your profile, your bookings may fail due to data inconsistency. Thank you for your cooperation and understanding."
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 31
+msgid "Please use the form below to update your profile and keep your contact information up-to-date."
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 35
 msgid "Edit your profile"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 48
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 52
 msgid "Apartment number, Suite, or Other secondary address"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 49
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 53
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 78
 msgid "Please enter Apartment number, Suite, or Other secondary address information"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 65
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 69
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 81
 msgid "Select your state/zone/region"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 72
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 76
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 82
 msgid "Select your city"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 96
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 100
 msgid "Update profile"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 102
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 111
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 106
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 115
 # File: module/b2c/ebc/b2c/bookings/thankyoupassword.phtml, line: 14
 # File: module/b2c/ebc/b2c/bookings/failedpassword.phtml, line: 14
 msgid "Change password"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 105
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 109
 msgid "Old password"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 106
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 110
 msgid "New password"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 107
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 111
 msgid "Reenter new password"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 118
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 124
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 159
 msgid "points"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 119
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 125
 msgid "Last Login:"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 122
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 130
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 135
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 62
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 173
 msgid "Shortcuts"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 124
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 132
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 64
 msgid "My trips / Reservations"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 125
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 133
 # File: module/b2c/ebc/b2c/bookings/agentbookings.phtml, line: 138
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 65
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 204
 msgid "History"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 128
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 136
 # File: module/b2c/ebc/b2c/bookings/invite.phtml, line: 68
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 223
 msgid "Logout"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 131
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 139
 msgid "Fill in your personal details and then click the Update profile button in order to update your profile."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 147
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 155
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 164
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 173
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 163
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 172
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 181
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 40
 # File: module/b2c/costamar/b2c/bookings/thankyou.phtml, line: 160
 # File: module/b2c/costamar/b2c/bookings/thankyoupassword.phtml, line: 40
@@ -13893,48 +13897,48 @@ msgstr ""
 msgid "Change Password"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 148
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 156
 msgid "Please enter old password!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 156
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 164
 msgid "Please enter new password!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 165
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 173
 msgid "Please confirm new password!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 174
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 182
 msgid "Password and confirm password does not match!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 191
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 199
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 141
 msgid "Please enter first name!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 199
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 207
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 152
 msgid "Please enter last name!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 208
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 216
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 163
 msgid "Please enter address!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 217
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 225
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 175
 msgid "Please enter country!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 226
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 234
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 211
 msgid "Please enter phone!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 235
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 243
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 223
 msgid "Please enter email!"
 msgstr ""
