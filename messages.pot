@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-08 17:35+0000\n"
+"POT-Creation-Date: 2024-03-10 07:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1634,9 +1634,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 826
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1032
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1122
+# File: module/b2c/ebc/b2c/cruises/cabins.phtml, line: 70
+# File: module/b2c/ebc/b2c/cruises/cabins.phtml, line: 77
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 303
 # File: module/b2c/ebc/b2c/cruises/passengers.phtml, line: 71
 # File: module/b2c/ebc/b2c/cruises/searching.phtml, line: 39
+# File: module/b2c/ebc/b2c/cruises/cabin.phtml, line: 113
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 529
 # File: module/b2c/ebc/b2c/cruises/search.phtml, line: 640
 # File: module/b2c/ebc/b2c/cruises/index.phtml, line: 541
