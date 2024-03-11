@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-11 14:09+0000\n"
+"POT-Creation-Date: 2024-03-11 17:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1658,7 +1658,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 1096
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 687
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 188
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 249
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 321
 # File: module/b2c/ebc/b2c/bookings/customers.phtml, line: 83
 # File: module/b2c/ebc/b2c/bookings/agents.phtml, line: 77
 # File: module/b2c/ebc/b2c/bookings/forgotpassword.phtml, line: 104
@@ -13791,6 +13791,14 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 224
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 233
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 242
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 251
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 260
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 269
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 278
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 287
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 296
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 305
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 314
 # File: module/b2c/ebc/b2c/bookings/thankyou.phtml, line: 14
 msgid "Edit Profile"
 msgstr ""
@@ -13932,16 +13940,31 @@ msgid "Please enter address!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 225
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 234
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 243
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 175
 msgid "Please enter country!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 234
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 252
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 261
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 270
+msgid "Please enter state/region!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 279
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 288
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 297
+# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 199
+msgid "Please enter city!"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 306
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 211
 msgid "Please enter phone!"
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 243
+# File: module/b2c/ebc/b2c/bookings/mydetails.phtml, line: 315
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 223
 msgid "Please enter email!"
 msgstr ""
@@ -15653,10 +15676,6 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 187
 msgid "Please enter state/region/zone!"
-msgstr ""
-#
-# File: module/b2c/ebc/b2c/booking/profile.phtml, line: 199
-msgid "Please enter city!"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 235
