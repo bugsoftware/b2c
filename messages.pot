@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-11 17:57+0000\n"
+"POT-Creation-Date: 2024-03-11 17:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3998,8 +3998,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1687
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1691
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1695
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 941
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 943
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 945
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 947
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 954
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 956
 # File: module/b2c/ebc/b2c/booking/profile.phtml, line: 121
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 674
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 680
@@ -10122,7 +10124,8 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 240
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 131
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 329
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 942
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 946
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 955
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 254
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 249
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 328
@@ -15453,8 +15456,12 @@ msgstr ""
 msgid "By selecting to complete this booking I acknowledge that I have read and accept the EPS Terms & Conditions."
 msgstr ""
 #
-# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 941
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 945
 msgid "EPS Terms and Conditions"
+msgstr ""
+#
+# File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 954
+msgid "Terms and Conditions"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/cancel.phtml, line: 16
