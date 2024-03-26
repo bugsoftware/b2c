@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-26 16:25+0000\n"
+"POT-Creation-Date: 2024-03-26 16:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1236,6 +1236,8 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/list.phtml, line: 315
 # File: module/b2c/view/offers/hotels/index.phtml, line: 217
 # File: module/b2c/view/offers/hotels/index.phtml, line: 265
+# File: module/b2c/abc/hotels/index.phtml, line: 217
+# File: module/b2c/abc/hotels/index.phtml, line: 265
 # File: public/abc/offers/hotels/index.phtml, line: 217
 # File: public/abc/offers/hotels/index.phtml, line: 265
 msgid "View"
@@ -3449,6 +3451,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 639
 # File: module/b2c/costamar/layout/layout.phtml, line: 312
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 639
+# File: module/b2c/abc/lastminute/index.phtml, line: 639
 # File: public/abc/offers/lastminute/index.phtml, line: 639
 msgid "Book Now"
 msgstr ""
@@ -5371,6 +5374,7 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 147
 # File: module/b2c/view/b2c/search.phtml, line: 122
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 1629
+# File: module/b2c/abc/lastminute/index.phtml, line: 1629
 # File: public/abc/b2c/air/search.phtml, line: 476
 # File: public/abc/offers/lastminute/index.phtml, line: 1629
 msgid "total"
@@ -5997,6 +6001,8 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/package.phtml, line: 211
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 290
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 624
+# File: module/b2c/abc/lastminute/index.phtml, line: 290
+# File: module/b2c/abc/lastminute/index.phtml, line: 624
 # File: public/abc/offers/lastminute/index.phtml, line: 290
 # File: public/abc/offers/lastminute/index.phtml, line: 624
 msgid "from"
@@ -6054,6 +6060,8 @@ msgstr ""
 # File: module/b2c/view/b2c/transfers/search.phtml, line: 301
 # File: module/b2c/view/offers/cruises/index.phtml, line: 151
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 346
+# File: module/b2c/abc/lastminute/index.phtml, line: 346
+# File: module/b2c/abc/cruises/index.phtml, line: 151
 # File: public/abc/offers/lastminute/index.phtml, line: 346
 # File: public/abc/offers/cruises/index.phtml, line: 151
 msgid "to"
@@ -6082,6 +6090,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 8092
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8092
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8092
+# File: module/b2c/abc/lastminute/index.phtml, line: 8092
 # File: public/abc/offers/lastminute/index.phtml, line: 8092
 msgid "About"
 msgstr ""
@@ -6226,6 +6235,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 238
 # File: module/b2c/view/b2c/admin/settings.phtml, line: 25
 # File: module/b2c/view/offers/hotels/index.phtml, line: 238
+# File: module/b2c/abc/hotels/index.phtml, line: 238
 # File: public/abc/offers/hotels/index.phtml, line: 238
 msgid "Packages"
 msgstr ""
@@ -6321,6 +6331,7 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 32
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 194
 # File: module/b2c/view/offers/cruises/index.phtml, line: 164
+# File: module/b2c/abc/cruises/index.phtml, line: 164
 # File: public/abc/offers/cruises/index.phtml, line: 164
 msgid "Departure"
 msgstr ""
@@ -6461,6 +6472,8 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_features.phtml, line: 392
 # File: module/b2c/view/offers/airline/index.phtml, line: 239
 # File: module/b2c/view/offers/hotels/index.phtml, line: 240
+# File: module/b2c/abc/airline/index.phtml, line: 239
+# File: module/b2c/abc/hotels/index.phtml, line: 240
 # File: public/abc/offers/airline/index.phtml, line: 239
 # File: public/abc/offers/hotels/index.phtml, line: 240
 msgid "days"
@@ -6507,6 +6520,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 31
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8294
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8294
+# File: module/b2c/abc/lastminute/index.phtml, line: 8294
 # File: public/abc/offers/lastminute/index.phtml, line: 8294
 msgid "Chat live with your agent"
 msgstr ""
@@ -6532,6 +6546,10 @@ msgstr ""
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8298
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8299
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8300
+# File: module/b2c/abc/lastminute/index.phtml, line: 8293
+# File: module/b2c/abc/lastminute/index.phtml, line: 8298
+# File: module/b2c/abc/lastminute/index.phtml, line: 8299
+# File: module/b2c/abc/lastminute/index.phtml, line: 8300
 # File: public/abc/offers/lastminute/index.phtml, line: 8293
 # File: public/abc/offers/lastminute/index.phtml, line: 8298
 # File: public/abc/offers/lastminute/index.phtml, line: 8299
@@ -6546,6 +6564,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 45
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8301
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8301
+# File: module/b2c/abc/lastminute/index.phtml, line: 8301
 # File: public/abc/offers/lastminute/index.phtml, line: 8301
 msgid "I want you to call me"
 msgstr ""
@@ -6556,6 +6575,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 50
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8307
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8307
+# File: module/b2c/abc/lastminute/index.phtml, line: 8307
 # File: public/abc/offers/lastminute/index.phtml, line: 8307
 msgid "Direct phone"
 msgstr ""
@@ -6566,6 +6586,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 57
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8314
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8314
+# File: module/b2c/abc/lastminute/index.phtml, line: 8314
 # File: public/abc/offers/lastminute/index.phtml, line: 8314
 msgid "Schedule"
 msgstr ""
@@ -6885,6 +6906,8 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_cruises.phtml, line: 6
 # File: module/b2c/view/offers/airline/index.phtml, line: 239
 # File: module/b2c/view/offers/hotels/index.phtml, line: 240
+# File: module/b2c/abc/airline/index.phtml, line: 239
+# File: module/b2c/abc/hotels/index.phtml, line: 240
 # File: public/abc/offers/airline/index.phtml, line: 239
 # File: public/abc/offers/hotels/index.phtml, line: 240
 msgid "nights"
@@ -6965,6 +6988,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 1649
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1649
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 1649
+# File: module/b2c/abc/lastminute/index.phtml, line: 1649
 # File: public/abc/offers/lastminute/index.phtml, line: 1649
 msgid "stars"
 msgstr ""
@@ -7049,6 +7073,7 @@ msgstr ""
 # File: module/b2c/view/b2c/packages/package.phtml, line: 250
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 207
 # File: module/b2c/view/offers/cruises/index.phtml, line: 162
+# File: module/b2c/abc/cruises/index.phtml, line: 162
 # File: public/abc/offers/cruises/index.phtml, line: 162
 msgid "Itinerary"
 msgstr ""
@@ -7790,6 +7815,10 @@ msgstr ""
 # File: module/b2c/view/offers/hotels/index.phtml, line: 327
 # File: module/b2c/view/layout/layout.phtml, line: 670
 # File: module/b2c/view/layout/layout2.phtml, line: 670
+# File: module/b2c/abc/holidays/index.phtml, line: 291
+# File: module/b2c/abc/cruises/index.phtml, line: 323
+# File: module/b2c/abc/airline/index.phtml, line: 306
+# File: module/b2c/abc/hotels/index.phtml, line: 327
 # File: public/abc/offers/holidays/index.phtml, line: 291
 # File: public/abc/offers/cruises/index.phtml, line: 323
 # File: public/abc/offers/airline/index.phtml, line: 306
@@ -8814,6 +8843,10 @@ msgstr ""
 # File: module/b2c/view/offers/airline/index.phtml, line: 239
 # File: module/b2c/view/offers/hotels/index.phtml, line: 212
 # File: module/b2c/view/offers/hotels/index.phtml, line: 260
+# File: module/b2c/abc/airline/index.phtml, line: 217
+# File: module/b2c/abc/airline/index.phtml, line: 239
+# File: module/b2c/abc/hotels/index.phtml, line: 212
+# File: module/b2c/abc/hotels/index.phtml, line: 260
 # File: public/abc/offers/airline/index.phtml, line: 217
 # File: public/abc/offers/airline/index.phtml, line: 239
 # File: public/abc/offers/hotels/index.phtml, line: 212
@@ -8865,6 +8898,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 151
 # File: module/b2c/view/b2c/cruises/cabin.phtml, line: 42
 # File: module/b2c/view/offers/cruises/index.phtml, line: 151
+# File: module/b2c/abc/cruises/index.phtml, line: 151
 # File: public/abc/offers/cruises/index.phtml, line: 151
 msgid "Cabin"
 msgstr ""
@@ -10184,6 +10218,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 161
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 26
 # File: module/b2c/view/offers/cruises/index.phtml, line: 161
+# File: module/b2c/abc/cruises/index.phtml, line: 161
 # File: public/abc/offers/cruises/index.phtml, line: 161
 msgid "Date"
 msgstr ""
@@ -10407,6 +10442,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 181
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 181
 # File: module/b2c/view/offers/holidays/index.phtml, line: 181
+# File: module/b2c/abc/holidays/index.phtml, line: 181
 # File: public/abc/offers/holidays/index.phtml, line: 181
 msgid "Where do you want to go?"
 msgstr ""
@@ -11760,6 +11796,7 @@ msgstr ""
 # File: module/b2c/view/b2c/search.phtml, line: 73
 # File: module/b2c/view/b2c/search.phtml, line: 365
 # File: module/b2c/view/offers/cruises/index.phtml, line: 205
+# File: module/b2c/abc/cruises/index.phtml, line: 205
 # File: public/abc/offers/cruises/index.phtml, line: 205
 msgid "Price"
 msgstr ""
@@ -12197,6 +12234,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 65
 # File: module/b2c/view/b2c/dynamic-packaging/transfers.phtml, line: 64
 # File: module/b2c/view/offers/cruises/index.phtml, line: 212
+# File: module/b2c/abc/cruises/index.phtml, line: 212
 # File: public/abc/offers/cruises/index.phtml, line: 212
 msgid "Cruise"
 msgstr ""
@@ -13403,6 +13441,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 271
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 441
 # File: module/b2c/view/offers/cruises/index.phtml, line: 271
+# File: module/b2c/abc/cruises/index.phtml, line: 271
 # File: public/abc/offers/cruises/index.phtml, line: 271
 msgid "Meals"
 msgstr ""
@@ -13958,6 +13997,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 229
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 229
 # File: module/b2c/view/offers/cruises/index.phtml, line: 229
+# File: module/b2c/abc/cruises/index.phtml, line: 229
 # File: public/abc/offers/cruises/index.phtml, line: 229
 msgid "TOTAL"
 msgstr ""
@@ -14985,6 +15025,7 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 191
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 106
 # File: module/b2c/view/offers/cruises/index.phtml, line: 163
+# File: module/b2c/abc/cruises/index.phtml, line: 163
 # File: public/abc/offers/cruises/index.phtml, line: 163
 msgid "Arrival"
 msgstr ""
@@ -15100,6 +15141,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 46
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 46
 # File: module/b2c/view/offers/holidays/index.phtml, line: 46
+# File: module/b2c/abc/holidays/index.phtml, line: 46
 # File: public/abc/offers/holidays/index.phtml, line: 46
 msgid "WORLD'S BEST PLACES TO VISIT"
 msgstr ""
@@ -15112,6 +15154,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 50
 # File: module/b2c/view/offers/holidays/index.phtml, line: 47
 # File: module/b2c/view/offers/holidays/index.phtml, line: 50
+# File: module/b2c/abc/holidays/index.phtml, line: 47
+# File: module/b2c/abc/holidays/index.phtml, line: 50
 # File: public/abc/offers/holidays/index.phtml, line: 47
 # File: public/abc/offers/holidays/index.phtml, line: 50
 msgid "With a world full of fascinating destinations, choose the perfect vacation for you...brought to you by"
@@ -15124,6 +15168,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 48
 # File: module/b2c/view/offers/cruises/index.phtml, line: 53
 # File: module/b2c/view/offers/holidays/index.phtml, line: 48
+# File: module/b2c/abc/holidays/index.phtml, line: 48
+# File: module/b2c/abc/cruises/index.phtml, line: 53
 # File: public/abc/offers/holidays/index.phtml, line: 48
 # File: public/abc/offers/cruises/index.phtml, line: 53
 msgid "With a world full of fascinating destinations, choose the perfect vacation for you..."
@@ -15155,6 +15201,14 @@ msgstr ""
 # File: module/b2c/view/offers/holidays/index.phtml, line: 282
 # File: module/b2c/view/offers/hotels/index.phtml, line: 153
 # File: module/b2c/view/offers/hotels/index.phtml, line: 318
+# File: module/b2c/abc/holidays/index.phtml, line: 135
+# File: module/b2c/abc/holidays/index.phtml, line: 282
+# File: module/b2c/abc/cruises/index.phtml, line: 121
+# File: module/b2c/abc/cruises/index.phtml, line: 314
+# File: module/b2c/abc/airline/index.phtml, line: 156
+# File: module/b2c/abc/airline/index.phtml, line: 297
+# File: module/b2c/abc/hotels/index.phtml, line: 153
+# File: module/b2c/abc/hotels/index.phtml, line: 318
 # File: public/abc/offers/holidays/index.phtml, line: 135
 # File: public/abc/offers/holidays/index.phtml, line: 282
 # File: public/abc/offers/cruises/index.phtml, line: 121
@@ -15170,6 +15224,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 157
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 157
 # File: module/b2c/view/offers/holidays/index.phtml, line: 157
+# File: module/b2c/abc/holidays/index.phtml, line: 157
 # File: public/abc/offers/holidays/index.phtml, line: 157
 msgid "top destinations"
 msgstr ""
@@ -15178,6 +15233,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 158
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 158
 # File: module/b2c/view/offers/holidays/index.phtml, line: 158
+# File: module/b2c/abc/holidays/index.phtml, line: 158
 # File: public/abc/offers/holidays/index.phtml, line: 158
 msgid "With a world full of fascinating destinations"
 msgstr ""
@@ -15186,6 +15242,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 158
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 158
 # File: module/b2c/view/offers/holidays/index.phtml, line: 158
+# File: module/b2c/abc/holidays/index.phtml, line: 158
 # File: public/abc/offers/holidays/index.phtml, line: 158
 msgid "choose the perfect vacation for you..."
 msgstr ""
@@ -15221,6 +15278,10 @@ msgstr ""
 # File: module/b2c/view/offers/airline/index.phtml, line: 293
 # File: module/b2c/view/offers/holidays/index.phtml, line: 278
 # File: module/b2c/view/offers/hotels/index.phtml, line: 314
+# File: module/b2c/abc/holidays/index.phtml, line: 278
+# File: module/b2c/abc/cruises/index.phtml, line: 310
+# File: module/b2c/abc/airline/index.phtml, line: 293
+# File: module/b2c/abc/hotels/index.phtml, line: 314
 # File: public/abc/offers/holidays/index.phtml, line: 278
 # File: public/abc/offers/cruises/index.phtml, line: 310
 # File: public/abc/offers/airline/index.phtml, line: 293
@@ -15241,6 +15302,10 @@ msgstr ""
 # File: module/b2c/view/offers/airline/index.phtml, line: 306
 # File: module/b2c/view/offers/holidays/index.phtml, line: 291
 # File: module/b2c/view/offers/hotels/index.phtml, line: 327
+# File: module/b2c/abc/holidays/index.phtml, line: 291
+# File: module/b2c/abc/cruises/index.phtml, line: 323
+# File: module/b2c/abc/airline/index.phtml, line: 306
+# File: module/b2c/abc/hotels/index.phtml, line: 327
 # File: public/abc/offers/holidays/index.phtml, line: 291
 # File: public/abc/offers/cruises/index.phtml, line: 323
 # File: public/abc/offers/airline/index.phtml, line: 306
@@ -15257,6 +15322,9 @@ msgstr ""
 # File: module/b2c/view/offers/cruises/index.phtml, line: 49
 # File: module/b2c/view/offers/cruises/index.phtml, line: 50
 # File: module/b2c/view/offers/cruises/index.phtml, line: 51
+# File: module/b2c/abc/cruises/index.phtml, line: 49
+# File: module/b2c/abc/cruises/index.phtml, line: 50
+# File: module/b2c/abc/cruises/index.phtml, line: 51
 # File: public/abc/offers/cruises/index.phtml, line: 49
 # File: public/abc/offers/cruises/index.phtml, line: 50
 # File: public/abc/offers/cruises/index.phtml, line: 51
@@ -15266,6 +15334,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 132
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 132
 # File: module/b2c/view/offers/cruises/index.phtml, line: 132
+# File: module/b2c/abc/cruises/index.phtml, line: 132
 # File: public/abc/offers/cruises/index.phtml, line: 132
 msgid "Quotation"
 msgstr ""
@@ -15273,6 +15342,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 133
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 133
 # File: module/b2c/view/offers/cruises/index.phtml, line: 133
+# File: module/b2c/abc/cruises/index.phtml, line: 133
 # File: public/abc/offers/cruises/index.phtml, line: 133
 msgid "As requested we detail the following quote"
 msgstr ""
@@ -15280,6 +15350,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 133
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 133
 # File: module/b2c/view/offers/cruises/index.phtml, line: 133
+# File: module/b2c/abc/cruises/index.phtml, line: 133
 # File: public/abc/offers/cruises/index.phtml, line: 133
 msgid "we remain attentive to your inquiries and requirements"
 msgstr ""
@@ -15287,6 +15358,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 139
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 139
 # File: module/b2c/view/offers/cruises/index.phtml, line: 139
+# File: module/b2c/abc/cruises/index.phtml, line: 139
 # File: public/abc/offers/cruises/index.phtml, line: 139
 msgid "Reference quote:"
 msgstr ""
@@ -15294,6 +15366,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 139
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 139
 # File: module/b2c/view/offers/cruises/index.phtml, line: 139
+# File: module/b2c/abc/cruises/index.phtml, line: 139
 # File: public/abc/offers/cruises/index.phtml, line: 139
 msgid "Pasajeros:"
 msgstr ""
@@ -15302,6 +15375,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 628
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 139
 # File: module/b2c/view/offers/cruises/index.phtml, line: 139
+# File: module/b2c/abc/cruises/index.phtml, line: 139
 # File: public/abc/offers/cruises/index.phtml, line: 139
 msgid "adults"
 msgstr ""
@@ -15309,6 +15383,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 139
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 139
 # File: module/b2c/view/offers/cruises/index.phtml, line: 139
+# File: module/b2c/abc/cruises/index.phtml, line: 139
 # File: public/abc/offers/cruises/index.phtml, line: 139
 msgid "children"
 msgstr ""
@@ -15316,6 +15391,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 141
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 141
 # File: module/b2c/view/offers/cruises/index.phtml, line: 141
+# File: module/b2c/abc/cruises/index.phtml, line: 141
 # File: public/abc/offers/cruises/index.phtml, line: 141
 msgid "Telephone:"
 msgstr ""
@@ -15323,6 +15399,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 141
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 141
 # File: module/b2c/view/offers/cruises/index.phtml, line: 141
+# File: module/b2c/abc/cruises/index.phtml, line: 141
 # File: public/abc/offers/cruises/index.phtml, line: 141
 msgid "Quotation date:"
 msgstr ""
@@ -15330,6 +15407,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 151
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 151
 # File: module/b2c/view/offers/cruises/index.phtml, line: 151
+# File: module/b2c/abc/cruises/index.phtml, line: 151
 # File: public/abc/offers/cruises/index.phtml, line: 151
 msgid "Cruise from"
 msgstr ""
@@ -15337,6 +15415,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 204
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 204
 # File: module/b2c/view/offers/cruises/index.phtml, line: 204
+# File: module/b2c/abc/cruises/index.phtml, line: 204
 # File: public/abc/offers/cruises/index.phtml, line: 204
 msgid "Item"
 msgstr ""
@@ -15344,6 +15423,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 220
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 220
 # File: module/b2c/view/offers/cruises/index.phtml, line: 220
+# File: module/b2c/abc/cruises/index.phtml, line: 220
 # File: public/abc/offers/cruises/index.phtml, line: 220
 msgid "Taxes & Charges"
 msgstr ""
@@ -15351,6 +15431,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 244
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 244
 # File: module/b2c/view/offers/cruises/index.phtml, line: 244
+# File: module/b2c/abc/cruises/index.phtml, line: 244
 # File: public/abc/offers/cruises/index.phtml, line: 244
 msgid "enjoy even more"
 msgstr ""
@@ -15358,6 +15439,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 244
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 244
 # File: module/b2c/view/offers/cruises/index.phtml, line: 244
+# File: module/b2c/abc/cruises/index.phtml, line: 244
 # File: public/abc/offers/cruises/index.phtml, line: 244
 msgid "your vacations"
 msgstr ""
@@ -15365,6 +15447,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 245
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 245
 # File: module/b2c/view/offers/cruises/index.phtml, line: 245
+# File: module/b2c/abc/cruises/index.phtml, line: 245
 # File: public/abc/offers/cruises/index.phtml, line: 245
 msgid "You are one click away from starting your adventure"
 msgstr ""
@@ -15372,6 +15455,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 245
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 245
 # File: module/b2c/view/offers/cruises/index.phtml, line: 245
+# File: module/b2c/abc/cruises/index.phtml, line: 245
 # File: public/abc/offers/cruises/index.phtml, line: 245
 msgid "but you could improve your experience even more"
 msgstr ""
@@ -15379,6 +15463,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 245
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 245
 # File: module/b2c/view/offers/cruises/index.phtml, line: 245
+# File: module/b2c/abc/cruises/index.phtml, line: 245
 # File: public/abc/offers/cruises/index.phtml, line: 245
 msgid "adding these fabulous services"
 msgstr ""
@@ -15386,6 +15471,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 246
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 246
 # File: module/b2c/view/offers/cruises/index.phtml, line: 246
+# File: module/b2c/abc/cruises/index.phtml, line: 246
 # File: public/abc/offers/cruises/index.phtml, line: 246
 msgid "I WANT IT"
 msgstr ""
@@ -15393,6 +15479,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 256
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 256
 # File: module/b2c/view/offers/cruises/index.phtml, line: 256
+# File: module/b2c/abc/cruises/index.phtml, line: 256
 # File: public/abc/offers/cruises/index.phtml, line: 256
 msgid "the cruise"
 msgstr ""
@@ -15400,6 +15487,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 257
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 257
 # File: module/b2c/view/offers/cruises/index.phtml, line: 257
+# File: module/b2c/abc/cruises/index.phtml, line: 257
 # File: public/abc/offers/cruises/index.phtml, line: 257
 msgid "GUARANTEED CABIN"
 msgstr ""
@@ -15407,6 +15495,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 257
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 257
 # File: module/b2c/view/offers/cruises/index.phtml, line: 257
+# File: module/b2c/abc/cruises/index.phtml, line: 257
 # File: public/abc/offers/cruises/index.phtml, line: 257
 msgid "The specific cabin number is unknown. This can be assigned until the same day of departure. Once assigned the booth number cannot be changed."
 msgstr ""
@@ -15414,6 +15503,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 258
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 258
 # File: module/b2c/view/offers/cruises/index.phtml, line: 258
+# File: module/b2c/abc/cruises/index.phtml, line: 258
 # File: public/abc/offers/cruises/index.phtml, line: 258
 msgid "INCLUDED"
 msgstr ""
@@ -15421,6 +15511,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 258
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 258
 # File: module/b2c/view/offers/cruises/index.phtml, line: 258
+# File: module/b2c/abc/cruises/index.phtml, line: 258
 # File: public/abc/offers/cruises/index.phtml, line: 258
 msgid "Cruise, Complete meals, tea, coffee, milk, soft drinks from dispenser; shows, daily entertainment, access to various public areas such as Gym, Taxes, port charges."
 msgstr ""
@@ -15428,6 +15519,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 259
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 259
 # File: module/b2c/view/offers/cruises/index.phtml, line: 259
+# File: module/b2c/abc/cruises/index.phtml, line: 259
 # File: public/abc/offers/cruises/index.phtml, line: 259
 msgid "IT'S NOT INCLUDED"
 msgstr ""
@@ -15435,6 +15527,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 259
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 259
 # File: module/b2c/view/offers/cruises/index.phtml, line: 259
+# File: module/b2c/abc/cruises/index.phtml, line: 259
 # File: public/abc/offers/cruises/index.phtml, line: 259
 msgid "Air tickets, soft drinks, freshly squeezed juices, alcoholic beverages, assistance and cancellation insurance, excursions, Wifi, Transfers, purchases, tips, Casino, Spa services, and all items not detailed as included."
 msgstr ""
@@ -15442,6 +15535,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 269
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 269
 # File: module/b2c/view/offers/cruises/index.phtml, line: 269
+# File: module/b2c/abc/cruises/index.phtml, line: 269
 # File: public/abc/offers/cruises/index.phtml, line: 269
 msgid "Enjoy"
 msgstr ""
@@ -15449,6 +15543,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 269
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 269
 # File: module/b2c/view/offers/cruises/index.phtml, line: 269
+# File: module/b2c/abc/cruises/index.phtml, line: 269
 # File: public/abc/offers/cruises/index.phtml, line: 269
 msgid "different destinations"
 msgstr ""
@@ -15456,6 +15551,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 270
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 270
 # File: module/b2c/view/offers/cruises/index.phtml, line: 270
+# File: module/b2c/abc/cruises/index.phtml, line: 270
 # File: public/abc/offers/cruises/index.phtml, line: 270
 msgid "Accommodation"
 msgstr ""
@@ -15463,6 +15559,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 270
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 270
 # File: module/b2c/view/offers/cruises/index.phtml, line: 270
+# File: module/b2c/abc/cruises/index.phtml, line: 270
 # File: public/abc/offers/cruises/index.phtml, line: 270
 msgid "and unique experience"
 msgstr ""
@@ -15470,6 +15567,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 271
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 271
 # File: module/b2c/view/offers/cruises/index.phtml, line: 271
+# File: module/b2c/abc/cruises/index.phtml, line: 271
 # File: public/abc/offers/cruises/index.phtml, line: 271
 msgid "complete"
 msgstr ""
@@ -15477,6 +15575,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 278
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 278
 # File: module/b2c/view/offers/cruises/index.phtml, line: 278
+# File: module/b2c/abc/cruises/index.phtml, line: 278
 # File: public/abc/offers/cruises/index.phtml, line: 278
 msgid "Shows"
 msgstr ""
@@ -15484,6 +15583,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 278
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 278
 # File: module/b2c/view/offers/cruises/index.phtml, line: 278
+# File: module/b2c/abc/cruises/index.phtml, line: 278
 # File: public/abc/offers/cruises/index.phtml, line: 278
 msgid "incredible"
 msgstr ""
@@ -15491,6 +15591,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 279
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 279
 # File: module/b2c/view/offers/cruises/index.phtml, line: 279
+# File: module/b2c/abc/cruises/index.phtml, line: 279
 # File: public/abc/offers/cruises/index.phtml, line: 279
 msgid "Various activities"
 msgstr ""
@@ -15498,6 +15599,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 279
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 279
 # File: module/b2c/view/offers/cruises/index.phtml, line: 279
+# File: module/b2c/abc/cruises/index.phtml, line: 279
 # File: public/abc/offers/cruises/index.phtml, line: 279
 msgid "for all ages"
 msgstr ""
@@ -15505,6 +15607,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 280
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 280
 # File: module/b2c/view/offers/cruises/index.phtml, line: 280
+# File: module/b2c/abc/cruises/index.phtml, line: 280
 # File: public/abc/offers/cruises/index.phtml, line: 280
 msgid "Entertainment"
 msgstr ""
@@ -15512,6 +15615,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 280
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 280
 # File: module/b2c/view/offers/cruises/index.phtml, line: 280
+# File: module/b2c/abc/cruises/index.phtml, line: 280
 # File: public/abc/offers/cruises/index.phtml, line: 280
 msgid "and night life"
 msgstr ""
@@ -15519,6 +15623,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 289
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 289
 # File: module/b2c/view/offers/cruises/index.phtml, line: 289
+# File: module/b2c/abc/cruises/index.phtml, line: 289
 # File: public/abc/offers/cruises/index.phtml, line: 289
 msgid "GENERAL CONDITIONS:"
 msgstr ""
@@ -15526,6 +15631,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 290
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 290
 # File: module/b2c/view/offers/cruises/index.phtml, line: 290
+# File: module/b2c/abc/cruises/index.phtml, line: 290
 # File: public/abc/offers/cruises/index.phtml, line: 290
 msgid "IT IS THE RESPONSIBILITY OF EACH PERSON TO CHECK VISAS AND IMMUNIZATIONS"
 msgstr ""
@@ -15533,6 +15639,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 291
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 291
 # File: module/b2c/view/offers/cruises/index.phtml, line: 291
+# File: module/b2c/abc/cruises/index.phtml, line: 291
 # File: public/abc/offers/cruises/index.phtml, line: 291
 msgid "For required visas it is suggested to visit the following link"
 msgstr ""
@@ -15540,6 +15647,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 292
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 292
 # File: module/b2c/view/offers/cruises/index.phtml, line: 292
+# File: module/b2c/abc/cruises/index.phtml, line: 292
 # File: public/abc/offers/cruises/index.phtml, line: 292
 msgid "A person over the age of 21 is required to be in each booth. With the sole exception of having the minor's cabin in front of or to the side of the parent's cabin."
 msgstr ""
@@ -15547,6 +15655,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 293
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 293
 # File: module/b2c/view/offers/cruises/index.phtml, line: 293
+# File: module/b2c/abc/cruises/index.phtml, line: 293
 # File: public/abc/offers/cruises/index.phtml, line: 293
 msgid "Underage spouses can travel with proof of marriage."
 msgstr ""
@@ -15554,6 +15663,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 294
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 294
 # File: module/b2c/view/offers/cruises/index.phtml, line: 294
+# File: module/b2c/abc/cruises/index.phtml, line: 294
 # File: public/abc/offers/cruises/index.phtml, line: 294
 msgid "Boarding of pregnant women during the 24th week is NOT allowed, a medical certificate will be requested in case of pregnant women with a period of less than 24 weeks of gestation, which indicates how many weeks of pregnancy they are at the time of boarding, showing that they are in good health and that it is not a high-risk pregnancy."
 msgstr ""
@@ -15561,6 +15671,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 295
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 295
 # File: module/b2c/view/offers/cruises/index.phtml, line: 295
+# File: module/b2c/abc/cruises/index.phtml, line: 295
 # File: public/abc/offers/cruises/index.phtml, line: 295
 msgid "Infants under 6 months of age cannot be shipped. For itineraries of 3 consecutive nights of navigation at sea, transatlantic, transpacific and some itineraries in South America, infants must be 1 year old at the time of boarding."
 msgstr ""
@@ -15568,6 +15679,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 296
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 296
 # File: module/b2c/view/offers/cruises/index.phtml, line: 296
+# File: module/b2c/abc/cruises/index.phtml, line: 296
 # File: public/abc/offers/cruises/index.phtml, line: 296
 msgid "For all our routes, a Valid Passport is required (minimum 6 months, at the time of disembarkation) and carry a photocopy of it."
 msgstr ""
@@ -15575,6 +15687,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/cruises/index.phtml, line: 297
 # File: module/b2c/costamar/offers/cruises/index.phtml, line: 297
 # File: module/b2c/view/offers/cruises/index.phtml, line: 297
+# File: module/b2c/abc/cruises/index.phtml, line: 297
 # File: public/abc/offers/cruises/index.phtml, line: 297
 msgid "The ports may vary, if the shipping company deems it convenient."
 msgstr ""
@@ -15585,6 +15698,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 177
 # File: module/b2c/view/offers/airline/index.phtml, line: 46
 # File: module/b2c/view/offers/airline/index.phtml, line: 177
+# File: module/b2c/abc/airline/index.phtml, line: 46
+# File: module/b2c/abc/airline/index.phtml, line: 177
 # File: public/abc/offers/airline/index.phtml, line: 46
 # File: public/abc/offers/airline/index.phtml, line: 177
 msgid "Today's Amazing Flight Deals"
@@ -15593,6 +15708,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 47
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 47
 # File: module/b2c/view/offers/airline/index.phtml, line: 47
+# File: module/b2c/abc/airline/index.phtml, line: 47
 # File: public/abc/offers/airline/index.phtml, line: 47
 msgid "We offer tons of great airline deals for all types of flights, both domestic and international. Explore our vast inventory of airline offers for both short and long-haul routes worldwide...brought to you by"
 msgstr ""
@@ -15603,6 +15719,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 178
 # File: module/b2c/view/offers/airline/index.phtml, line: 48
 # File: module/b2c/view/offers/airline/index.phtml, line: 178
+# File: module/b2c/abc/airline/index.phtml, line: 48
+# File: module/b2c/abc/airline/index.phtml, line: 178
 # File: public/abc/offers/airline/index.phtml, line: 48
 # File: public/abc/offers/airline/index.phtml, line: 178
 msgid "Don't wait any longer and enjoy the best airline deals!"
@@ -15611,6 +15729,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 50
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 50
 # File: module/b2c/view/offers/airline/index.phtml, line: 50
+# File: module/b2c/abc/airline/index.phtml, line: 50
 # File: public/abc/offers/airline/index.phtml, line: 50
 msgid "Exclusive deals & discounts from"
 msgstr ""
@@ -15618,6 +15737,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 178
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 178
 # File: module/b2c/view/offers/airline/index.phtml, line: 178
+# File: module/b2c/abc/airline/index.phtml, line: 178
 # File: public/abc/offers/airline/index.phtml, line: 178
 msgid "Exclusive deals & discounts!"
 msgstr ""
@@ -15625,6 +15745,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 179
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 179
 # File: module/b2c/view/offers/airline/index.phtml, line: 179
+# File: module/b2c/abc/airline/index.phtml, line: 179
 # File: public/abc/offers/airline/index.phtml, line: 179
 msgid "VIEW OFFERS"
 msgstr ""
@@ -15632,6 +15753,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 202
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 202
 # File: module/b2c/view/offers/airline/index.phtml, line: 202
+# File: module/b2c/abc/airline/index.phtml, line: 202
 # File: public/abc/offers/airline/index.phtml, line: 202
 msgid "best flight deals"
 msgstr ""
@@ -15639,6 +15761,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/airline/index.phtml, line: 202
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 202
 # File: module/b2c/view/offers/airline/index.phtml, line: 202
+# File: module/b2c/abc/airline/index.phtml, line: 202
 # File: public/abc/offers/airline/index.phtml, line: 202
 msgid "We offer tons of great airline deals for all types of flights, both domestic and international. Explore our vast inventory of airline offers for both short and long-haul routes worldwide"
 msgstr ""
@@ -15649,6 +15772,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 212
 # File: module/b2c/view/offers/airline/index.phtml, line: 211
 # File: module/b2c/view/offers/airline/index.phtml, line: 212
+# File: module/b2c/abc/airline/index.phtml, line: 211
+# File: module/b2c/abc/airline/index.phtml, line: 212
 # File: public/abc/offers/airline/index.phtml, line: 211
 # File: public/abc/offers/airline/index.phtml, line: 212
 msgid "deals"
@@ -15661,6 +15786,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/airline/index.phtml, line: 266
 # File: module/b2c/view/offers/airline/index.phtml, line: 241
 # File: module/b2c/view/offers/airline/index.phtml, line: 266
+# File: module/b2c/abc/airline/index.phtml, line: 241
+# File: module/b2c/abc/airline/index.phtml, line: 266
 # File: public/abc/offers/airline/index.phtml, line: 241
 # File: public/abc/offers/airline/index.phtml, line: 266
 msgid "View More"
@@ -15672,6 +15799,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 303
 # File: module/b2c/view/offers/airline/index.phtml, line: 280
 # File: module/b2c/view/offers/hotels/index.phtml, line: 303
+# File: module/b2c/abc/airline/index.phtml, line: 280
+# File: module/b2c/abc/hotels/index.phtml, line: 303
 # File: public/abc/offers/airline/index.phtml, line: 280
 # File: public/abc/offers/hotels/index.phtml, line: 303
 msgid "GENERAL CONDITIONS"
@@ -15683,6 +15812,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 303
 # File: module/b2c/view/offers/airline/index.phtml, line: 280
 # File: module/b2c/view/offers/hotels/index.phtml, line: 303
+# File: module/b2c/abc/airline/index.phtml, line: 280
+# File: module/b2c/abc/hotels/index.phtml, line: 303
 # File: public/abc/offers/airline/index.phtml, line: 280
 # File: public/abc/offers/hotels/index.phtml, line: 303
 msgid "Prices \"from\" are per person per room in double occupation. Check prices for other dates, room categories and accommodations. Rates are subject to availability or while supplies last. Fares do not allow refunds and cannot be transferred to other passengers. Depending on the destination to travel, check visa requirements."
@@ -15691,6 +15822,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 156
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 156
 # File: module/b2c/view/offers/holidays/index.phtml, line: 156
+# File: module/b2c/abc/holidays/index.phtml, line: 156
 # File: public/abc/offers/holidays/index.phtml, line: 156
 msgid "World's Best Places to Visit"
 msgstr ""
@@ -15698,6 +15830,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 181
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 181
 # File: module/b2c/view/offers/holidays/index.phtml, line: 181
+# File: module/b2c/abc/holidays/index.phtml, line: 181
 # File: public/abc/offers/holidays/index.phtml, line: 181
 msgid "More than 56,000 travel destinations for you to choose from. White sandy beaches are a must-visit for many, with vibrant cities also on a lot of people's favorits. What is your favorite?"
 msgstr ""
@@ -15705,6 +15838,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/holidays/index.phtml, line: 258
 # File: module/b2c/costamar/offers/holidays/index.phtml, line: 258
 # File: module/b2c/view/offers/holidays/index.phtml, line: 258
+# File: module/b2c/abc/holidays/index.phtml, line: 258
 # File: public/abc/offers/holidays/index.phtml, line: 258
 msgid "more destinations"
 msgstr ""
@@ -15712,6 +15846,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 153
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 153
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 153
+# File: module/b2c/abc/lastminute/index.phtml, line: 153
 # File: public/abc/offers/lastminute/index.phtml, line: 153
 msgid "Problems viewing?"
 msgstr ""
@@ -15719,6 +15854,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 153
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 153
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 153
+# File: module/b2c/abc/lastminute/index.phtml, line: 153
 # File: public/abc/offers/lastminute/index.phtml, line: 153
 msgid "Click to view online"
 msgstr ""
@@ -15729,6 +15865,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8437
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 169
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8437
+# File: module/b2c/abc/lastminute/index.phtml, line: 169
+# File: module/b2c/abc/lastminute/index.phtml, line: 8437
 # File: public/abc/offers/lastminute/index.phtml, line: 169
 # File: public/abc/offers/lastminute/index.phtml, line: 8437
 msgid "To stop receiving these emails"
@@ -15740,6 +15878,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8437
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 169
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8437
+# File: module/b2c/abc/lastminute/index.phtml, line: 169
+# File: module/b2c/abc/lastminute/index.phtml, line: 8437
 # File: public/abc/offers/lastminute/index.phtml, line: 169
 # File: public/abc/offers/lastminute/index.phtml, line: 8437
 msgid "unsubscribe"
@@ -15757,6 +15897,10 @@ msgstr ""
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 315
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 487
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 528
+# File: module/b2c/abc/lastminute/index.phtml, line: 313
+# File: module/b2c/abc/lastminute/index.phtml, line: 315
+# File: module/b2c/abc/lastminute/index.phtml, line: 487
+# File: module/b2c/abc/lastminute/index.phtml, line: 528
 # File: public/abc/offers/lastminute/index.phtml, line: 313
 # File: public/abc/offers/lastminute/index.phtml, line: 315
 # File: public/abc/offers/lastminute/index.phtml, line: 487
@@ -15773,6 +15917,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/bookings/index.phtml, line: 613
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 591
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 591
+# File: module/b2c/abc/lastminute/index.phtml, line: 591
 # File: public/abc/offers/lastminute/index.phtml, line: 591
 msgid "Special Offers"
 msgstr ""
@@ -15780,6 +15925,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 1668
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 1668
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 1668
+# File: module/b2c/abc/lastminute/index.phtml, line: 1668
 # File: public/abc/offers/lastminute/index.phtml, line: 1668
 msgid "details"
 msgstr ""
@@ -15788,6 +15934,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8151
 # File: module/b2c/view/b2c/admin/contacts.phtml, line: 8
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8151
+# File: module/b2c/abc/lastminute/index.phtml, line: 8151
 # File: public/abc/offers/lastminute/index.phtml, line: 8151
 msgid "Contacts"
 msgstr ""
@@ -15796,6 +15943,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8293
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8293
+# File: module/b2c/abc/lastminute/index.phtml, line: 8293
 # File: public/abc/offers/lastminute/index.phtml, line: 8293
 msgid "LIVE"
 msgstr ""
@@ -15804,6 +15952,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/index/businesscard.phtml, line: 42
 # File: module/b2c/costamar/offers/lastminute/index.phtml, line: 8293
 # File: module/b2c/view/offers/lastminute/index.phtml, line: 8293
+# File: module/b2c/abc/lastminute/index.phtml, line: 8293
 # File: public/abc/offers/lastminute/index.phtml, line: 8293
 msgid "STREAM"
 msgstr ""
@@ -15814,6 +15963,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 184
 # File: module/b2c/view/offers/hotels/index.phtml, line: 46
 # File: module/b2c/view/offers/hotels/index.phtml, line: 184
+# File: module/b2c/abc/hotels/index.phtml, line: 46
+# File: module/b2c/abc/hotels/index.phtml, line: 184
 # File: public/abc/offers/hotels/index.phtml, line: 46
 # File: public/abc/offers/hotels/index.phtml, line: 184
 msgid "BEST OFFERS"
@@ -15825,6 +15976,8 @@ msgstr ""
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 184
 # File: module/b2c/view/offers/hotels/index.phtml, line: 47
 # File: module/b2c/view/offers/hotels/index.phtml, line: 184
+# File: module/b2c/abc/hotels/index.phtml, line: 47
+# File: module/b2c/abc/hotels/index.phtml, line: 184
 # File: public/abc/offers/hotels/index.phtml, line: 47
 # File: public/abc/offers/hotels/index.phtml, line: 184
 msgid "We offer you the widest range of tourist packages to the best destinations. This way, enjoying your vacation to the fullest will be your only occupation."
@@ -15833,6 +15986,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 48
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 48
 # File: module/b2c/view/offers/hotels/index.phtml, line: 48
+# File: module/b2c/abc/hotels/index.phtml, line: 48
 # File: public/abc/offers/hotels/index.phtml, line: 48
 msgid "We offer you the widest range of tourist packages to the best destinations."
 msgstr ""
@@ -15840,6 +15994,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 50
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 50
 # File: module/b2c/view/offers/hotels/index.phtml, line: 50
+# File: module/b2c/abc/hotels/index.phtml, line: 50
 # File: public/abc/offers/hotels/index.phtml, line: 50
 msgid "This way, enjoying your vacation to the fullest will be your only occupation."
 msgstr ""
@@ -15847,6 +16002,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 188
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 188
 # File: module/b2c/view/offers/hotels/index.phtml, line: 188
+# File: module/b2c/abc/hotels/index.phtml, line: 188
 # File: public/abc/offers/hotels/index.phtml, line: 188
 msgid "4-day getaway"
 msgstr ""
@@ -15854,6 +16010,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 292
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 292
 # File: module/b2c/view/offers/hotels/index.phtml, line: 292
+# File: module/b2c/abc/hotels/index.phtml, line: 292
 # File: public/abc/offers/hotels/index.phtml, line: 292
 msgid "Fast and secure booking"
 msgstr ""
@@ -15864,6 +16021,7 @@ msgstr ""
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 292
 # File: module/b2c/costamar/layout/layout2.phtml, line: 21
 # File: module/b2c/view/offers/hotels/index.phtml, line: 292
+# File: module/b2c/abc/hotels/index.phtml, line: 292
 # File: public/abc/offers/hotels/index.phtml, line: 292
 msgid "with"
 msgstr ""
@@ -15871,6 +16029,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 293
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 293
 # File: module/b2c/view/offers/hotels/index.phtml, line: 293
+# File: module/b2c/abc/hotels/index.phtml, line: 293
 # File: public/abc/offers/hotels/index.phtml, line: 293
 msgid "Best Rates"
 msgstr ""
@@ -15878,6 +16037,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 293
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 293
 # File: module/b2c/view/offers/hotels/index.phtml, line: 293
+# File: module/b2c/abc/hotels/index.phtml, line: 293
 # File: public/abc/offers/hotels/index.phtml, line: 293
 msgid "Wide Range of Choices"
 msgstr ""
@@ -15885,6 +16045,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 293
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 293
 # File: module/b2c/view/offers/hotels/index.phtml, line: 293
+# File: module/b2c/abc/hotels/index.phtml, line: 293
 # File: public/abc/offers/hotels/index.phtml, line: 293
 msgid "Several Payment Methods to Choose from"
 msgstr ""
@@ -15892,6 +16053,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 293
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 293
 # File: module/b2c/view/offers/hotels/index.phtml, line: 293
+# File: module/b2c/abc/hotels/index.phtml, line: 293
 # File: public/abc/offers/hotels/index.phtml, line: 293
 msgid "Incredible support with wide range of agents"
 msgstr ""
@@ -15899,6 +16061,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 294
 # File: module/b2c/costamar/offers/hotels/index.phtml, line: 294
 # File: module/b2c/view/offers/hotels/index.phtml, line: 294
+# File: module/b2c/abc/hotels/index.phtml, line: 294
 # File: public/abc/offers/hotels/index.phtml, line: 294
 msgid "just one click away"
 msgstr ""
@@ -15906,6 +16069,7 @@ msgstr ""
 # File: module/b2c/ebc/offers/letter/index.phtml, line: 204
 # File: module/b2c/costamar/offers/letter/index.phtml, line: 204
 # File: module/b2c/view/offers/letter/index.phtml, line: 204
+# File: module/b2c/abc/letter/index.phtml, line: 204
 # File: public/abc/offers/letter/index.phtml, line: 204
 msgid "Click to access your Personalized Website:"
 msgstr ""
