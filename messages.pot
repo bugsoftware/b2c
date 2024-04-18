@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 13:12+0100\n"
+"POT-Creation-Date: 2024-04-18 17:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -228,9 +228,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/details.phtml, line: 135
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 300
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 74
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 103
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 241
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 288
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 103
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 372
 # File: module/b2c/costamar/layout/layout.phtml, line: 278
 # File: module/b2c/costamar/layout/layout.phtml, line: 296
@@ -377,10 +377,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 271
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 284
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 72
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 109
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 241
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 289
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 410
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 109
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 378
 # File: module/b2c/costamar/layout/layout.phtml, line: 278
 # File: module/b2c/costamar/layout/layout.phtml, line: 296
@@ -482,9 +482,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 128
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 94
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 73
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 107
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 289
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 409
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 107
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 85
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 376
 # File: module/b2c/costamar/layout/layout.phtml, line: 278
@@ -3371,8 +3371,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 197
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 310
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 315
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 182
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 725
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 182
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 271
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 280
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 301
@@ -7339,8 +7339,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 85
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 111
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 75
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 90
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 724
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 90
 # File: module/b2c/costamar/layout/layout.phtml, line: 276
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 106
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
@@ -8623,8 +8623,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 873
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 180
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 307
-# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 165
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 179
+# File: module/b2c/costamar/b2c/hotels/book.phtml, line: 165
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 262
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 276
 # File: module/b2c/view/b2c/activities/checkout.phtml, line: 449
@@ -16332,6 +16332,38 @@ msgstr ""
 msgid "In order to complete your reservation you must submit your payment. Press the Pay Now icon if you aren't automatically redirected in 5 seconds."
 msgstr ""
 #
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 4
+msgid "Enter your details"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 7
+msgid "Please enter your details."
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 53
+msgid "Login with your social media account"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 56
+msgid "Sign in with Costamar"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 58
+msgid "Sign in with Facebook"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 59
+msgid "Sign in with Twitter"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 60
+msgid "Sign in with Google"
+msgstr ""
+#
+# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 192
+msgid "Document Number Saved Successful"
+msgstr ""
+#
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 73
 msgid "You can pay from your internet banking to pay for your reservation"
 msgstr ""
@@ -16430,38 +16462,6 @@ msgstr ""
 # File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 171
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 37
 msgid "Security code (CVV2/CVC2)"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 4
-msgid "Enter your details"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 7
-msgid "Please enter your details."
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 53
-msgid "Login with your social media account"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 56
-msgid "Sign in with Costamar"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 58
-msgid "Sign in with Facebook"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 59
-msgid "Sign in with Twitter"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 60
-msgid "Sign in with Google"
-msgstr ""
-#
-# File: module/b2c/costamar/b2c/shared/customers.phtml, line: 192
-msgid "Document Number Saved Successful"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/insurances/details.phtml, line: 35
