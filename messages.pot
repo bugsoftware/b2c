@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-18 17:07+0100\n"
+"POT-Creation-Date: 2024-04-22 17:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -263,7 +263,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 212
 # File: module/b2c/view/b2c/packages/package.phtml, line: 236
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 68
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 119
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 64
@@ -271,6 +270,7 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 196
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 75
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 282
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 119
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 104
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 544
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 32
@@ -412,7 +412,6 @@ msgstr ""
 # File: module/b2c/view/b2c/air/search.phtml, line: 214
 # File: module/b2c/view/b2c/packages/package.phtml, line: 237
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 71
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 125
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 65
@@ -421,6 +420,7 @@ msgstr ""
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 76
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 283
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 480
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 125
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 189
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 134
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 143
@@ -502,12 +502,12 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 203
 # File: module/b2c/view/b2c/air/multisearch.phtml, line: 396
 # File: module/b2c/view/b2c/air/search.phtml, line: 213
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 123
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 73
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 85
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 205
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 84
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 291
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 123
 # File: module/b2c/view/b2c/search.phtml, line: 65
 # File: module/b2c/view/b2c/search.phtml, line: 184
 # File: module/b2c/view/b2c/booking/view.phtml, line: 339
@@ -3405,11 +3405,11 @@ msgstr ""
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 34
 # File: module/b2c/view/b2c/packages/book.phtml, line: 68
 # File: module/b2c/view/b2c/packages/confirm.phtml, line: 146
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 192
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 410
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 414
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 419
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 423
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 192
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 117
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 295
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 570
@@ -3812,9 +3812,9 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 281
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 209
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 194
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 204
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 271
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 489
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 204
 msgid "Guests"
 msgstr ""
 #
@@ -4775,6 +4775,7 @@ msgstr ""
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 66
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 104
 # File: module/b2c/view/b2c/shared/bookpayments.phtml, line: 185
+# File: module/b2c/view/b2c/shared/travelpayment.phtml, line: 46
 # File: module/b2c/view/b2c/hotels/book.phtml, line: 72
 # File: module/b2c/view/b2c/booking/view.phtml, line: 88
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 22
@@ -7342,11 +7343,11 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 724
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 90
 # File: module/b2c/costamar/layout/layout.phtml, line: 276
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 106
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 87
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1155
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1157
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 106
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 101
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 29
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 321
@@ -8183,11 +8184,11 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 221
 # File: module/b2c/view/b2c/cruises/info.phtml, line: 56
 # File: module/b2c/view/b2c/air/book.phtml, line: 138
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 146
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 304
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 308
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 325
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 329
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 146
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 161
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 197
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 221
@@ -8433,8 +8434,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 384
 # File: module/b2c/view/b2c/cars/confirm.phtml, line: 128
 # File: module/b2c/view/b2c/cruises/confirm.phtml, line: 109
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 132
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 206
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 132
 # File: module/b2c/view/b2c/booking/view.phtml, line: 347
 # File: module/b2c/view/b2c/booking/cancel.phtml, line: 221
 # File: module/b2c/view/b2c/transfers/confirm.phtml, line: 111
@@ -8639,9 +8640,9 @@ msgstr ""
 # File: module/b2c/view/b2c/air/confirm.phtml, line: 239
 # File: module/b2c/view/b2c/air/search.phtml, line: 224
 # File: module/b2c/view/b2c/bookings/mybookings.phtml, line: 30
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 175
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 361
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 365
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 175
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 289
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 206
 msgid "Discount"
@@ -9006,10 +9007,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 372
 # File: module/b2c/costamar/layout/layout.phtml, line: 277
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 115
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 104
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 119
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 104
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 119
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 97
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 104
 # File: module/b2c/view/b2c/dynamic-packaging/cars.phtml, line: 544
@@ -13736,10 +13737,10 @@ msgstr ""
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 363
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 372
 # File: module/b2c/costamar/layout/layout.phtml, line: 277
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 104
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 119
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 292
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 296
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 104
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 119
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 97
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 104
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 240
@@ -13757,8 +13758,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/cart/confirm.phtml, line: 182
 # File: module/b2c/costamar/b2c/packages/confirmintel.phtml, line: 111
 # File: module/b2c/costamar/b2c/hotels/book.phtml, line: 90
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 106
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 289
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 106
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 101
 # File: module/b2c/view/b2c/dynamic-packaging/basket.phtml, line: 29
 # File: module/b2c/view/b2c/dynamic-packaging/activities.phtml, line: 327
@@ -21206,18 +21207,6 @@ msgstr ""
 msgid "Vacation Packages"
 msgstr ""
 #
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 72
-msgid "Pay over time with Rocket Fuel"
-msgstr ""
-#
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 72
-msgid "In order to complete your reservation you must submit your payment. Press the Pay with Rocket Fuel icon if you aren't automatically redirected in 5 seconds."
-msgstr ""
-#
-# File: module/b2c/view/b2c/hotels/book.phtml, line: 73
-msgid "Pay with Rocket Fuel"
-msgstr ""
-#
 # File: module/b2c/view/b2c/hotels/confirm.phtml, line: 26
 msgid "Hotel Room is SOLD OUT"
 msgstr ""
@@ -21417,6 +21406,18 @@ msgstr ""
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 260
 # File: module/b2c/view/b2c/dynamic-packaging/hotel.phtml, line: 277
 msgid "Price:"
+msgstr ""
+#
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 72
+msgid "Pay over time with Rocket Fuel"
+msgstr ""
+#
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 72
+msgid "In order to complete your reservation you must submit your payment. Press the Pay with Rocket Fuel icon if you aren't automatically redirected in 5 seconds."
+msgstr ""
+#
+# File: module/b2c/view/b2c/hotels/book.phtml, line: 73
+msgid "Pay with Rocket Fuel"
 msgstr ""
 #
 # File: module/b2c/view/b2c/dynamic-packaging/book.phtml, line: 58
