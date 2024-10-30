@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-19 10:10+0100\n"
+"POT-Creation-Date: 2024-10-30 11:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -464,7 +464,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 40
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 253
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1043
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1596
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1598
 # File: module/b2c/ebc/b2c/hotels/book.phtml, line: 85
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 172
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 455
@@ -542,7 +542,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 39
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 40
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 253
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1596
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1598
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 172
 # File: module/b2c/costamar/b2c/activities/results.phtml, line: 19
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 421
@@ -825,7 +825,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 20
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 21
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 109
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1619
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1621
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 107
 # File: module/b2c/view/b2c/activities/activity.phtml, line: 489
 # File: module/b2c/view/b2c/packages/package.phtml, line: 290
@@ -1218,7 +1218,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 386
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1365
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 350
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1051
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1052
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 217
 # File: module/b2c/ebc/offers/hotels/index.phtml, line: 265
 # File: module/b2c/costamar/b2c/destinations/destination.phtml, line: 297
@@ -3433,7 +3433,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 610
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 714
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 808
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1168
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1170
 # File: module/b2c/ebc/offers/lastminute/index.phtml, line: 639
 # File: module/b2c/costamar/b2c/insurances/details.phtml, line: 70
 # File: module/b2c/costamar/b2c/destinations/index.phtml, line: 291
@@ -4659,12 +4659,12 @@ msgstr ""
 # File: module/b2c/ebc/b2c/bookings/index.phtml, line: 243
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1697
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 1711
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1612
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1677
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1683
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1687
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1691
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1695
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1614
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1679
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1685
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1689
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1693
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1697
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 955
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 957
 # File: module/b2c/ebc/b2c/hotels/confirm.phtml, line: 964
@@ -5009,7 +5009,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/insurance.phtml, line: 15
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 737
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1668
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1670
 msgid "trip"
 msgstr ""
 #
@@ -7563,35 +7563,35 @@ msgid "Free WiFi"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 323
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1618
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1620
 msgid "Staff"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 325
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 696
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 110
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1620
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1622
 msgid "Cleanliness"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 326
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 697
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 111
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1621
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1623
 msgid "Comfort"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 327
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 698
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 112
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1622
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1624
 msgid "Condition"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 328
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 700
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 113
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1623
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1625
 msgid "Neighborhood"
 msgstr ""
 #
@@ -7600,7 +7600,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/calendar.phtml, line: 147
 # File: module/b2c/ebc/b2c/air/search_2.phtml, line: 146
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 114
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1624
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1626
 # File: module/b2c/ebc/b2c/hotels/brands.phtml, line: 193
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 438
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 204
@@ -7612,14 +7612,14 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 331
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 703
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 116
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1626
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1628
 msgid "Quality"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 334
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 706
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 119
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1629
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1631
 # File: module/b2c/view/b2c/admin/advancedsettings.phtml, line: 13
 # File: module/b2c/view/b2c/admin/content.phtml, line: 13
 # File: module/b2c/view/b2c/admin/content_add.phtml, line: 18
@@ -7697,13 +7697,13 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 418
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 227
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1695
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1697
 msgid "Optional Fees"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 419
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 224
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1683
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1685
 msgid "Checkin Instructions"
 msgstr ""
 #
@@ -7772,15 +7772,15 @@ msgid "Input city or airport name"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 687
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1612
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1614
 msgid "Customers review"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 692
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 107
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 135
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1616
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1635
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1618
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1637
 msgid "Overall"
 msgstr ""
 #
@@ -7992,7 +7992,7 @@ msgid "Adult"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1388
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1074
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1076
 # File: module/b2c/costamar/b2c/shared/customers.phtml, line: 52
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 145
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 157
@@ -8006,10 +8006,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 357
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 396
 # File: module/b2c/ebc/b2c/air/confirm.phtml, line: 60
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1078
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1090
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1102
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1114
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1080
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1092
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1104
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1116
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 182
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 185
 # File: module/b2c/costamar/b2c/hotels/confirm.phtml, line: 319
@@ -8018,7 +8018,7 @@ msgid "and"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1394
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1080
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1082
 msgid "Single"
 msgstr ""
 #
@@ -8026,10 +8026,10 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1408
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1420
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1432
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1082
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1094
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1106
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1118
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1084
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1096
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1108
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1120
 msgid "bed"
 msgstr ""
 #
@@ -8037,49 +8037,49 @@ msgstr ""
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1410
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1422
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1434
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1084
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1096
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1108
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1120
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1086
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1098
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1110
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1122
 msgid "beds"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1406
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1092
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1094
 msgid "Double"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1418
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1104
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1106
 msgid "King"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1430
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1116
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1118
 msgid "Queen"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1444
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1137
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1143
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1149
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1155
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1161
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1164
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1139
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1145
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1151
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1157
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1163
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1166
 msgid "Savings:"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1445
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 597
 # File: module/b2c/ebc/b2c/hotels/search.phtml, line: 599
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1166
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1168
 msgid "Total with taxes"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1448
 # File: module/b2c/ebc/b2c/air/search.old.phtml, line: 268
 # File: module/b2c/ebc/b2c/air/search.phtml, line: 307
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1169
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1171
 # File: module/b2c/costamar/b2c/activities/details.phtml, line: 234
 # File: module/b2c/costamar/b2c/activities/activity.phtml, line: 228
 # File: module/b2c/costamar/b2c/air/search.phtml, line: 884
@@ -8089,7 +8089,7 @@ msgid "Add to Cart"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/destinations/hotel.phtml, line: 1480
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1201
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1203
 # File: module/b2c/costamar/b2c/hotels/view.phtml, line: 538
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1092
 msgid "Your dates are popular - we've run out of rooms at this property!"
@@ -13594,12 +13594,12 @@ msgid "POSITIVE REVIEWS"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 225
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1687
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1689
 msgid "Checkin Special Instructions"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/hotels/view.phtml, line: 226
-# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1691
+# File: module/b2c/ebc/b2c/hotels/view.phtml, line: 1693
 msgid "Fees"
 msgstr ""
 #
