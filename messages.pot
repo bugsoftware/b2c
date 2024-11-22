@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-20 08:10+0000\n"
+"POT-Creation-Date: 2024-11-22 11:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4765,8 +4765,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/shared/bookpayments.phtml, line: 75
 # File: module/b2c/costamar/b2c/shared/bookpayments.phtml, line: 113
 # File: module/b2c/costamar/b2c/shared/bookpayments.phtml, line: 192
-# File: module/b2c/costamar/b2c/shared/mercadopago.phtml, line: 46
 # File: module/b2c/costamar/b2c/shared/paypal.phtml, line: 50
+# File: module/b2c/costamar/b2c/shared/mercadopago.phtml, line: 46
 # File: module/b2c/costamar/b2c/cart/cart.phtml, line: 12
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 99
 # File: module/b2c/view/b2c/shared/affirm.phtml, line: 1
@@ -4831,7 +4831,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/checkout.phtml, line: 322
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 63
 # File: module/b2c/ebc/b2c/transfers/confirm.phtml, line: 367
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 186
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 193
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 74
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 34
 # File: module/b2c/view/b2c/booking/view.phtml, line: 71
@@ -4873,7 +4873,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 35
 # File: module/b2c/ebc/b2c/cars/confirm.phtml, line: 193
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 188
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 195
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 36
 msgid "mm/yy"
 msgstr ""
@@ -4953,7 +4953,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/cruises/confirm.phtml, line: 154
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 134
 # File: module/b2c/costamar/b2c/activities/checkout.phtml, line: 128
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 685
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 692
 # File: module/b2c/costamar/b2c/cart/checkout.phtml, line: 290
 # File: module/b2c/costamar/b2c/air/confirm.phtml, line: 190
 # File: module/b2c/costamar/b2c/packages/bookintel.phtml, line: 190
@@ -4976,7 +4976,7 @@ msgid "COMPLETE BOOKING"
 msgstr ""
 #
 # File: module/b2c/ebc/b2c/shared/paymentmethods.phtml, line: 550
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 744
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 751
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 778
 msgid "PLEASE WAIT..."
 msgstr ""
@@ -14270,7 +14270,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 428
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 982
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 170
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 177
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 312
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 871
 msgid "Please enter credit card details."
@@ -14278,7 +14278,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 431
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1054
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 187
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 194
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 314
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 914
 msgid "Enter your cardholder's name as it appears on card"
@@ -14300,7 +14300,7 @@ msgstr ""
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 440
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1062
 # File: module/b2c/costamar/b2c/shared/coupons.phtml, line: 9
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 186
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 193
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 318
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 918
 msgid "Enter your credit card number's as it appears on card"
@@ -14308,7 +14308,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 446
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1070
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 188
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 195
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 320
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 923
 msgid "Enter credit card's expiration month and year"
@@ -14330,7 +14330,7 @@ msgstr ""
 #
 # File: module/b2c/ebc/b2c/booking/paynow.phtml, line: 453
 # File: module/b2c/ebc/b2c/booking/view.phtml, line: 1077
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 189
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 196
 # File: module/b2c/costamar/b2c/booking/paynow.phtml, line: 321
 # File: module/b2c/costamar/b2c/booking/view.phtml, line: 926
 msgid "A Mastercard or VISA credit card verification code is a three-digit number located on the back of the card, at the end of the signature space. American Express 4-digit security code is located on the front of your card."
@@ -16279,7 +16279,7 @@ msgid "Do you have a Coupon/Promotion Code?"
 msgstr ""
 #
 # File: module/b2c/costamar/b2c/shared/coupons.phtml, line: 9
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 186
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 193
 msgid "Enter your card number"
 msgstr ""
 #
@@ -16384,17 +16384,17 @@ msgstr ""
 msgid "Tarifa exclusiva pagando con su tarjeta interbank "
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 137
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 144
 msgid "Cash Payments/Online banking"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 162
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 163
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 169
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 170
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 22
 msgid "Book Now and Pay Later"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 176
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 183
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 6
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 7
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 15
@@ -16403,21 +16403,21 @@ msgstr ""
 msgid "Visa"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 177
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 184
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 6
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 7
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 15
 msgid "MasterCard"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 178
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 185
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 6
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 7
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 15
 msgid "American Express"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 179
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 186
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 6
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 7
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 15
@@ -16426,40 +16426,40 @@ msgstr ""
 msgid "Discover"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 180
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 187
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 6
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 7
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 15
 msgid "Diners Club"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 181
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 188
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 6
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 7
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 15
 msgid "Maestro"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 182
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 189
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 29
 msgid "Credit Card information"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 187
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 194
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 35
 msgid "Name on Card"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 187
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 189
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 194
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 196
 msgid "Cardholder's name  as it appears on card"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 188
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 195
 msgid "Expiration Date"
 msgstr ""
 #
-# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 189
+# File: module/b2c/costamar/b2c/shared/paymentmethods.phtml, line: 196
 # File: module/b2c/view/b2c/shared/paymentmethods.phtml, line: 37
 msgid "Security code (CVV2/CVC2)"
 msgstr ""
