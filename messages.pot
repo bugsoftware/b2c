@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-16 14:46+0000\n"
+"POT-Creation-Date: 2025-06-19 12:32-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8243,7 +8243,7 @@ msgstr ""
 # File: module/b2c/view/b2c/cruises/cabins.phtml, line: 100
 # File: module/b2c/view/b2c/cruises/cabin.phtml, line: 52
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 253
-# File: module/b2c/view/b2c/hotels/list.phtml, line: 466
+# File: module/b2c/view/b2c/hotels/list.phtml, line: 467
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 1160
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 53
 # File: module/b2c/view/b2c/dynamic-packaging/dynamicpackage.phtml, line: 197
@@ -13372,7 +13372,7 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 73
 # File: module/b2c/costamar/b2c/hotels/list.phtml, line: 151
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 197
-# File: module/b2c/view/b2c/hotels/list.phtml, line: 237
+# File: module/b2c/view/b2c/hotels/list.phtml, line: 238
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 296
 msgid "Hotels in"
 msgstr ""
@@ -13638,7 +13638,7 @@ msgstr ""
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 36
 # File: module/b2c/view/b2c/index/index_searchbox_hotels.phtml, line: 54
 # File: module/b2c/view/b2c/hotels/list.phtml, line: 89
-# File: module/b2c/view/b2c/hotels/list.phtml, line: 486
+# File: module/b2c/view/b2c/hotels/list.phtml, line: 488
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 27
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 216
 # File: module/b2c/view/b2c/hotels/view.phtml, line: 100
@@ -17369,7 +17369,7 @@ msgstr ""
 #
 # File: module/b2c/costamar/b2c/air/airline.phtml, line: 42
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 95
-# File: module/b2c/view/b2c/hotels/list.phtml, line: 449
+# File: module/b2c/view/b2c/hotels/list.phtml, line: 450
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 111
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 301
 # File: module/b2c/view/b2c/search.phtml, line: 87
@@ -18074,8 +18074,8 @@ msgstr ""
 # File: module/b2c/costamar/b2c/hotels/search.phtml, line: 96
 # File: module/b2c/view/b2c/cruises/cruiselines.phtml, line: 153
 # File: module/b2c/view/b2c/cruises/search.phtml, line: 179
-# File: module/b2c/view/b2c/hotels/list.phtml, line: 277
-# File: module/b2c/view/b2c/hotels/list.phtml, line: 449
+# File: module/b2c/view/b2c/hotels/list.phtml, line: 278
+# File: module/b2c/view/b2c/hotels/list.phtml, line: 450
 # File: module/b2c/view/b2c/hotels/search.phtml, line: 112
 # File: module/b2c/view/b2c/dynamic-packaging/hotelsandair.phtml, line: 318
 # File: module/b2c/view/b2c/dynamic-packaging/hotels.phtml, line: 372
